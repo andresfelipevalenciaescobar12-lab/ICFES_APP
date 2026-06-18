@@ -1,0 +1,3052 @@
+[
+  {
+    "id": "SC-0001",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Resolución de conflictos",
+    "subtema": "Mediación escolar",
+    "competencia": "Resolución pacífica de conflictos",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 43,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dos estudiantes discuten porque ambos dicen haber reservado el mismo computador de la biblioteca para preparar una exposición. La bibliotecaria revisa el registro y encuentra que uno lo reservó primero, pero el otro necesita entregar un trabajo ese mismo día. Antes de decidir, propone escuchar a ambos y buscar una solución que respete el turno sin ignorar la urgencia del segundo estudiante.",
+    "pregunta": "¿Cuál acción corresponde mejor a una estrategia de resolución pacífica del conflicto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Escuchar a las partes, revisar la información disponible y acordar una alternativa viable."
+      },
+      {
+        "letra": "B",
+        "texto": "Entregar el computador al estudiante que hable más fuerte."
+      },
+      {
+        "letra": "C",
+        "texto": "Cancelar el uso del computador para ambos sin escuchar argumentos."
+      },
+      {
+        "letra": "D",
+        "texto": "Permitir que los estudiantes resuelvan el problema mediante presión entre compañeros."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La resolución pacífica implica escuchar a las partes, reconocer derechos o acuerdos previos y buscar una salida proporcional. En el caso, respetar el registro y considerar la urgencia permite una solución dialogada, no arbitraria.",
+    "diagnostico_por_error": {
+      "A": "Correcta: integra escucha, evidencia y acuerdo.",
+      "B": "Confunde resolución con imposición por fuerza o presión.",
+      "C": "Evita el conflicto, pero no lo resuelve de manera justa.",
+      "D": "Normaliza presión social y puede aumentar el conflicto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Mediación, diálogo y acuerdos",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar intereses y derechos de cada parte.",
+        "Distinguir mediación de imposición.",
+        "Practicar análisis de conflictos escolares con soluciones proporcionales."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar conflictos",
+      "Elegir soluciones dialogadas"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0002",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Resolución de conflictos",
+    "subtema": "Intereses y posiciones",
+    "competencia": "Análisis de conflictos sociales",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 61,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un barrio, algunos vecinos quieren usar una cancha para entrenamientos deportivos todas las tardes. Otros piden reservarla algunos días para actividades culturales de niños y adultos mayores. En una reunión, se observa que ambos grupos no rechazan la actividad del otro, sino que temen quedarse sin espacios comunitarios.",
+    "pregunta": "¿Cuál alternativa atiende mejor los intereses de ambas partes?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Crear un horario compartido que reserve días para deporte y días para actividades culturales."
+      },
+      {
+        "letra": "B",
+        "texto": "Asignar la cancha solo al grupo más numeroso."
+      },
+      {
+        "letra": "C",
+        "texto": "Cerrar la cancha para evitar discusiones futuras."
+      },
+      {
+        "letra": "D",
+        "texto": "Permitir que cada grupo use la cancha cuando llegue primero, sin reglas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El conflicto no se basa en rechazo mutuo, sino en acceso al recurso. Un horario compartido reconoce intereses de ambos grupos y reduce la competencia desordenada por el espacio.",
+    "diagnostico_por_error": {
+      "A": "Correcta: transforma posiciones opuestas en una solución de distribución.",
+      "B": "Desconoce derechos e intereses de la minoría.",
+      "C": "Elimina el recurso comunitario en vez de gestionarlo.",
+      "D": "Puede aumentar tensiones al no establecer criterios claros."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Diferencia entre posiciones e intereses",
+      "prioridad": "Alta",
+      "acciones": [
+        "Distinguir lo que cada parte pide de lo que realmente necesita.",
+        "Buscar soluciones que distribuyan recursos escasos.",
+        "Evaluar si una medida incluye o excluye a grupos afectados."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar intereses",
+      "Proponer acuerdos incluyentes"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0003",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Resolución de conflictos",
+    "subtema": "Escalada del conflicto",
+    "competencia": "Evaluación de alternativas de convivencia",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 76,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un grupo de trabajo, una estudiante no entregó su parte a tiempo. Dos compañeros proponen excluirla del grupo sin hablar con ella. Otro compañero sugiere preguntarle qué ocurrió, revisar si hubo una dificultad real y redistribuir tareas con un plazo claro para evitar afectar la entrega final.",
+    "pregunta": "¿Por qué la propuesta del tercer compañero es más adecuada desde una perspectiva ciudadana?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque combina responsabilidad, escucha y búsqueda de una solución que proteja el trabajo común."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque elimina toda consecuencia para quien incumplió."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque impide que el grupo complete la entrega."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque supone que las normas del grupo no deben existir."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La propuesta no justifica el incumplimiento, pero evita una sanción inmediata sin escuchar. Además, establece un plazo y redistribuye tareas, lo que protege tanto la convivencia como el objetivo colectivo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce equilibrio entre diálogo y responsabilidad.",
+      "B": "Ignora que la propuesta incluye plazo y redistribución.",
+      "C": "Contradice el propósito de proteger la entrega final.",
+      "D": "Confunde revisión del caso con ausencia de normas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Responsabilidad, escucha y reparación",
+      "prioridad": "Alta",
+      "acciones": [
+        "Analizar si una solución considera hechos antes de sancionar.",
+        "Distinguir diálogo de permisividad.",
+        "Evaluar efectos de cada alternativa sobre el grupo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar alternativas",
+      "Balancear derechos y deberes"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0004",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Participación democrática",
+    "subtema": "Representación estudiantil",
+    "competencia": "Participación democrática",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 57,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El personero estudiantil propone consultar a los cursos antes de llevar una solicitud al consejo directivo. Algunos estudiantes dicen que no vale la pena porque el personero ya fue elegido y puede decidir por todos. Otros sostienen que, aunque fue elegido, debe recoger inquietudes para representar mejor a sus compañeros.",
+    "pregunta": "¿Cuál afirmación expresa mejor el sentido democrático de la representación?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Un representante elegido debe mantener canales de consulta con quienes representa."
+      },
+      {
+        "letra": "B",
+        "texto": "Después de ser elegido, un representante puede ignorar todas las opiniones del grupo."
+      },
+      {
+        "letra": "C",
+        "texto": "La representación elimina la necesidad de rendir cuentas."
+      },
+      {
+        "letra": "D",
+        "texto": "Solo pueden participar quienes votaron por el representante ganador."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La representación democrática no significa sustituir por completo la voz de la comunidad. Implica consultar, informar y rendir cuentas para que las decisiones reflejen intereses colectivos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona representación con consulta y rendición de cuentas.",
+      "B": "Confunde elección con autorización ilimitada.",
+      "C": "Desconoce la responsabilidad pública del representante.",
+      "D": "Excluye injustificadamente a parte de la comunidad."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Representación, consulta y rendición de cuentas",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar funciones de representantes estudiantiles.",
+        "Diferenciar representación de decisión individual sin control.",
+        "Analizar casos de participación antes y después de elecciones."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Comprender representación",
+      "Valorar participación"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0005",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Participación democrática",
+    "subtema": "Deliberación",
+    "competencia": "Argumentación ciudadana",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 79,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un colegio debe decidir si cambia el horario de entrada. Un grupo pide votar de inmediato. Otro propone primero escuchar argumentos de estudiantes, familias, docentes y rutas escolares, porque la decisión afecta transporte, alimentación y tiempo de descanso.",
+    "pregunta": "¿Qué ventaja tiene deliberar antes de votar?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Permite considerar consecuencias y perspectivas diversas antes de tomar una decisión colectiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Garantiza que todos voten exactamente igual."
+      },
+      {
+        "letra": "C",
+        "texto": "Impide que se tome cualquier decisión."
+      },
+      {
+        "letra": "D",
+        "texto": "Reemplaza la participación por una orden de las directivas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La deliberación democrática mejora la calidad de la decisión porque permite escuchar razones, anticipar efectos y reconocer a los grupos afectados antes de votar.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica el valor de la deliberación.",
+      "B": "Deliberar no busca uniformidad, sino decisión informada.",
+      "C": "Deliberar puede demorar, pero no necesariamente bloquea decidir.",
+      "D": "La deliberación amplía la participación, no la sustituye."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Deliberación democrática",
+      "prioridad": "Alta",
+      "acciones": [
+        "Diferenciar votar de deliberar.",
+        "Identificar actores afectados por una decisión.",
+        "Evaluar consecuencias antes de elegir una alternativa."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar decisiones colectivas",
+      "Reconocer valor de la deliberación"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0006",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Participación democrática",
+    "subtema": "Decisión colectiva informada",
+    "competencia": "Participación democrática",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 88,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una comunidad debe decidir si destina un lote público a parque, biblioteca o zona de comercio. En una encuesta inicial gana la zona de comercio por pocos votos. Luego se descubre que la encuesta no llegó a los adultos mayores ni a estudiantes que usan el lote como paso seguro hacia el colegio. Además, no se explicó que el uso comercial reduciría el espacio verde disponible.",
+    "pregunta": "¿Cuál sería el procedimiento más democrático antes de tomar una decisión definitiva?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Reabrir la consulta con información completa e incluir a los grupos afectados que no participaron."
+      },
+      {
+        "letra": "B",
+        "texto": "Aprobar inmediatamente la opción ganadora porque obtuvo más votos iniciales."
+      },
+      {
+        "letra": "C",
+        "texto": "Cancelar cualquier consulta y dejar que decida un solo comerciante."
+      },
+      {
+        "letra": "D",
+        "texto": "Excluir a quienes no participaron al inicio aunque no hayan recibido información."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Una decisión democrática requiere participación informada e inclusión de los afectados. Si la consulta fue incompleta y excluyó grupos relevantes, lo adecuado es corregir el proceso antes de decidir.",
+    "diagnostico_por_error": {
+      "A": "Correcta: prioriza inclusión e información suficiente.",
+      "B": "Reduce la democracia a conteo inicial sin calidad del proceso.",
+      "C": "Elimina la participación comunitaria.",
+      "D": "Castiga a grupos excluidos por fallas del proceso."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Participación informada e inclusión",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Evaluar si todos los afectados participaron.",
+        "Revisar si la información entregada fue completa.",
+        "Distinguir mayoría numérica de legitimidad democrática."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar legitimidad democrática",
+      "Analizar inclusión en decisiones públicas"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0007",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Derechos y deberes",
+    "subtema": "Derecho a la educación y corresponsabilidad",
+    "competencia": "Comprensión de derechos y deberes",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 60,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un estudiante afirma que, como tiene derecho a la educación, no debe cumplir horarios ni entregar actividades. Su docente responde que los derechos no eliminan los deberes necesarios para garantizar el aprendizaje propio y el de los demás.",
+    "pregunta": "¿Cuál afirmación interpreta mejor la relación entre derechos y deberes?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El derecho a la educación se acompaña de deberes que permiten la convivencia y el aprendizaje."
+      },
+      {
+        "letra": "B",
+        "texto": "Tener derechos significa no cumplir ninguna norma."
+      },
+      {
+        "letra": "C",
+        "texto": "Los deberes eliminan todos los derechos."
+      },
+      {
+        "letra": "D",
+        "texto": "La educación es un privilegio que solo recibe quien no comete errores."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los derechos protegen condiciones fundamentales, pero su ejercicio ocurre en comunidad. Por eso existen deberes razonables que permiten respetar a otros y garantizar el proceso educativo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: comprende la relación complementaria entre derechos y deberes.",
+      "B": "Confunde derechos con ausencia de responsabilidad.",
+      "C": "Presenta derechos y deberes como excluyentes.",
+      "D": "Desconoce el carácter general del derecho a la educación."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Relación entre derechos, deberes y convivencia",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar ejemplos de derechos con deberes asociados.",
+        "Diferenciar sanción pedagógica de negación de derechos.",
+        "Analizar normas escolares desde su finalidad."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Relacionar derechos y deberes",
+      "Analizar convivencia escolar"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0008",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Derechos y deberes",
+    "subtema": "Libertad de expresión y respeto",
+    "competencia": "Análisis de situaciones ciudadanas",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 74,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un foro escolar, un estudiante critica una norma del manual de convivencia. Lo hace con argumentos y sin insultar. Otro estudiante pide que se le sancione porque “criticar al colegio es faltar al respeto”.",
+    "pregunta": "¿Cuál análisis es más adecuado?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Criticar una norma con argumentos hace parte de la libertad de expresión y puede mejorar la convivencia."
+      },
+      {
+        "letra": "B",
+        "texto": "Toda crítica institucional debe sancionarse aunque sea respetuosa."
+      },
+      {
+        "letra": "C",
+        "texto": "La libertad de expresión permite insultar a cualquier persona."
+      },
+      {
+        "letra": "D",
+        "texto": "Solo las directivas pueden opinar sobre normas escolares."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La libertad de expresión protege la crítica argumentada, especialmente sobre asuntos comunes. Sus límites incluyen respeto por otros derechos, pero en el caso no hay insultos ni ataques personales.",
+    "diagnostico_por_error": {
+      "A": "Correcta: distingue crítica respetuosa de irrespeto.",
+      "B": "Confunde desacuerdo con falta disciplinaria.",
+      "C": "Ignora límites de la libertad de expresión.",
+      "D": "Excluye la participación estudiantil."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Libertad de expresión y límites",
+      "prioridad": "Alta",
+      "acciones": [
+        "Distinguir crítica de agresión.",
+        "Analizar el papel de los argumentos en la participación.",
+        "Estudiar límites razonables de derechos en convivencia."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar ejercicio de derechos",
+      "Distinguir crítica y agresión"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0009",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Derechos y deberes",
+    "subtema": "Conflicto entre derechos",
+    "competencia": "Argumentación ciudadana",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 90,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un grupo quiere usar parlantes a alto volumen en el descanso porque considera que tiene derecho a la recreación. Otro grupo pide bajar el volumen porque necesita descansar y algunos estudiantes son sensibles al ruido. La coordinación debe decidir una regla para todos.",
+    "pregunta": "¿Cuál regla equilibra mejor los derechos en conflicto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Permitir música en horarios y zonas definidas, con límites de volumen."
+      },
+      {
+        "letra": "B",
+        "texto": "Permitir volumen máximo en todo momento porque recrearse es un derecho."
+      },
+      {
+        "letra": "C",
+        "texto": "Prohibir cualquier forma de recreación durante los descansos."
+      },
+      {
+        "letra": "D",
+        "texto": "Dejar que cada grupo imponga su preferencia sin reglas comunes."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Cuando hay derechos en tensión, una regla proporcional busca permitir el ejercicio de ambos en la mayor medida posible. Zonas, horarios y volumen limitan afectaciones sin prohibir la recreación.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica proporcionalidad y equilibrio.",
+      "B": "Desconoce el descanso y bienestar de otros.",
+      "C": "Restringe excesivamente la recreación.",
+      "D": "Puede intensificar el conflicto por ausencia de criterios."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Equilibrio y proporcionalidad entre derechos",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Identificar los derechos de cada grupo.",
+        "Evaluar restricciones proporcionales.",
+        "Evitar soluciones absolutas que eliminan un derecho."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Resolver tensiones entre derechos",
+      "Aplicar proporcionalidad"
+    ],
+    "tiempo_estimado_segundos": 125,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0010",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Pluralismo y convivencia",
+    "subtema": "Respeto por diferencias culturales",
+    "competencia": "Pluralismo y valoración de la diferencia",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 46,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una actividad escolar, varios estudiantes presentan comidas típicas de sus regiones. Un estudiante se burla de un plato porque no lo conoce. La docente interviene y propone que cada grupo explique el origen y significado de su comida.",
+    "pregunta": "¿Qué valor ciudadano promueve la intervención de la docente?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El reconocimiento respetuoso de la diversidad cultural."
+      },
+      {
+        "letra": "B",
+        "texto": "La imposición de una sola costumbre regional."
+      },
+      {
+        "letra": "C",
+        "texto": "La exclusión de quienes tienen tradiciones diferentes."
+      },
+      {
+        "letra": "D",
+        "texto": "La idea de que solo una cultura merece explicarse."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La docente transforma una burla en una oportunidad de aprendizaje sobre diversidad cultural, promoviendo respeto y reconocimiento de distintas tradiciones.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica pluralismo y respeto.",
+      "B": "Contradice la presentación de varias regiones.",
+      "C": "La intervención busca incluir, no excluir.",
+      "D": "Todas las comidas pueden explicarse, no solo una."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Pluralismo cultural",
+      "prioridad": "Media",
+      "acciones": [
+        "Analizar situaciones de diferencia cultural.",
+        "Distinguir burla de curiosidad respetuosa.",
+        "Relacionar diversidad con convivencia democrática."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer pluralismo",
+      "Evaluar actitudes frente a la diferencia"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0011",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Pluralismo y convivencia",
+    "subtema": "Inclusión",
+    "competencia": "Análisis de convivencia plural",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 63,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un curso organiza una salida pedagógica. Una estudiante con movilidad reducida señala que el lugar elegido tiene escaleras y no cuenta con acceso adecuado. Algunos compañeros proponen cambiar el sitio o solicitar ajustes para que todos puedan participar.",
+    "pregunta": "¿Cuál principio ciudadano orienta mejor esa propuesta?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La inclusión, porque busca eliminar barreras para la participación de todos."
+      },
+      {
+        "letra": "B",
+        "texto": "La indiferencia, porque la dificultad afecta solo a una persona."
+      },
+      {
+        "letra": "C",
+        "texto": "La competencia, porque debe participar quien pueda adaptarse solo."
+      },
+      {
+        "letra": "D",
+        "texto": "La exclusión, porque facilita la organización del grupo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La inclusión implica identificar y reducir barreras que impiden la participación plena. Ajustar la salida no es un privilegio, sino una condición para garantizar igualdad real.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce accesibilidad e inclusión.",
+      "B": "Desconoce que los derechos de una persona también importan en decisiones colectivas.",
+      "C": "Traslada toda la carga a quien enfrenta la barrera.",
+      "D": "Confunde facilidad organizativa con convivencia justa."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Inclusión y ajustes razonables",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar barreras de participación.",
+        "Distinguir igualdad formal de igualdad real.",
+        "Analizar decisiones grupales desde la inclusión."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar principio de inclusión",
+      "Evaluar barreras sociales"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0012",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Competencias ciudadanas y convivencia",
+    "tema": "Pluralismo y convivencia",
+    "subtema": "Disenso democrático",
+    "competencia": "Argumentación ciudadana",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una asamblea estudiantil, dos grupos tienen propuestas opuestas sobre el uso del uniforme en jornadas culturales. Un estudiante afirma que, si alguien piensa diferente, debería quedarse callado para evitar divisiones. Otro responde que el desacuerdo puede discutirse con respeto y reglas claras.",
+    "pregunta": "¿Cuál idea es más compatible con una convivencia democrática?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El disenso puede fortalecer la decisión colectiva si se expresa con argumentos y respeto."
+      },
+      {
+        "letra": "B",
+        "texto": "Toda diferencia de opinión debe prohibirse para mantener unidad."
+      },
+      {
+        "letra": "C",
+        "texto": "Solo debe escucharse a la propuesta que tenga más seguidores al inicio."
+      },
+      {
+        "letra": "D",
+        "texto": "Debatir significa atacar personalmente a quien piensa distinto."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La democracia no exige unanimidad. El desacuerdo argumentado permite examinar razones, mejorar propuestas y reconocer la pluralidad de opiniones sin recurrir a ataques.",
+    "diagnostico_por_error": {
+      "A": "Correcta: valora el disenso respetuoso.",
+      "B": "Confunde convivencia con silenciamiento.",
+      "C": "Reduce la deliberación a apoyo inicial.",
+      "D": "Confunde debate con agresión personal."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Competencias ciudadanas y convivencia",
+      "subtema_a_reforzar": "Disenso, debate y respeto",
+      "prioridad": "Alta",
+      "acciones": [
+        "Distinguir desacuerdo de conflicto destructivo.",
+        "Practicar evaluación de argumentos opuestos.",
+        "Reconocer reglas para debates democráticos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Valorar pluralismo",
+      "Analizar disenso democrático"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0013",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Ramas del poder público",
+    "subtema": "Separación de poderes",
+    "competencia": "Comprensión institucional",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 59,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una clase se explica que el poder público se organiza en ramas con funciones distintas. Una rama hace las leyes, otra administra y ejecuta políticas, y otra resuelve conflictos jurídicos aplicando normas.",
+    "pregunta": "¿Qué propósito cumple esta separación de funciones?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Evitar la concentración del poder y permitir controles entre instituciones."
+      },
+      {
+        "letra": "B",
+        "texto": "Hacer que una sola institución decida todos los asuntos."
+      },
+      {
+        "letra": "C",
+        "texto": "Eliminar la necesidad de normas comunes."
+      },
+      {
+        "letra": "D",
+        "texto": "Impedir cualquier forma de control ciudadano."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La separación de poderes busca distribuir funciones y evitar abusos derivados de la concentración del poder. También facilita controles institucionales y equilibrio entre ramas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: comprende finalidad de la separación de poderes.",
+      "B": "Describe concentración de poder, lo contrario del principio.",
+      "C": "Las normas siguen siendo necesarias.",
+      "D": "Los controles ciudadanos pueden complementar los institucionales."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Ramas del poder y controles",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar funciones legislativa, ejecutiva y judicial.",
+        "Relacionar separación de poderes con prevención de abusos.",
+        "Analizar ejemplos de control entre instituciones."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Comprender instituciones",
+      "Relacionar funciones y controles"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0014",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Ramas del poder público",
+    "subtema": "Funciones institucionales",
+    "competencia": "Comprensión institucional",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 73,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un municipio necesita una norma general para regular el uso de un espacio público. La autoridad administrativa puede ejecutar políticas y hacer cumplir normas, pero no puede reemplazar el debate que corresponde al órgano encargado de expedir reglas generales en el nivel correspondiente.",
+    "pregunta": "¿Qué principio institucional se busca proteger en esta situación?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La distribución de competencias entre autoridades."
+      },
+      {
+        "letra": "B",
+        "texto": "La eliminación del debate público."
+      },
+      {
+        "letra": "C",
+        "texto": "La concentración de todas las funciones en la autoridad administrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "La sustitución de las normas por decisiones informales."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El caso resalta que cada autoridad tiene funciones definidas. Respetar competencias evita que una institución asuma tareas que corresponden a otra, lo que protege el Estado de derecho.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la distribución funcional del poder.",
+      "B": "El debate se protege, no se elimina.",
+      "C": "Contradice la separación de competencias.",
+      "D": "Desconoce la importancia de reglas formales."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Competencias de autoridades públicas",
+      "prioridad": "Alta",
+      "acciones": [
+        "Diferenciar formular normas, ejecutarlas y resolver controversias.",
+        "Analizar casos de extralimitación de funciones.",
+        "Relacionar competencias con Estado de derecho."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar competencias",
+      "Comprender división institucional"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0015",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Mecanismos de participación",
+    "subtema": "Participación ciudadana local",
+    "competencia": "Comprensión de mecanismos democráticos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 64,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un grupo de habitantes quiere proponer formalmente a la administración municipal la creación de una ruta segura para estudiantes. Para fortalecer su solicitud, recogen firmas, documentan puntos de riesgo y piden un espacio de diálogo con autoridades locales.",
+    "pregunta": "¿Qué aspecto de la participación ciudadana se observa en el caso?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La ciudadanía puede organizarse, presentar solicitudes y aportar información sobre problemas públicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Los habitantes solo pueden participar si ocupan cargos públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "La participación consiste únicamente en votar cada cierto tiempo."
+      },
+      {
+        "letra": "D",
+        "texto": "Las autoridades deben ignorar solicitudes comunitarias documentadas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La participación democrática incluye acciones más amplias que el voto: organización, solicitudes, control social, diálogo con autoridades y uso de información sobre necesidades colectivas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce participación organizada y documentada.",
+      "B": "Reduce la participación a funcionarios.",
+      "C": "Limita la democracia al voto.",
+      "D": "Niega el valor de la interlocución ciudadana."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Mecanismos y formas de participación ciudadana",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar formas de participación más allá del voto.",
+        "Analizar solicitudes comunitarias y control social.",
+        "Relacionar evidencia local con decisiones públicas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer participación ciudadana",
+      "Relacionar comunidad e instituciones"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0016",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Mecanismos de participación",
+    "subtema": "Consulta y decisión informada",
+    "competencia": "Evaluación de procedimientos democráticos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 80,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Antes de modificar el uso de una zona verde, una administración local convoca a la comunidad. Sin embargo, solo informa los beneficios económicos del proyecto y omite posibles impactos sobre movilidad, árboles y actividades recreativas.",
+    "pregunta": "¿Cuál es la principal falla del procedimiento participativo?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La comunidad no recibe información completa para deliberar y decidir con criterio."
+      },
+      {
+        "letra": "B",
+        "texto": "La comunidad fue consultada, por lo que no puede existir ninguna falla."
+      },
+      {
+        "letra": "C",
+        "texto": "La información ambiental nunca es relevante en decisiones sobre territorio."
+      },
+      {
+        "letra": "D",
+        "texto": "La participación solo es válida si todos están de acuerdo desde el inicio."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La participación no se reduce a convocar personas. Requiere información suficiente y equilibrada para evaluar beneficios, costos e impactos de una decisión pública.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica déficit de información.",
+      "B": "Confunde convocatoria con participación efectiva.",
+      "C": "Desconoce impactos territoriales y ambientales.",
+      "D": "La democracia admite desacuerdos; no exige unanimidad inicial."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Participación informada",
+      "prioridad": "Alta",
+      "acciones": [
+        "Evaluar calidad de la información entregada.",
+        "Distinguir participación formal de participación efectiva.",
+        "Analizar impactos múltiples de proyectos públicos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar procedimientos",
+      "Analizar información pública"
+    ],
+    "tiempo_estimado_segundos": 110,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0017",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Derechos fundamentales",
+    "subtema": "Acción de tutela en contexto",
+    "competencia": "Comprensión de derechos fundamentales",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 66,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una estudiante afirma que una entidad pública no ha respondido una solicitud relacionada con el acceso a un servicio educativo indispensable. La demora afecta su continuidad escolar. Su familia busca un mecanismo rápido para proteger un derecho fundamental cuando no hay otro medio eficaz inmediato.",
+    "pregunta": "¿Qué mecanismo constitucional se relaciona mejor con esta situación?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La acción de tutela."
+      },
+      {
+        "letra": "B",
+        "texto": "La compraventa privada."
+      },
+      {
+        "letra": "C",
+        "texto": "La renuncia obligatoria al servicio."
+      },
+      {
+        "letra": "D",
+        "texto": "La sanción directa sin trámite."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La acción de tutela es un mecanismo judicial para proteger derechos fundamentales cuando estos se ven amenazados o vulnerados y se requiere una respuesta oportuna.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica el mecanismo de protección de derechos fundamentales.",
+      "B": "No es un mecanismo constitucional de protección de derechos.",
+      "C": "Afectaría más el derecho, no lo protegería.",
+      "D": "Viola garantías de debido proceso."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Acción de tutela y derechos fundamentales",
+      "prioridad": "Alta",
+      "acciones": [
+        "Estudiar cuándo procede la tutela.",
+        "Diferenciar mecanismos judiciales de acuerdos privados.",
+        "Analizar casos de vulneración urgente de derechos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar mecanismos constitucionales",
+      "Relacionar derechos y protección"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0018",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Derechos fundamentales",
+    "subtema": "Igualdad y trato diferenciado",
+    "competencia": "Argumentación ciudadana",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 87,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una institución ofrece apoyos académicos adicionales a estudiantes que llegan de zonas rurales con interrupciones educativas previas. Algunos compañeros dicen que eso es injusto porque no todos reciben el mismo número de horas de apoyo. La institución responde que la medida busca compensar desventajas de partida para que todos puedan alcanzar condiciones similares de aprendizaje.",
+    "pregunta": "¿Cuál análisis es más adecuado desde el principio de igualdad?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La igualdad puede justificar apoyos diferenciados cuando buscan reducir desventajas reales."
+      },
+      {
+        "letra": "B",
+        "texto": "La igualdad exige siempre dar exactamente lo mismo a todas las personas."
+      },
+      {
+        "letra": "C",
+        "texto": "Todo trato diferenciado constituye automáticamente una vulneración de derechos."
+      },
+      {
+        "letra": "D",
+        "texto": "Compensar desventajas significa negar oportunidades a quienes no reciben apoyo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La igualdad no siempre implica trato idéntico. En ocasiones exige medidas diferenciadas y razonables para corregir desigualdades de origen y garantizar oportunidades reales.",
+    "diagnostico_por_error": {
+      "A": "Correcta: comprende igualdad material.",
+      "B": "Reduce la igualdad a uniformidad formal.",
+      "C": "Ignora que algunos tratos diferenciados son constitucionalmente justificables.",
+      "D": "Confunde apoyo compensatorio con exclusión de otros."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Igualdad formal e igualdad material",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Diferenciar trato idéntico de trato equitativo.",
+        "Analizar medidas compensatorias en educación.",
+        "Evaluar si un trato diferenciado tiene finalidad legítima."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar principio de igualdad",
+      "Evaluar acciones afirmativas"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0019",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Instituciones y control ciudadano",
+    "subtema": "Rendición de cuentas",
+    "competencia": "Control ciudadano",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 68,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una junta comunal recibió recursos para mejorar un parque. Al finalizar el proyecto, publica gastos, contratos y fotografías de las obras. Además, convoca a los vecinos para responder preguntas.",
+    "pregunta": "¿Qué práctica democrática se evidencia en el caso?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Rendición de cuentas sobre el uso de recursos públicos o comunitarios."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocultamiento de información para evitar críticas."
+      },
+      {
+        "letra": "C",
+        "texto": "Privatización del parque sin consulta."
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminación del control ciudadano."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Publicar información y responder preguntas permite que la comunidad conozca y evalúe la gestión de recursos. Esto fortalece transparencia y control ciudadano.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica transparencia y rendición de cuentas.",
+      "B": "Contradice la publicación de información.",
+      "C": "No se menciona privatización.",
+      "D": "La convocatoria facilita el control ciudadano."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Transparencia y rendición de cuentas",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar formas de control ciudadano.",
+        "Identificar información pública relevante.",
+        "Analizar prácticas de transparencia comunitaria."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer control ciudadano",
+      "Interpretar transparencia institucional"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0020",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Debido proceso y normas",
+    "subtema": "Garantías en sanciones",
+    "competencia": "Comprensión de normas y debido proceso",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 78,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un estudiante es acusado de dañar material del laboratorio. Antes de escucharlo, la coordinación decide imponerle una sanción. Luego aparece un registro que muestra que otros estudiantes también estuvieron en el lugar.",
+    "pregunta": "¿Qué principio se vulnera principalmente si se sanciona sin escuchar al estudiante ni revisar pruebas?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El debido proceso."
+      },
+      {
+        "letra": "B",
+        "texto": "La libre competencia comercial."
+      },
+      {
+        "letra": "C",
+        "texto": "La separación geográfica de regiones."
+      },
+      {
+        "letra": "D",
+        "texto": "La planeación presupuestal."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El debido proceso exige escuchar a la persona involucrada, valorar pruebas y aplicar normas previamente establecidas antes de imponer sanciones.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la garantía vulnerada.",
+      "B": "No corresponde a un procedimiento disciplinario escolar.",
+      "C": "Es irrelevante para la situación.",
+      "D": "No se relaciona con sanciones ni defensa."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Debido proceso en contextos escolares e institucionales",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar pasos mínimos antes de sancionar.",
+        "Diferenciar acusación de responsabilidad probada.",
+        "Analizar casos donde falte derecho de defensa."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar debido proceso",
+      "Evaluar procedimientos sancionatorios"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0021",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Constitución, Estado y democracia",
+    "tema": "Debido proceso y normas",
+    "subtema": "Normas legítimas",
+    "competencia": "Argumentación ciudadana",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 62,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un manual de convivencia establece que las sanciones deben estar previamente definidas, comunicarse al estudiante y permitirle presentar su versión. Una docente afirma que estos pasos no son necesarios si la falta parece evidente.",
+    "pregunta": "¿Cuál respuesta es más adecuada frente a la afirmación de la docente?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Incluso si una falta parece evidente, deben respetarse las garantías establecidas."
+      },
+      {
+        "letra": "B",
+        "texto": "Las sanciones pueden inventarse después de ocurridos los hechos."
+      },
+      {
+        "letra": "C",
+        "texto": "El manual solo aplica cuando el estudiante acepta la sanción."
+      },
+      {
+        "letra": "D",
+        "texto": "La versión del estudiante nunca debe escucharse."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las garantías procedimentales existen para evitar arbitrariedades. La apariencia de evidencia no elimina el derecho a ser escuchado ni la obligación de aplicar normas previas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce la obligatoriedad de garantías.",
+      "B": "Contradice el principio de normas previas.",
+      "C": "El manual no depende de aceptación individual para aplicar garantías.",
+      "D": "Niega el derecho de defensa."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Constitución, Estado y democracia",
+      "subtema_a_reforzar": "Legalidad y derecho de defensa",
+      "prioridad": "Alta",
+      "acciones": [
+        "Estudiar garantías mínimas en procesos disciplinarios.",
+        "Diferenciar evidencia inicial de decisión final.",
+        "Analizar por qué las reglas previas limitan arbitrariedades."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar legitimidad de normas",
+      "Comprender garantías"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0022",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Procesos sociales y políticos",
+    "subtema": "Centralización y regiones",
+    "competencia": "Interpretación histórica",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 65,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En distintos momentos de la historia colombiana, las regiones han reclamado mayor atención del gobierno central. Estas tensiones se relacionan con diferencias en infraestructura, acceso a servicios, representación política y manejo de recursos.",
+    "pregunta": "¿Qué explicación permite comprender mejor esas tensiones?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La distribución desigual de poder y recursos entre centro y regiones puede generar reclamos territoriales."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas las regiones han tenido siempre las mismas condiciones económicas y políticas."
+      },
+      {
+        "letra": "C",
+        "texto": "Los procesos históricos no influyen en las relaciones entre territorio y Estado."
+      },
+      {
+        "letra": "D",
+        "texto": "Las demandas regionales son únicamente problemas climáticos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las tensiones centro-región suelen relacionarse con desigualdades de inversión, representación y acceso a servicios. No pueden explicarse solo por factores naturales o por igualdad de condiciones inexistente.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona territorio, poder y recursos.",
+      "B": "Niega desigualdades históricas.",
+      "C": "Desconoce continuidad entre pasado y presente.",
+      "D": "Reduce un fenómeno político y social a clima."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Relación Estado-regiones",
+      "prioridad": "Media",
+      "acciones": [
+        "Analizar desigualdades territoriales históricas.",
+        "Relacionar infraestructura y representación política.",
+        "Comparar demandas regionales en distintos periodos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Explicar procesos históricos",
+      "Relacionar territorio y política"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0023",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Procesos sociales y políticos",
+    "subtema": "Ciudadanía y participación",
+    "competencia": "Análisis histórico",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 77,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En la historia política, el significado de ciudadanía se ha ampliado gradualmente. En algunos periodos, la participación formal estuvo restringida por criterios económicos, educativos, de género o edad. Con el tiempo, distintos sectores sociales reclamaron inclusión en la vida pública.",
+    "pregunta": "¿Qué interpretación histórica es más adecuada?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La ciudadanía ha sido resultado de disputas y ampliaciones progresivas de derechos."
+      },
+      {
+        "letra": "B",
+        "texto": "La ciudadanía siempre incluyó a todas las personas en igualdad de condiciones."
+      },
+      {
+        "letra": "C",
+        "texto": "La participación política nunca ha cambiado en la historia."
+      },
+      {
+        "letra": "D",
+        "texto": "Los reclamos sociales no tienen relación con derechos políticos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La ciudadanía no ha sido una categoría fija ni universal desde el inicio. Su ampliación se ha relacionado con luchas sociales, reformas e inclusión de grupos antes excluidos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta ciudadanía como proceso histórico.",
+      "B": "Niega restricciones históricas.",
+      "C": "Desconoce cambios en participación.",
+      "D": "Separa indebidamente movilización social y derechos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Ampliación histórica de ciudadanía",
+      "prioridad": "Alta",
+      "acciones": [
+        "Estudiar cambios en participación política.",
+        "Relacionar movimientos sociales con derechos.",
+        "Evitar pensar la ciudadanía como una realidad fija."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar cambios históricos",
+      "Relacionar ciudadanía y movimientos sociales"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0024",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Procesos sociales y políticos",
+    "subtema": "Construcción institucional",
+    "competencia": "Relación pasado-presente",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 91,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un texto escolar afirma: 'Los cambios constitucionales no son solo reemplazos de palabras. Suelen expresar conflictos sociales, acuerdos políticos y nuevas formas de entender la relación entre Estado y ciudadanía'. Luego compara dos momentos históricos: uno con ciudadanía más restringida y otro con mayor reconocimiento de derechos y participación.",
+    "pregunta": "¿Cuál conclusión se deriva mejor del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Las constituciones pueden reflejar transformaciones sociales y políticas de una época."
+      },
+      {
+        "letra": "B",
+        "texto": "Las constituciones cambian sin relación con la sociedad."
+      },
+      {
+        "letra": "C",
+        "texto": "Todo cambio constitucional elimina automáticamente los conflictos."
+      },
+      {
+        "letra": "D",
+        "texto": "Los derechos ciudadanos no guardan relación con la organización del Estado."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto sostiene que los cambios constitucionales expresan disputas, acuerdos y nuevas concepciones de ciudadanía. Por tanto, deben analizarse en relación con procesos sociales y políticos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: establece relación entre norma y contexto histórico.",
+      "B": "Contradice la tesis del texto.",
+      "C": "Exagera el efecto de las reformas; los conflictos pueden continuar.",
+      "D": "Niega la relación central entre Estado y ciudadanía."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Constitución y cambio social",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Analizar normas como productos históricos.",
+        "Relacionar derechos reconocidos con conflictos sociales.",
+        "Evitar interpretaciones automáticas o deterministas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir relación pasado-presente",
+      "Analizar cambios institucionales"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0025",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Cambios económicos",
+    "subtema": "Transformaciones productivas",
+    "competencia": "Interpretación histórica",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 67,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una región que dependía principalmente de cultivos tradicionales comienza a diversificar su economía con servicios, comercio y pequeñas industrias. Esto cambia las formas de empleo, la migración hacia centros urbanos y las necesidades de educación técnica.",
+    "pregunta": "¿Qué relación histórica permite explicar mejor este proceso?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Los cambios económicos pueden transformar formas de trabajo, poblamiento y educación."
+      },
+      {
+        "letra": "B",
+        "texto": "La economía no influye en la organización social."
+      },
+      {
+        "letra": "C",
+        "texto": "Toda diversificación económica elimina de inmediato las desigualdades."
+      },
+      {
+        "letra": "D",
+        "texto": "Los cambios productivos solo afectan a quienes poseen grandes empresas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las transformaciones productivas modifican empleos, movilidad, formación requerida y organización territorial. Sus efectos no se limitan a empresarios ni eliminan automáticamente desigualdades.",
+    "diagnostico_por_error": {
+      "A": "Correcta: conecta economía y sociedad.",
+      "B": "Desconoce vínculos entre producción y vida social.",
+      "C": "Atribuye un efecto automático no garantizado.",
+      "D": "Reduce el impacto social del cambio económico."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Economía y transformaciones sociales",
+      "prioridad": "Media",
+      "acciones": [
+        "Relacionar sectores productivos con empleo.",
+        "Analizar migración y urbanización.",
+        "Evaluar efectos diferenciados de cambios económicos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Relacionar economía y sociedad",
+      "Interpretar procesos de cambio"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0026",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Cambios económicos",
+    "subtema": "Infraestructura y mercado",
+    "competencia": "Análisis histórico",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 81,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un historiador señala que la construcción de vías en una región no solo redujo tiempos de viaje. También permitió transportar productos a nuevos mercados, facilitó la llegada de servicios y modificó relaciones entre campo y ciudad. Sin embargo, algunos pobladores quedaron por fuera de los beneficios porque sus veredas no fueron conectadas.",
+    "pregunta": "¿Cuál interpretación es más completa?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La infraestructura puede integrar mercados y servicios, pero sus beneficios pueden distribuirse de forma desigual."
+      },
+      {
+        "letra": "B",
+        "texto": "Las vías solo tienen efectos sobre el turismo y no sobre la economía local."
+      },
+      {
+        "letra": "C",
+        "texto": "Toda obra de infraestructura beneficia por igual a todos los habitantes."
+      },
+      {
+        "letra": "D",
+        "texto": "La relación entre campo y ciudad no cambia con las vías."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto presenta efectos económicos y sociales positivos, pero también desigualdad en el acceso a esos beneficios. Una interpretación completa conserva ambos aspectos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: integra beneficios y desigualdades.",
+      "B": "Reduce los efectos a un solo sector.",
+      "C": "Ignora veredas no conectadas.",
+      "D": "Contradice la modificación campo-ciudad señalada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Infraestructura, integración y desigualdad",
+      "prioridad": "Alta",
+      "acciones": [
+        "Analizar efectos múltiples de obras públicas.",
+        "Identificar quiénes se benefician y quiénes quedan excluidos.",
+        "Relacionar infraestructura con mercados y territorio."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar procesos complejos",
+      "Evaluar distribución de beneficios"
+    ],
+    "tiempo_estimado_segundos": 115,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0027",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Conflictos y acuerdos",
+    "subtema": "Acuerdos comunitarios",
+    "competencia": "Análisis de procesos sociales",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 58,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dos comunidades vecinas disputaban el acceso a una fuente de agua para riego. Después de varias reuniones, acordaron turnos de uso, mantenimiento compartido y un comité para revisar incumplimientos.",
+    "pregunta": "¿Qué elemento hace que el acuerdo sea más sostenible?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Incluye reglas de uso, responsabilidades de mantenimiento y un mecanismo de seguimiento."
+      },
+      {
+        "letra": "B",
+        "texto": "Depende únicamente de la buena voluntad sin reglas claras."
+      },
+      {
+        "letra": "C",
+        "texto": "Entrega todo el recurso a una sola comunidad."
+      },
+      {
+        "letra": "D",
+        "texto": "Evita que se revisen incumplimientos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los acuerdos sostenibles requieren reglas claras, responsabilidades y seguimiento. Esto reduce incertidumbre y permite resolver incumplimientos sin reactivar el conflicto.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce condiciones de sostenibilidad.",
+      "B": "La buena voluntad sin reglas puede ser insuficiente.",
+      "C": "Excluye a una parte y puede intensificar el conflicto.",
+      "D": "Eliminar seguimiento debilita el acuerdo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Acuerdos, reglas y seguimiento",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar componentes de acuerdos duraderos.",
+        "Relacionar recursos compartidos con reglas de uso.",
+        "Analizar mecanismos de cumplimiento."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar acuerdos",
+      "Analizar gestión de conflictos"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0028",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Conflictos y acuerdos",
+    "subtema": "Memoria histórica",
+    "competencia": "Interpretación histórica",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 83,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un municipio se construye un archivo comunitario con testimonios de campesinos, docentes, comerciantes y líderes juveniles sobre un periodo de conflicto local. Algunos habitantes dicen que solo debería conservarse una versión oficial para evitar discusiones. Otros defienden incluir distintas voces para comprender mejor lo ocurrido.",
+    "pregunta": "¿Por qué incluir distintas voces puede fortalecer la memoria histórica?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque permite reconocer experiencias diversas y comprender la complejidad del pasado."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque todas las versiones dicen exactamente lo mismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque elimina la necesidad de contrastar testimonios."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque impide cualquier análisis crítico."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La memoria histórica se enriquece al incluir voces diversas, especialmente de quienes vivieron procesos de manera distinta. Esto no elimina el análisis crítico, sino que exige contrastar perspectivas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: valora pluralidad de testimonios.",
+      "B": "Si todas fueran iguales, no habría necesidad de pluralidad.",
+      "C": "Los testimonios deben contrastarse, no aceptarse sin análisis.",
+      "D": "La diversidad de fuentes favorece, no impide, el análisis crítico."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Memoria histórica y pluralidad de fuentes",
+      "prioridad": "Alta",
+      "acciones": [
+        "Comparar testimonios de distintos actores.",
+        "Diferenciar memoria plural de verdad automática.",
+        "Analizar por qué algunas voces han sido excluidas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar fuentes históricas",
+      "Reconocer pluralidad de memorias"
+    ],
+    "tiempo_estimado_segundos": 115,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0029",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Movimientos sociales",
+    "subtema": "Demandas colectivas",
+    "competencia": "Análisis de participación social",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 69,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un movimiento comunitario reclama acceso a agua potable, transporte escolar y atención básica en salud. Sus integrantes organizan reuniones, elaboran diagnósticos y presentan solicitudes a autoridades locales.",
+    "pregunta": "¿Qué caracteriza mejor a este movimiento social?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La acción colectiva para visibilizar necesidades y exigir respuestas institucionales."
+      },
+      {
+        "letra": "B",
+        "texto": "La búsqueda de beneficios exclusivamente individuales sin organización."
+      },
+      {
+        "letra": "C",
+        "texto": "La renuncia a cualquier forma de participación pública."
+      },
+      {
+        "letra": "D",
+        "texto": "La ausencia total de demandas sociales."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los movimientos sociales suelen organizar demandas colectivas, visibilizar problemas y buscar incidencia ante instituciones o la sociedad.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce acción colectiva y demandas.",
+      "B": "Contradice la organización comunitaria.",
+      "C": "El movimiento participa activamente.",
+      "D": "El contexto presenta demandas claras."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Movimientos sociales y demandas colectivas",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar actores colectivos.",
+        "Relacionar necesidades sociales con organización.",
+        "Analizar formas de incidencia pública."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer movimientos sociales",
+      "Interpretar acción colectiva"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0030",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Historia de Colombia y procesos sociales",
+    "tema": "Relación pasado-presente",
+    "subtema": "Persistencia de desigualdades",
+    "competencia": "Relación pasado-presente",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 75,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una región, las zonas rurales que históricamente tuvieron menos vías y escuelas siguen presentando mayores dificultades de acceso a educación media y servicios de salud. Un informe sostiene que algunos problemas actuales no pueden entenderse sin revisar decisiones de inversión tomadas durante décadas.",
+    "pregunta": "¿Qué relación pasado-presente plantea el informe?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Las desigualdades actuales pueden estar vinculadas a procesos históricos de inversión desigual."
+      },
+      {
+        "letra": "B",
+        "texto": "El pasado no ayuda a explicar ningún problema actual."
+      },
+      {
+        "letra": "C",
+        "texto": "La falta de vías y escuelas se resuelve siempre de manera inmediata."
+      },
+      {
+        "letra": "D",
+        "texto": "Todos los territorios han recibido siempre la misma inversión."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El informe conecta condiciones actuales con trayectorias históricas de inversión. Esto permite analizar persistencias y no solo síntomas presentes.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona desigualdad actual con historia territorial.",
+      "B": "Contradice la idea central del informe.",
+      "C": "Ignora la persistencia de problemas estructurales.",
+      "D": "Niega la desigualdad mencionada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Historia de Colombia y procesos sociales",
+      "subtema_a_reforzar": "Continuidades históricas y desigualdad",
+      "prioridad": "Alta",
+      "acciones": [
+        "Relacionar infraestructura histórica con oportunidades actuales.",
+        "Distinguir causa estructural de situación inmediata.",
+        "Analizar informes territoriales con perspectiva temporal."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Relacionar pasado y presente",
+      "Interpretar desigualdades históricas"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0031",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Geografía humana, territorio y ambiente",
+    "tema": "Territorio y población",
+    "subtema": "Migración interna",
+    "competencia": "Interpretación geográfica",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 60,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una ciudad intermedia recibe población de municipios cercanos porque ofrece más instituciones educativas, servicios de salud y oportunidades laborales. Como resultado, crece la demanda de vivienda, transporte y cupos escolares.",
+    "pregunta": "¿Qué fenómeno describe mejor esta situación?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Migración interna hacia centros urbanos con mayor oferta de servicios."
+      },
+      {
+        "letra": "B",
+        "texto": "Disminución de la población urbana por falta de servicios."
+      },
+      {
+        "letra": "C",
+        "texto": "Ausencia de relación entre servicios y movilidad poblacional."
+      },
+      {
+        "letra": "D",
+        "texto": "Movimiento de población exclusivamente internacional."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El desplazamiento desde municipios cercanos hacia una ciudad del mismo país corresponde a migración interna. La atracción se relaciona con servicios y oportunidades.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica migración interna y factores de atracción.",
+      "B": "Contradice el crecimiento urbano descrito.",
+      "C": "Ignora la relación señalada en el contexto.",
+      "D": "No se menciona cruce de fronteras nacionales."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Geografía humana, territorio y ambiente",
+      "subtema_a_reforzar": "Migración interna y urbanización",
+      "prioridad": "Media",
+      "acciones": [
+        "Diferenciar migración interna e internacional.",
+        "Identificar factores de atracción y expulsión.",
+        "Relacionar crecimiento poblacional con demanda de servicios."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar movilidad poblacional",
+      "Relacionar servicios y territorio"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0032",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Geografía humana, territorio y ambiente",
+    "tema": "Territorio y población",
+    "subtema": "Crecimiento urbano",
+    "competencia": "Análisis territorial",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 76,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un barrio crece rápidamente en la periferia de una ciudad. Muchas viviendas se construyen antes de contar con alcantarillado, vías pavimentadas y rutas de transporte. Los habitantes deben gastar más tiempo y dinero para llegar a sus lugares de estudio o trabajo.",
+    "pregunta": "¿Qué problema territorial se evidencia?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Expansión urbana con déficit de infraestructura y servicios."
+      },
+      {
+        "letra": "B",
+        "texto": "Reducción de la movilidad por exceso de transporte público."
+      },
+      {
+        "letra": "C",
+        "texto": "Equilibrio perfecto entre crecimiento urbano e infraestructura."
+      },
+      {
+        "letra": "D",
+        "texto": "Ausencia de relación entre vivienda y planificación urbana."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El caso muestra crecimiento periférico sin infraestructura suficiente. Esto genera costos sociales como tiempos largos de desplazamiento y acceso limitado a servicios.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica déficit de infraestructura en expansión urbana.",
+      "B": "No hay exceso de transporte; hay dificultades de movilidad.",
+      "C": "Contradice el déficit descrito.",
+      "D": "La vivienda y la planificación están directamente relacionadas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Geografía humana, territorio y ambiente",
+      "subtema_a_reforzar": "Urbanización y planificación territorial",
+      "prioridad": "Alta",
+      "acciones": [
+        "Analizar relación entre crecimiento urbano y servicios.",
+        "Identificar efectos de expansión no planificada.",
+        "Estudiar movilidad y periferias urbanas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar problemas urbanos",
+      "Relacionar infraestructura y calidad de vida"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0033",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Geografía humana, territorio y ambiente",
+    "tema": "Recursos naturales",
+    "subtema": "Uso del agua",
+    "competencia": "Análisis ambiental",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 67,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una cuenca, agricultores, hogares y pequeños negocios dependen del mismo río. Durante la temporada seca disminuye el caudal y aumentan los conflictos por el uso del agua.",
+    "pregunta": "¿Qué medida contribuiría mejor a una gestión sostenible del recurso?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Establecer acuerdos de uso, ahorro y monitoreo con participación de los usuarios de la cuenca."
+      },
+      {
+        "letra": "B",
+        "texto": "Permitir que cada usuario tome toda el agua que pueda."
+      },
+      {
+        "letra": "C",
+        "texto": "Negar que la temporada seca afecte la disponibilidad del agua."
+      },
+      {
+        "letra": "D",
+        "texto": "Usar el río sin medir consumos ni impactos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La gestión sostenible requiere coordinación entre usuarios, reglas de uso, ahorro y seguimiento del recurso, especialmente cuando la disponibilidad disminuye.",
+    "diagnostico_por_error": {
+      "A": "Correcta: integra participación y sostenibilidad.",
+      "B": "Genera sobreuso y mayor conflicto.",
+      "C": "Desconoce la variabilidad ambiental.",
+      "D": "Impide tomar decisiones informadas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Geografía humana, territorio y ambiente",
+      "subtema_a_reforzar": "Gestión de recursos hídricos",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar usuarios de un recurso común.",
+        "Relacionar disponibilidad estacional y conflictos.",
+        "Analizar acuerdos de manejo sostenible."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar gestión ambiental",
+      "Analizar recursos compartidos"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0034",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Geografía humana, territorio y ambiente",
+    "tema": "Recursos naturales",
+    "subtema": "Conflictos socioambientales",
+    "competencia": "Argumentación socioambiental",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una empresa propone extraer materiales de construcción cerca de una zona agrícola. Promete empleo local, pero campesinos advierten posibles afectaciones al suelo, al agua y a sus cultivos. La autoridad ambiental debe evaluar el proyecto.",
+    "pregunta": "¿Cuál criterio debería orientar mejor la evaluación?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Comparar beneficios económicos con impactos ambientales y sociales, usando información técnica y participación de afectados."
+      },
+      {
+        "letra": "B",
+        "texto": "Aprobar el proyecto solo porque genera empleo, sin estudiar impactos."
+      },
+      {
+        "letra": "C",
+        "texto": "Rechazar cualquier actividad económica sin analizar condiciones."
+      },
+      {
+        "letra": "D",
+        "texto": "Escuchar únicamente a la empresa porque invierte recursos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los conflictos socioambientales requieren evaluar beneficios, riesgos, impactos y voces afectadas. Una decisión responsable no se basa en un solo criterio ni excluye actores relevantes.",
+    "diagnostico_por_error": {
+      "A": "Correcta: integra evaluación técnica, social y ambiental.",
+      "B": "Reduce la decisión al empleo.",
+      "C": "Niega análisis contextual.",
+      "D": "Excluye a comunidades afectadas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Geografía humana, territorio y ambiente",
+      "subtema_a_reforzar": "Evaluación de conflictos socioambientales",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar actores e intereses en proyectos territoriales.",
+        "Comparar beneficios y costos ambientales.",
+        "Reconocer importancia de estudios técnicos y participación."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar proyectos territoriales",
+      "Analizar conflictos socioambientales"
+    ],
+    "tiempo_estimado_segundos": 115,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0035",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Geografía humana, territorio y ambiente",
+    "tema": "Ambiente y desarrollo",
+    "subtema": "Desarrollo sostenible",
+    "competencia": "Análisis de desarrollo territorial",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 62,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un municipio quiere impulsar turismo en una zona natural. Para evitar deterioro, propone limitar el número de visitantes diarios, capacitar guías locales y destinar parte de los ingresos al mantenimiento del ecosistema.",
+    "pregunta": "¿Qué enfoque refleja esta propuesta?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Desarrollo sostenible, porque busca beneficios económicos sin descuidar el ambiente."
+      },
+      {
+        "letra": "B",
+        "texto": "Explotación ilimitada, porque permite visitantes sin ningún control."
+      },
+      {
+        "letra": "C",
+        "texto": "Abandono del territorio, porque impide toda actividad turística."
+      },
+      {
+        "letra": "D",
+        "texto": "Privatización total de la naturaleza sin participación local."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La propuesta combina actividad económica, control ambiental, participación local y reinversión en mantenimiento. Estos elementos se asocian con desarrollo sostenible.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce equilibrio entre economía y ambiente.",
+      "B": "Contradice los límites de visitantes.",
+      "C": "No impide el turismo; lo regula.",
+      "D": "Incluye capacitación local, no exclusión total."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Geografía humana, territorio y ambiente",
+      "subtema_a_reforzar": "Desarrollo sostenible",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar componentes económicos, sociales y ambientales.",
+        "Distinguir regulación de prohibición absoluta.",
+        "Analizar turismo sostenible en territorios naturales."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer sostenibilidad",
+      "Evaluar políticas ambientales"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0036",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Geografía humana, territorio y ambiente",
+    "tema": "Ambiente y desarrollo",
+    "subtema": "Riesgo y ordenamiento territorial",
+    "competencia": "Interpretación geográfica",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 89,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un mapa de riesgo muestra que varias viviendas están ubicadas en una ladera inestable. Durante lluvias fuertes aumenta la probabilidad de deslizamientos. Algunas familias piden obras de mitigación; otras señalan que también se requieren alternativas de reubicación segura, porque no todas las zonas pueden protegerse con muros o canales.",
+    "pregunta": "¿Cuál decisión pública sería más integral?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Combinar estudios técnicos, obras donde sean viables y reubicación concertada cuando el riesgo no sea mitigable."
+      },
+      {
+        "letra": "B",
+        "texto": "Ignorar el mapa de riesgo para evitar preocupación comunitaria."
+      },
+      {
+        "letra": "C",
+        "texto": "Construir más viviendas en la misma ladera sin evaluación."
+      },
+      {
+        "letra": "D",
+        "texto": "Ordenar desalojos inmediatos sin información ni acompañamiento."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La gestión del riesgo exige información técnica, prevención, mitigación y protección de derechos. Cuando el riesgo no puede reducirse suficientemente, la reubicación debe planearse con participación y garantías.",
+    "diagnostico_por_error": {
+      "A": "Correcta: integra gestión técnica y social del riesgo.",
+      "B": "Ocultar información aumenta vulnerabilidad.",
+      "C": "Incrementa la exposición al riesgo.",
+      "D": "Puede vulnerar derechos por falta de proceso y acompañamiento."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Geografía humana, territorio y ambiente",
+      "subtema_a_reforzar": "Gestión del riesgo y ordenamiento territorial",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Distinguir amenaza, vulnerabilidad y riesgo.",
+        "Analizar medidas de mitigación y reubicación.",
+        "Considerar derechos de comunidades en decisiones de riesgo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar riesgo territorial",
+      "Evaluar decisiones públicas integrales"
+    ],
+    "tiempo_estimado_segundos": 135,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0037",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Geografía humana, territorio y ambiente",
+    "tema": "Mapas y escalas",
+    "subtema": "Lectura de escala",
+    "competencia": "Interpretación de mapas",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 44,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un mapa escolar, 1 cm representa 5 km reales. La distancia entre dos corregimientos en el mapa es de 4 cm.",
+    "pregunta": "¿Cuál es la distancia real aproximada entre los dos corregimientos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "20 km"
+      },
+      {
+        "letra": "B",
+        "texto": "9 km"
+      },
+      {
+        "letra": "C",
+        "texto": "5 km"
+      },
+      {
+        "letra": "D",
+        "texto": "45 km"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Si 1 cm representa 5 km, entonces 4 cm representan 4 × 5 = 20 km. La escala permite convertir medidas del mapa en distancias reales.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica la escala multiplicando.",
+      "B": "Suma 4 y 5 en lugar de usar la escala.",
+      "C": "Toma solo el valor de 1 cm.",
+      "D": "Concatena o combina números sin relación proporcional."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Geografía humana, territorio y ambiente",
+      "subtema_a_reforzar": "Escalas cartográficas",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar cuánto representa una unidad del mapa.",
+        "Multiplicar por la distancia medida.",
+        "Verificar que la respuesta esté en unidades reales."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Leer escala",
+      "Convertir distancia cartográfica"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0038",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Geografía humana, territorio y ambiente",
+    "tema": "Mapas y escalas",
+    "subtema": "Interpretación de símbolos",
+    "competencia": "Interpretación de mapas",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 68,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un mapa municipal usa color verde para áreas protegidas, líneas azules para ríos, líneas rojas para vías principales y puntos negros para centros poblados. Una vereda aparece junto a una línea azul y dentro de una zona verde.",
+    "pregunta": "¿Qué interpretación es correcta según la leyenda del mapa?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La vereda está cerca de un río y dentro de un área protegida."
+      },
+      {
+        "letra": "B",
+        "texto": "La vereda está sobre una vía principal y fuera de cualquier área protegida."
+      },
+      {
+        "letra": "C",
+        "texto": "La línea azul indica una frontera internacional."
+      },
+      {
+        "letra": "D",
+        "texto": "El color verde representa zonas industriales."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Según la leyenda, la línea azul representa ríos y el color verde áreas protegidas. Por eso la vereda se ubica cerca de un río y dentro de una zona protegida.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta símbolos y colores del mapa.",
+      "B": "Confunde línea azul con vía roja y niega la zona verde.",
+      "C": "Atribuye a la línea azul un significado no dado.",
+      "D": "Contradice la leyenda."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Geografía humana, territorio y ambiente",
+      "subtema_a_reforzar": "Leyendas y símbolos cartográficos",
+      "prioridad": "Media",
+      "acciones": [
+        "Leer la leyenda antes de interpretar el mapa.",
+        "Asociar colores y símbolos con su significado.",
+        "Evitar usar significados no indicados."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar leyendas",
+      "Relacionar símbolos y territorio"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0039",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Economía básica y sociedad",
+    "tema": "Oferta y demanda básica",
+    "subtema": "Cambios de precio",
+    "competencia": "Interpretación económica",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 61,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una plaza de mercado, una helada reduce la producción de tomate. La cantidad disponible baja, pero la demanda de los consumidores se mantiene similar.",
+    "pregunta": "Según una explicación básica de oferta y demanda, ¿qué efecto es más probable?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El precio del tomate tiende a subir por menor oferta."
+      },
+      {
+        "letra": "B",
+        "texto": "El precio baja porque hay menos producto disponible."
+      },
+      {
+        "letra": "C",
+        "texto": "El precio no puede cambiar aunque cambie la oferta."
+      },
+      {
+        "letra": "D",
+        "texto": "La demanda desaparece automáticamente."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Si la oferta disminuye y la demanda se mantiene, el producto se vuelve relativamente más escaso. En un mercado básico, esto tiende a presionar el precio al alza.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona menor oferta con aumento de precio.",
+      "B": "Invierte el efecto esperado de escasez.",
+      "C": "Desconoce relación entre oferta y precios.",
+      "D": "La demanda puede mantenerse aunque haya menos producto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Economía básica y sociedad",
+      "subtema_a_reforzar": "Oferta, demanda y precios",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar si cambia oferta o demanda.",
+        "Analizar escasez relativa.",
+        "Resolver casos cotidianos de precios."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar oferta y demanda",
+      "Predecir efectos económicos básicos"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0040",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Economía básica y sociedad",
+    "tema": "Desigualdad",
+    "subtema": "Acceso a oportunidades",
+    "competencia": "Análisis socioeconómico",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 75,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dos estudiantes tienen igual rendimiento académico, pero uno vive cerca del colegio, cuenta con internet estable y puede asistir a cursos de refuerzo. El otro vive lejos, comparte un solo dispositivo con su familia y trabaja algunas tardes.",
+    "pregunta": "¿Qué concepto ayuda a analizar mejor esta diferencia?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Desigualdad de oportunidades, porque las condiciones externas afectan el acceso a recursos educativos."
+      },
+      {
+        "letra": "B",
+        "texto": "Igualdad total de condiciones, porque ambos estudian en el mismo colegio."
+      },
+      {
+        "letra": "C",
+        "texto": "Ausencia de factores sociales en el rendimiento académico."
+      },
+      {
+        "letra": "D",
+        "texto": "Oferta y demanda de tomates."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Aunque ambos tengan capacidades académicas similares, sus condiciones materiales y de tiempo son distintas. Esto refleja desigualdad de oportunidades en el acceso a apoyos educativos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona condiciones socioeconómicas y oportunidades.",
+      "B": "Confunde pertenecer al mismo colegio con igualdad real.",
+      "C": "Ignora factores externos descritos.",
+      "D": "Es irrelevante para el caso."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Economía básica y sociedad",
+      "subtema_a_reforzar": "Desigualdad de oportunidades",
+      "prioridad": "Alta",
+      "acciones": [
+        "Distinguir igualdad formal e igualdad de condiciones.",
+        "Analizar acceso a recursos educativos.",
+        "Relacionar tiempo, conectividad y desempeño."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar desigualdad",
+      "Relacionar condiciones materiales y educación"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0041",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Economía básica y sociedad",
+    "tema": "Trabajo y producción",
+    "subtema": "División del trabajo",
+    "competencia": "Comprensión económica",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 48,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una panadería, una persona amasa, otra hornea, otra atiende clientes y otra lleva las cuentas. Cada una se especializa en una parte del proceso para producir y vender pan.",
+    "pregunta": "¿Qué concepto económico se observa en el caso?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "División del trabajo."
+      },
+      {
+        "letra": "B",
+        "texto": "Ausencia de producción."
+      },
+      {
+        "letra": "C",
+        "texto": "Eliminación del comercio."
+      },
+      {
+        "letra": "D",
+        "texto": "Desaparición de funciones económicas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La división del trabajo ocurre cuando distintas personas realizan tareas especializadas dentro de un proceso productivo, lo que puede mejorar organización y eficiencia.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica especialización de tareas.",
+      "B": "Sí hay producción de pan.",
+      "C": "La atención a clientes muestra comercio.",
+      "D": "Las funciones están diferenciadas, no desaparecen."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Economía básica y sociedad",
+      "subtema_a_reforzar": "Trabajo, producción y especialización",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar tareas dentro de un proceso productivo.",
+        "Relacionar especialización con producción.",
+        "Analizar ejemplos cotidianos de división del trabajo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer conceptos económicos",
+      "Interpretar procesos productivos"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0042",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Economía básica y sociedad",
+    "tema": "Decisiones con recursos limitados",
+    "subtema": "Costo de oportunidad",
+    "competencia": "Toma de decisiones económicas",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 69,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un colegio tiene presupuesto para comprar computadores o mejorar la biblioteca, pero no puede hacer ambas cosas este semestre. Después de discutir necesidades, decide invertir en computadores.",
+    "pregunta": "¿Cuál es el costo de oportunidad de esa decisión?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La mejora de la biblioteca que se dejó de realizar este semestre."
+      },
+      {
+        "letra": "B",
+        "texto": "El dinero gastado en computadores únicamente."
+      },
+      {
+        "letra": "C",
+        "texto": "La eliminación de todas las necesidades del colegio."
+      },
+      {
+        "letra": "D",
+        "texto": "La posibilidad de comprar computadores, porque fue la opción elegida."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El costo de oportunidad es la mejor alternativa a la que se renuncia al tomar una decisión. En este caso, al comprar computadores se aplaza la mejora de la biblioteca.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la alternativa sacrificada.",
+      "B": "Confunde costo monetario con costo de oportunidad.",
+      "C": "La decisión no elimina todas las necesidades.",
+      "D": "El costo de oportunidad no es la opción elegida, sino la renunciada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Economía básica y sociedad",
+      "subtema_a_reforzar": "Costo de oportunidad",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar las alternativas disponibles.",
+        "Señalar cuál se eligió y cuál se sacrificó.",
+        "Diferenciar precio pagado de alternativa renunciada."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar costo de oportunidad",
+      "Tomar decisiones con escasez"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0043",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Economía básica y sociedad",
+    "tema": "Decisiones con recursos limitados",
+    "subtema": "Priorización social",
+    "competencia": "Argumentación económica y social",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 92,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una alcaldía dispone de recursos limitados para intervenir solo uno de tres problemas este año: reparar un puente rural que conecta veredas con el hospital, construir una cancha nueva en el centro urbano o decorar una avenida principal. El diagnóstico muestra que el puente afecta el acceso a salud y transporte escolar de varias comunidades.",
+    "pregunta": "¿Cuál decisión se justifica mejor si se prioriza impacto social y necesidades básicas?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Reparar el puente rural porque afecta acceso a salud y educación de comunidades conectadas por esa vía."
+      },
+      {
+        "letra": "B",
+        "texto": "Decorar la avenida porque es la intervención más visible."
+      },
+      {
+        "letra": "C",
+        "texto": "Construir la cancha solo porque está en el centro urbano."
+      },
+      {
+        "letra": "D",
+        "texto": "No invertir en nada porque los recursos no alcanzan para todo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Con recursos escasos, priorizar implica comparar impactos. El puente se relaciona con derechos y necesidades básicas como salud y educación, por lo que tiene mayor urgencia social que intervenciones principalmente estéticas o recreativas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: prioriza impacto social y necesidades básicas.",
+      "B": "Confunde visibilidad con prioridad social.",
+      "C": "La ubicación central no basta para justificar mayor prioridad.",
+      "D": "La escasez exige priorizar, no paralizar toda acción."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Economía básica y sociedad",
+      "subtema_a_reforzar": "Priorización con recursos limitados",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Comparar impactos de alternativas.",
+        "Distinguir necesidades básicas de beneficios secundarios.",
+        "Justificar decisiones públicas con criterios transparentes."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Tomar decisiones con datos",
+      "Priorizar necesidades públicas"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0044",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Análisis de fuentes, mapas, tablas o discursos",
+    "tema": "Comparación de perspectivas",
+    "subtema": "Fuentes sobre un proyecto",
+    "competencia": "Análisis de fuentes",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 78,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Fuente 1: Una empresa afirma que un proyecto turístico generará empleo y atraerá visitantes. Fuente 2: Una asociación comunitaria advierte que el proyecto puede encarecer la vivienda y limitar el acceso de habitantes tradicionales a la zona. Ambas fuentes se refieren al mismo proyecto.",
+    "pregunta": "¿Cuál análisis compara mejor las dos fuentes?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Las fuentes enfatizan dimensiones distintas: beneficios económicos y posibles impactos sociales."
+      },
+      {
+        "letra": "B",
+        "texto": "Las dos fuentes dicen exactamente lo mismo."
+      },
+      {
+        "letra": "C",
+        "texto": "La fuente comunitaria no puede aportar información porque no es una empresa."
+      },
+      {
+        "letra": "D",
+        "texto": "La fuente empresarial no menciona ningún beneficio económico."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La fuente empresarial destaca empleo y turismo; la comunitaria advierte efectos sociales como encarecimiento y acceso. Compararlas permite ver intereses y preocupaciones diferentes.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica énfasis y perspectivas distintas.",
+      "B": "Ignora diferencias claras de contenido.",
+      "C": "Descalifica una fuente por su actor sin analizar su información.",
+      "D": "Contradice la mención de empleo y visitantes."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Análisis de fuentes, mapas, tablas o discursos",
+      "subtema_a_reforzar": "Comparación de perspectivas",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar actor que produce cada fuente.",
+        "Reconocer qué aspecto destaca cada una.",
+        "Evitar descalificar fuentes sin evaluar su contenido."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Comparar fuentes",
+      "Reconocer perspectivas"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0045",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Análisis de fuentes, mapas, tablas o discursos",
+    "tema": "Sesgos",
+    "subtema": "Lenguaje valorativo",
+    "competencia": "Evaluación crítica de fuentes",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 66,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un volante sobre una reforma escolar dice: 'Solo quienes no aman la educación se oponen a esta propuesta perfecta'. No presenta datos sobre costos, beneficios ni posibles dificultades.",
+    "pregunta": "¿Cuál es el principal problema del volante como fuente de información?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Usa lenguaje descalificador y no ofrece evidencia para evaluar la propuesta."
+      },
+      {
+        "letra": "B",
+        "texto": "Presenta demasiadas tablas verificables."
+      },
+      {
+        "letra": "C",
+        "texto": "Explica con detalle ventajas y desventajas."
+      },
+      {
+        "letra": "D",
+        "texto": "Evita cualquier valoración sobre la reforma."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El volante descalifica a quienes discrepan y califica la propuesta como perfecta sin pruebas. Esto evidencia sesgo y baja calidad argumentativa.",
+    "diagnostico_por_error": {
+      "A": "Correcta: detecta sesgo y falta de evidencia.",
+      "B": "No hay tablas ni datos verificables.",
+      "C": "No presenta análisis equilibrado.",
+      "D": "Sí contiene valoraciones fuertes."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Análisis de fuentes, mapas, tablas o discursos",
+      "subtema_a_reforzar": "Sesgo y lenguaje valorativo",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar palabras descalificadoras.",
+        "Buscar evidencia que respalde afirmaciones.",
+        "Distinguir opinión persuasiva de información equilibrada."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Detectar sesgo",
+      "Evaluar calidad de fuente"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0046",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Análisis de fuentes, mapas, tablas o discursos",
+    "tema": "Intención de una fuente",
+    "subtema": "Discurso institucional",
+    "competencia": "Análisis de intención comunicativa",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 64,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un comunicado de una alcaldía dice: 'Invitamos a la comunidad a participar en las mesas de trabajo sobre movilidad. Sus aportes permitirán identificar rutas inseguras, horarios críticos y prioridades de intervención'.",
+    "pregunta": "¿Cuál es la intención principal del comunicado?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Convocar a la comunidad para recoger información y propuestas sobre movilidad."
+      },
+      {
+        "letra": "B",
+        "texto": "Informar que la comunidad no será escuchada."
+      },
+      {
+        "letra": "C",
+        "texto": "Anunciar que ya no existen problemas de movilidad."
+      },
+      {
+        "letra": "D",
+        "texto": "Prohibir toda participación ciudadana."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El comunicado invita a participar y explica que los aportes servirán para identificar problemas y prioridades. Su intención es convocar y recoger información ciudadana.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica intención comunicativa.",
+      "B": "Contradice la invitación a participar.",
+      "C": "El comunicado reconoce problemas por identificar.",
+      "D": "La participación se promueve, no se prohíbe."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Análisis de fuentes, mapas, tablas o discursos",
+      "subtema_a_reforzar": "Intención de fuentes institucionales",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar verbos como invitar, solicitar o informar.",
+        "Reconocer destinatario y propósito.",
+        "Distinguir convocatoria de decisión final."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir intención",
+      "Leer discursos institucionales"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0047",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Análisis de fuentes, mapas, tablas o discursos",
+    "tema": "Lectura de tablas",
+    "subtema": "Comparación de datos",
+    "competencia": "Interpretación de tablas",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 80,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una tabla muestra el porcentaje de hogares con acceso a internet en tres zonas de un municipio: zona urbana central 82%, zona urbana periférica 54%, zona rural 31%. El informe propone priorizar inversión pública donde la brecha sea mayor.",
+    "pregunta": "Según la tabla y el criterio del informe, ¿qué zona debería priorizarse?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La zona rural, porque presenta el menor acceso a internet."
+      },
+      {
+        "letra": "B",
+        "texto": "La zona urbana central, porque ya tiene el mayor acceso."
+      },
+      {
+        "letra": "C",
+        "texto": "La zona urbana periférica, porque tiene 54%, que es mayor que 31%."
+      },
+      {
+        "letra": "D",
+        "texto": "Ninguna zona, porque los porcentajes no permiten comparar."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Si se prioriza donde la brecha es mayor, debe atenderse la zona con menor acceso. La zona rural tiene 31%, por debajo de las demás.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta datos y criterio de priorización.",
+      "B": "Confunde mayor acceso con mayor necesidad.",
+      "C": "Ignora que 31% indica brecha más alta.",
+      "D": "Los porcentajes sí permiten comparar acceso relativo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Análisis de fuentes, mapas, tablas o discursos",
+      "subtema_a_reforzar": "Lectura de tablas y criterios de decisión",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar variable medida en la tabla.",
+        "Aplicar el criterio indicado antes de elegir.",
+        "Distinguir mayor valor de mayor necesidad."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar datos",
+      "Aplicar criterios de priorización"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0048",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Análisis de fuentes, mapas, tablas o discursos",
+    "tema": "Comparación de discursos",
+    "subtema": "Intencionalidad y evidencia",
+    "competencia": "Evaluación crítica de discursos",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 93,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Discurso A: 'El nuevo sistema de transporte será exitoso porque es moderno y toda modernización es positiva'. Discurso B: 'El sistema puede mejorar la movilidad si se garantiza cobertura en barrios periféricos, integración tarifaria y mantenimiento constante; de lo contrario, sus beneficios serán limitados'.",
+    "pregunta": "¿Cuál comparación evalúa mejor los discursos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El discurso B es más analítico porque condiciona el éxito a factores verificables y reconoce límites."
+      },
+      {
+        "letra": "B",
+        "texto": "El discurso A es más sólido porque usa la palabra moderno como prueba suficiente."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambos discursos tienen el mismo nivel de evidencia y condiciones."
+      },
+      {
+        "letra": "D",
+        "texto": "El discurso B rechaza cualquier mejora en movilidad."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El discurso B no se limita a valorar la modernización; establece condiciones concretas para evaluar el éxito. El discurso A usa una generalización positiva sin evidencia suficiente.",
+    "diagnostico_por_error": {
+      "A": "Correcta: compara evidencia, condiciones y límites.",
+      "B": "Confunde valoración con prueba.",
+      "C": "Ignora diferencias claras en argumentación.",
+      "D": "El discurso B acepta una posible mejora condicionada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Análisis de fuentes, mapas, tablas o discursos",
+      "subtema_a_reforzar": "Evaluación de discursos y evidencia",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Identificar afirmaciones generales sin prueba.",
+        "Reconocer condiciones verificables en un argumento.",
+        "Comparar si una fuente admite límites o matices."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar discursos",
+      "Comparar calidad argumentativa"
+    ],
+    "tiempo_estimado_segundos": 135,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0049",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Análisis de fuentes, mapas, tablas o discursos",
+    "tema": "Sesgos",
+    "subtema": "Selección incompleta de datos",
+    "competencia": "Evaluación crítica de fuentes",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 84,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un informe sobre seguridad vial afirma que una campaña fue exitosa porque en una avenida los accidentes bajaron de 20 a 15. Sin embargo, omite que en otras tres avenidas del mismo municipio los accidentes aumentaron durante el mismo periodo.",
+    "pregunta": "¿Cuál es la principal limitación del informe?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Selecciona solo un dato favorable y omite información necesaria para evaluar el resultado general."
+      },
+      {
+        "letra": "B",
+        "texto": "Presenta todos los datos relevantes de manera equilibrada."
+      },
+      {
+        "letra": "C",
+        "texto": "No menciona ninguna cifra sobre accidentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Demuestra definitivamente que la campaña fracasó en todos los lugares."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El informe usa evidencia parcial. Para evaluar la campaña se necesita considerar el conjunto de vías afectadas, no solo el caso favorable.",
+    "diagnostico_por_error": {
+      "A": "Correcta: detecta sesgo por selección incompleta de datos.",
+      "B": "Contradice la omisión de tres avenidas.",
+      "C": "Sí menciona cifras, aunque incompletas.",
+      "D": "También sería una generalización excesiva; los datos muestran resultados mixtos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Análisis de fuentes, mapas, tablas o discursos",
+      "subtema_a_reforzar": "Sesgo por omisión de datos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Preguntar qué información falta.",
+        "Comparar datos favorables y desfavorables.",
+        "Evitar conclusiones generales con evidencia parcial."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Detectar sesgo de selección",
+      "Evaluar suficiencia de evidencia"
+    ],
+    "tiempo_estimado_segundos": 115,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "SC-0050",
+    "area": "Sociales y Ciudadanas",
+    "materia_interna": "Análisis de fuentes, mapas, tablas o discursos",
+    "tema": "Lectura de tablas",
+    "subtema": "Interpretación de indicadores sociales",
+    "competencia": "Interpretación de datos sociales",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 67,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una tabla compara dos comunas. Comuna A: 90% de cobertura de acueducto, 70% de cobertura de internet y 95% de matrícula escolar. Comuna B: 65% de cobertura de acueducto, 40% de cobertura de internet y 80% de matrícula escolar.",
+    "pregunta": "¿Cuál conclusión se ajusta mejor a los datos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La Comuna B presenta menores coberturas en los tres indicadores mostrados."
+      },
+      {
+        "letra": "B",
+        "texto": "La Comuna A tiene menor cobertura de acueducto que la Comuna B."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambas comunas tienen exactamente las mismas condiciones."
+      },
+      {
+        "letra": "D",
+        "texto": "La Comuna B supera a la Comuna A en internet y matrícula."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En los tres indicadores, la Comuna B tiene porcentajes menores: acueducto 65 frente a 90, internet 40 frente a 70 y matrícula 80 frente a 95.",
+    "diagnostico_por_error": {
+      "A": "Correcta: compara los tres indicadores.",
+      "B": "Invierte los datos de acueducto.",
+      "C": "Ignora diferencias porcentuales claras.",
+      "D": "Contradice los valores de internet y matrícula."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Análisis de fuentes, mapas, tablas o discursos",
+      "subtema_a_reforzar": "Comparación de indicadores en tablas",
+      "prioridad": "Media",
+      "acciones": [
+        "Comparar indicador por indicador.",
+        "Identificar si la conclusión habla de todos o solo algunos datos.",
+        "Evitar invertir valores entre categorías."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Leer tablas",
+      "Comparar indicadores sociales"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  }
+]

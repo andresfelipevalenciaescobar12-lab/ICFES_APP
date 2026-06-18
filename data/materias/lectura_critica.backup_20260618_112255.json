@@ -1,0 +1,3296 @@
+[
+  {
+    "id": "LC-0001",
+    "area": "Lectura Crítica",
+    "materia_interna": "Identificación de información explícita",
+    "tema": "Texto expositivo",
+    "subtema": "Reconocimiento de datos relevantes",
+    "competencia": "Identificar información explícita",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 43,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un colegio se implementó un programa de lectura diaria de veinte minutos. La propuesta no consistía en aumentar tareas, sino en reservar un espacio silencioso al inicio de la jornada. Durante el primer mes, los docentes registraron mayor disposición de los estudiantes para participar en clase. Sin embargo, algunos señalaron que el programa solo funcionaba cuando el grupo tenía libros suficientes y cuando el profesor también leía durante ese tiempo. La coordinación decidió mantener el programa, pero pidió a la biblioteca organizar préstamos semanales para evitar que algunos estudiantes quedaran sin material.",
+    "pregunta": "Según el texto, ¿qué medida tomó la coordinación para apoyar el programa?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Pedir a la biblioteca que organizara préstamos semanales."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar las tareas de lectura en casa."
+      },
+      {
+        "letra": "C",
+        "texto": "Suspender el programa por falta de libros."
+      },
+      {
+        "letra": "D",
+        "texto": "Reemplazar las clases iniciales por evaluaciones."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto afirma explícitamente que la coordinación pidió a la biblioteca organizar préstamos semanales para evitar que estudiantes quedaran sin material.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica una acción mencionada directamente.",
+      "B": "Confunde el programa con aumento de tareas, idea que el texto niega.",
+      "C": "Contradice la decisión de mantener el programa.",
+      "D": "Introduce una medida no mencionada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Identificación de información explícita",
+      "subtema_a_reforzar": "Ubicación de acciones y decisiones en el texto",
+      "prioridad": "Media",
+      "acciones": [
+        "Subrayar decisiones institucionales en textos breves.",
+        "Diferenciar lo mencionado de lo inferido.",
+        "Responder solo con información respaldada por el texto."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Localizar información explícita",
+      "Distinguir datos de interpretaciones"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0002",
+    "area": "Lectura Crítica",
+    "materia_interna": "Identificación de información explícita",
+    "tema": "Texto expositivo",
+    "subtema": "Condiciones de una propuesta",
+    "competencia": "Identificar información explícita",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 55,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una campaña escolar promovió el uso de botellas reutilizables. La iniciativa empezó después de que el comité ambiental contara los residuos generados en dos recreos y encontrara una alta proporción de envases plásticos de un solo uso. Para evitar que la campaña fuera solo un mensaje decorativo, se instalaron puntos de recarga de agua y se acordó que las tiendas escolares ofrecerían descuentos pequeños a quienes llevaran su propio recipiente. La campaña no prohibió comprar bebidas, pero buscó reducir el desperdicio asociado al consumo cotidiano.",
+    "pregunta": "¿Cuál condición permitió que la campaña no se quedara solo en un mensaje decorativo?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La instalación de puntos de recarga y los descuentos por llevar recipiente propio."
+      },
+      {
+        "letra": "B",
+        "texto": "La prohibición absoluta de comprar bebidas durante los recreos."
+      },
+      {
+        "letra": "C",
+        "texto": "La eliminación de todas las tiendas escolares."
+      },
+      {
+        "letra": "D",
+        "texto": "El aumento de envases plásticos disponibles."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto indica que la campaña se apoyó en acciones concretas: puntos de recarga y descuentos. No se menciona prohibición ni cierre de tiendas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce las medidas explícitas de apoyo.",
+      "B": "Contradice el texto, que aclara que no se prohibió comprar bebidas.",
+      "C": "Agrega una medida inexistente.",
+      "D": "Va en contra del objetivo de reducir residuos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Identificación de información explícita",
+      "subtema_a_reforzar": "Reconocimiento de condiciones y medidas",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar conectores como 'para evitar' o 'se acordó'.",
+        "Separar objetivos de acciones concretas.",
+        "Descartar opciones que contradicen frases explícitas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer acciones explícitas",
+      "Comprender relaciones básicas en el texto"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0003",
+    "area": "Lectura Crítica",
+    "materia_interna": "Identificación de información explícita",
+    "tema": "Texto científico divulgativo",
+    "subtema": "Reconocimiento de resultados",
+    "competencia": "Identificar información explícita",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 61,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un grupo de estudiantes midió la frecuencia cardíaca de diez compañeros antes y después de subir escaleras durante tres minutos. Antes del ejercicio, la mayoría registró valores entre 68 y 82 latidos por minuto. Después del ejercicio, todos presentaron valores superiores a 105 latidos por minuto. El informe concluyó que, en las condiciones del ensayo, el esfuerzo físico breve se asoció con un aumento temporal de la frecuencia cardíaca. Los estudiantes aclararon que el número de participantes era pequeño y que no podían generalizar los resultados a toda la población escolar.",
+    "pregunta": "¿Qué resultado fue observado después del ejercicio?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Todos los participantes registraron más de 105 latidos por minuto."
+      },
+      {
+        "letra": "B",
+        "texto": "La mayoría registró menos de 68 latidos por minuto."
+      },
+      {
+        "letra": "C",
+        "texto": "La frecuencia cardíaca se mantuvo igual en todos."
+      },
+      {
+        "letra": "D",
+        "texto": "Los estudiantes demostraron una conclusión válida para toda la población escolar."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto dice explícitamente que después del ejercicio todos presentaron valores superiores a 105 latidos por minuto.",
+    "diagnostico_por_error": {
+      "A": "Correcta: recupera el resultado observado.",
+      "B": "Confunde los valores previos con los posteriores.",
+      "C": "Contradice el aumento reportado.",
+      "D": "Confunde resultado con una generalización que el texto limita."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Identificación de información explícita",
+      "subtema_a_reforzar": "Lectura de resultados en informes breves",
+      "prioridad": "Alta",
+      "acciones": [
+        "Distinguir datos antes y después de una intervención.",
+        "Ubicar expresiones como 'después del ejercicio'.",
+        "Separar resultados de conclusiones generales."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar resultados explícitos",
+      "Diferenciar datos y alcance de conclusión"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0004",
+    "area": "Lectura Crítica",
+    "materia_interna": "Identificación de información explícita",
+    "tema": "Texto argumentativo",
+    "subtema": "Reconocimiento de postura",
+    "competencia": "Identificar información explícita",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 72,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Algunos estudiantes sostienen que las bibliotecas escolares deberían convertirse por completo en salas digitales. Otros advierten que esa decisión reduciría el acceso de quienes no se sienten cómodos leyendo en pantalla o no cuentan con dispositivos propios. La bibliotecaria propone una alternativa intermedia: ampliar los recursos digitales sin retirar los libros impresos, pues ambos formatos pueden responder a necesidades distintas. Según ella, modernizar una biblioteca no significa reemplazar todos sus materiales, sino diversificar las formas de consulta.",
+    "pregunta": "¿Cuál es la postura explícita de la bibliotecaria?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Defiende combinar recursos digitales y libros impresos."
+      },
+      {
+        "letra": "B",
+        "texto": "Propone eliminar todos los libros físicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Rechaza cualquier uso de tecnología en la biblioteca."
+      },
+      {
+        "letra": "D",
+        "texto": "Afirma que solo deben leer quienes tengan dispositivos propios."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La bibliotecaria propone ampliar recursos digitales sin retirar libros impresos; por tanto, su postura es una combinación de formatos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la postura explícita central.",
+      "B": "Representa la posición extrema que la bibliotecaria no comparte.",
+      "C": "Contradice su apoyo a ampliar recursos digitales.",
+      "D": "Atribuye una exclusión que el texto no sostiene."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Identificación de información explícita",
+      "subtema_a_reforzar": "Posturas de autores o personajes",
+      "prioridad": "Alta",
+      "acciones": [
+        "Buscar verbos de opinión como 'propone' o 'sostiene'.",
+        "Distinguir posturas extremas de alternativas intermedias.",
+        "Subrayar la conclusión del hablante principal."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer tesis explícita",
+      "Distinguir voces en un texto"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0005",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto narrativo breve con intención crítica",
+    "subtema": "Inferencia de actitud",
+    "competencia": "Diferenciar información explícita e implícita",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 64,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Cuando el colegio instaló una pantalla en la entrada para mostrar los mejores puntajes del mes, Julián dejó de mirar el tablero. Antes revisaba cada lunes si su nombre aparecía; ahora pasaba de largo, aunque seguía entregando todas las actividades. En clase, cuando un compañero dijo que la pantalla motivaba a todos, Julián respondió: 'Tal vez motiva a quienes ya están arriba. A otros les recuerda que siempre llegan tarde a la foto'. Nadie contestó, pero varios bajaron la mirada.",
+    "pregunta": "¿Qué puede inferirse mejor sobre la postura de Julián frente a la pantalla?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Considera que puede desmotivar a quienes no aparecen entre los mejores."
+      },
+      {
+        "letra": "B",
+        "texto": "Cree que los puntajes no deben existir en ningún caso."
+      },
+      {
+        "letra": "C",
+        "texto": "Está satisfecho porque su nombre aparece cada semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Quiere que se publiquen más datos personales de los estudiantes."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La metáfora de 'llegan tarde a la foto' sugiere que algunos estudiantes quedan excluidos del reconocimiento y pueden sentirse desmotivados.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta la crítica implícita de Julián.",
+      "B": "Exagera su postura; critica la forma de reconocimiento, no toda evaluación.",
+      "C": "Contradice que dejó de mirar el tablero.",
+      "D": "No se deriva del texto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Inferencia de actitudes a partir de acciones y metáforas",
+      "prioridad": "Alta",
+      "acciones": [
+        "Relacionar acciones del personaje con sus palabras.",
+        "Interpretar metáforas dentro del contexto.",
+        "Evitar inferencias extremas no respaldadas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir postura",
+      "Interpretar lenguaje figurado"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0006",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto argumentativo",
+    "subtema": "Inferencia de supuesto",
+    "competencia": "Reconocer supuestos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 78,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un directivo afirma: 'Si queremos mejorar los resultados del simulacro, debemos aumentar el número de evaluaciones semanales. Los estudiantes aprenden más cuando se acostumbran a responder preguntas bajo presión'. La propuesta recibió apoyo de algunos docentes, pero otros señalaron que practicar más pruebas no garantiza comprensión si no se revisan los errores ni se enseñan estrategias de lectura y razonamiento.",
+    "pregunta": "¿Cuál supuesto sostiene principalmente la propuesta del directivo?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Que la exposición frecuente a pruebas bajo presión mejora el aprendizaje."
+      },
+      {
+        "letra": "B",
+        "texto": "Que revisar errores es más importante que presentar evaluaciones."
+      },
+      {
+        "letra": "C",
+        "texto": "Que los estudiantes no necesitan prepararse para los simulacros."
+      },
+      {
+        "letra": "D",
+        "texto": "Que todas las preguntas de una prueba tienen la misma dificultad."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El directivo justifica su propuesta con la idea de que acostumbrarse a responder bajo presión produce más aprendizaje. Ese supuesto permite conectar más evaluaciones con mejores resultados.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica el supuesto que une medida y objetivo.",
+      "B": "Representa una objeción de otros docentes, no el supuesto del directivo.",
+      "C": "Contradice la idea de aumentar evaluaciones.",
+      "D": "No es necesario para sostener el argumento."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Supuestos en argumentos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar la conclusión y la razón dada.",
+        "Preguntar qué idea debe aceptarse para que la razón apoye la conclusión.",
+        "Diferenciar supuesto de objeción."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer supuestos",
+      "Analizar relación argumento-conclusión"
+    ],
+    "tiempo_estimado_segundos": 110,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0007",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto expositivo",
+    "subtema": "Conclusión implícita",
+    "competencia": "Diferenciar información explícita e implícita",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 58,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una encuesta escolar, muchos estudiantes dijeron que preferían estudiar en grupo antes de los exámenes. Sin embargo, al preguntar por las razones, la mayoría no mencionó que aprendiera más contenidos, sino que se sentía menos ansiosa y podía organizar mejor el tiempo. Algunos afirmaron que estudiar solos les permitía avanzar más rápido, pero también los llevaba a abandonar cuando encontraban un tema difícil.",
+    "pregunta": "¿Qué inferencia es más razonable a partir del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El estudio en grupo puede servir también como apoyo emocional y organizativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Estudiar en grupo siempre garantiza mejores calificaciones."
+      },
+      {
+        "letra": "C",
+        "texto": "Estudiar solo nunca permite avanzar en los contenidos."
+      },
+      {
+        "letra": "D",
+        "texto": "La ansiedad desaparece completamente cuando se estudia acompañado."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto muestra que los estudiantes valoran el grupo por reducir ansiedad y mejorar organización, no solo por aprender contenidos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: infiere una función adicional del estudio grupal.",
+      "B": "Generaliza más allá de la evidencia.",
+      "C": "Contradice que algunos avanzan más rápido estudiando solos.",
+      "D": "Exagera el efecto emocional descrito."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Inferencias moderadas y no absolutas",
+      "prioridad": "Media",
+      "acciones": [
+        "Evitar opciones con 'siempre', 'nunca' o 'completamente' si el texto no las sostiene.",
+        "Relacionar razones explícitas con conclusiones implícitas.",
+        "Comparar la fuerza de cada opción con la evidencia."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir conclusiones",
+      "Evitar generalizaciones indebidas"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0008",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto científico divulgativo",
+    "subtema": "Inferencia causal",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 81,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un artículo divulgativo explica que dormir menos de lo habitual antes de una prueba no solo produce cansancio. También puede afectar la atención sostenida, la memoria de trabajo y la capacidad de revisar errores. El texto aclara que dormir bien no reemplaza estudiar, pero sí crea mejores condiciones para usar lo aprendido. Por eso, algunos orientadores recomiendan que la noche anterior a un examen no se sacrifique el descanso para repasar contenidos de forma desordenada.",
+    "pregunta": "¿Cuál inferencia se ajusta mejor al texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Dormir bien favorece el desempeño porque ayuda a utilizar mejor lo estudiado."
+      },
+      {
+        "letra": "B",
+        "texto": "Dormir bien hace innecesario estudiar antes de una prueba."
+      },
+      {
+        "letra": "C",
+        "texto": "Repasar siempre perjudica el aprendizaje, sin importar cómo se haga."
+      },
+      {
+        "letra": "D",
+        "texto": "El cansancio solo afecta el estado de ánimo, no procesos cognitivos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto afirma que el sueño no reemplaza el estudio, pero mejora condiciones como atención y memoria para usar lo aprendido.",
+    "diagnostico_por_error": {
+      "A": "Correcta: integra descanso y uso del aprendizaje.",
+      "B": "Contradice la aclaración de que dormir no reemplaza estudiar.",
+      "C": "El texto critica el repaso desordenado que sacrifica descanso, no todo repaso.",
+      "D": "Ignora los procesos cognitivos mencionados."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Inferencia causal en textos científicos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar causas y efectos mencionados.",
+        "Evitar convertir relaciones moderadas en afirmaciones absolutas.",
+        "Reconocer aclaraciones que limitan una conclusión."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir relaciones causales",
+      "Integrar información científica"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0009",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto filosófico o reflexivo",
+    "subtema": "Implicación conceptual",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 88,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Se suele decir que una persona es libre cuando nadie le impide elegir. Pero esa definición deja por fuera una dificultad: elegir entre opciones que uno no comprende puede ser apenas una forma elegante de obedecer. Un estudiante que selecciona una carrera solo porque aparece de primera en una lista no ha sido obligado por nadie; sin embargo, su decisión depende de una información tan pobre que la libertad se vuelve superficial. La autonomía exige algo más que ausencia de presión externa: requiere comprender razones, anticipar consecuencias y reconocer qué deseos son propios y cuáles fueron instalados por la costumbre.",
+    "pregunta": "¿Qué idea se infiere del texto sobre la libertad?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La libertad auténtica requiere comprensión, no solo ausencia de impedimentos externos."
+      },
+      {
+        "letra": "B",
+        "texto": "Una persona solo es libre cuando elimina todas sus costumbres."
+      },
+      {
+        "letra": "C",
+        "texto": "Elegir rápidamente demuestra mayor autonomía."
+      },
+      {
+        "letra": "D",
+        "texto": "La presión externa es el único obstáculo posible para decidir."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto cuestiona una definición mínima de libertad y sostiene que la autonomía exige comprender razones y consecuencias.",
+    "diagnostico_por_error": {
+      "A": "Correcta: recoge la implicación central del texto.",
+      "B": "Exagera la crítica a la costumbre; el texto pide reconocer su influencia.",
+      "C": "No se relaciona con la profundidad de comprensión exigida.",
+      "D": "Contradice la tesis, pues el texto muestra obstáculos internos o informativos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Inferencias conceptuales en textos reflexivos",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Identificar la definición que el texto cuestiona.",
+        "Buscar la condición adicional que el autor propone.",
+        "Evitar opciones que reduzcan el argumento a una sola causa."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir tesis conceptual",
+      "Analizar implicaciones filosóficas"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0010",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto argumentativo",
+    "subtema": "Inferencia de intención",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 66,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una profesora pidió a sus estudiantes que no memorizaran definiciones de ciudadanía sin discutir casos reales. Dijo que repetir conceptos puede producir una sensación engañosa de dominio: 'Quien define participación, pero nunca analiza cómo se toman decisiones en su barrio, sabe una palabra, no necesariamente comprende una práctica'. Luego propuso comparar distintas formas de organización estudiantil.",
+    "pregunta": "¿Cuál es la intención principal de la profesora?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Promover una comprensión aplicada de los conceptos."
+      },
+      {
+        "letra": "B",
+        "texto": "Eliminar toda enseñanza de definiciones."
+      },
+      {
+        "letra": "C",
+        "texto": "Sostener que la ciudadanía no puede estudiarse en clase."
+      },
+      {
+        "letra": "D",
+        "texto": "Reemplazar el análisis por repetición de términos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La profesora no rechaza los conceptos, sino su memorización aislada. Busca que se comprendan mediante casos y prácticas reales.",
+    "diagnostico_por_error": {
+      "A": "Correcta: infiere la intención pedagógica.",
+      "B": "Exagera la crítica a la memorización.",
+      "C": "Contradice la propuesta de analizar casos en clase.",
+      "D": "Invierte la intención expresada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Inferencia de intención comunicativa",
+      "prioridad": "Media",
+      "acciones": [
+        "Distinguir crítica parcial de rechazo total.",
+        "Observar qué acción propone el hablante.",
+        "Relacionar ejemplos con propósito."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir intención",
+      "Interpretar crítica pedagógica"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0011",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto narrativo breve con intención crítica",
+    "subtema": "Inferencia social",
+    "competencia": "Diferenciar información explícita e implícita",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 75,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En la reunión de padres, el rector presentó una aplicación para seguir las tareas en tiempo real. Dijo que así las familias podrían acompañar mejor a los estudiantes. Al final, una madre levantó la mano: 'Me parece útil, pero en mi casa solo hay un celular y lo uso para trabajar. Si la escuela supone que todos podemos conectarnos a cualquier hora, algunos acompañamientos se convertirán en reclamos'. El rector guardó silencio antes de responder.",
+    "pregunta": "¿Qué problema señala implícitamente la madre?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La propuesta puede aumentar desigualdades si presupone acceso constante a tecnología."
+      },
+      {
+        "letra": "B",
+        "texto": "Las familias no deben participar en la educación de los estudiantes."
+      },
+      {
+        "letra": "C",
+        "texto": "Las tareas escolares no requieren ningún seguimiento."
+      },
+      {
+        "letra": "D",
+        "texto": "La aplicación solucionará todos los problemas de acompañamiento."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La madre no niega la utilidad de la aplicación; advierte que exigir conexión constante puede afectar a familias con menos recursos tecnológicos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la crítica social implícita.",
+      "B": "Distorsiona su postura, pues acepta que puede ser útil.",
+      "C": "No se deriva de su intervención.",
+      "D": "Contradice la advertencia planteada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Inferencia de problemas sociales en contextos cotidianos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar concesiones como 'me parece útil, pero...'.",
+        "Reconocer condiciones materiales mencionadas.",
+        "Evitar interpretar una objeción como rechazo total."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir crítica implícita",
+      "Interpretar situaciones sociales"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0012",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto expositivo",
+    "subtema": "Inferencia a partir de contraste",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 67,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En muchos cursos se entiende la participación como hablar con frecuencia. Sin embargo, algunos estudiantes participan de otras maneras: formulan preguntas por escrito, ayudan a organizar información o detectan inconsistencias en una explicación. Si el docente solo valora las intervenciones orales espontáneas, puede confundir silencio con desinterés y pasar por alto formas menos visibles de compromiso académico.",
+    "pregunta": "¿Qué se puede inferir del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La participación estudiantil puede manifestarse de formas distintas a hablar en voz alta."
+      },
+      {
+        "letra": "B",
+        "texto": "Hablar en clase siempre indica comprensión profunda."
+      },
+      {
+        "letra": "C",
+        "texto": "Los estudiantes silenciosos nunca participan."
+      },
+      {
+        "letra": "D",
+        "texto": "La participación escrita debe reemplazar por completo la oral."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto contrasta una idea limitada de participación con formas alternativas menos visibles, como preguntas escritas o apoyo en la organización.",
+    "diagnostico_por_error": {
+      "A": "Correcta: capta la inferencia central.",
+      "B": "El texto no asocia hablar con comprensión garantizada.",
+      "C": "Contradice el argumento central.",
+      "D": "Propone un reemplazo total que el texto no defiende."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Inferencias a partir de contrastes",
+      "prioridad": "Media",
+      "acciones": [
+        "Atender conectores como 'sin embargo'.",
+        "Identificar qué idea se amplía o corrige.",
+        "Evitar opciones absolutas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir sentido global",
+      "Reconocer contrastes argumentativos"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0013",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto científico divulgativo",
+    "subtema": "Alcance de evidencia",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 90,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un informe escolar comparó dos grupos de estudiantes. El grupo A desayunó antes de presentar una prueba corta de memoria; el grupo B no desayunó ese día. El grupo A obtuvo un promedio más alto. El informe concluyó que desayunar mejora siempre el rendimiento académico en cualquier área. En una revisión posterior, se encontró que el grupo A había dormido más horas la noche anterior y que sus integrantes habían estudiado durante más tiempo la semana previa. Además, la prueba medía memoria inmediata, no razonamiento matemático ni lectura crítica.",
+    "pregunta": "¿Cuál es la inferencia crítica más adecuada sobre la conclusión del informe?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La conclusión es demasiado amplia porque existen variables no controladas y la prueba evaluó solo memoria inmediata."
+      },
+      {
+        "letra": "B",
+        "texto": "La conclusión es definitiva porque el promedio del grupo A fue mayor."
+      },
+      {
+        "letra": "C",
+        "texto": "El desayuno no puede tener ninguna relación con el rendimiento."
+      },
+      {
+        "letra": "D",
+        "texto": "Dormir más horas demuestra que estudiar no influye en los resultados."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El informe generaliza más allá de sus datos. Hay variables adicionales, como sueño y estudio, y el instrumento solo midió un tipo de desempeño.",
+    "diagnostico_por_error": {
+      "A": "Correcta: evalúa límites de evidencia y generalización.",
+      "B": "Confunde diferencia observada con prueba definitiva.",
+      "C": "Niega una posible relación sin evidencia suficiente.",
+      "D": "Introduce una conclusión que tampoco se deriva de los datos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Alcance de conclusiones científicas",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Buscar variables no controladas.",
+        "Comparar lo medido con lo concluido.",
+        "Evitar conclusiones absolutas a partir de datos limitados."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir límites de evidencia",
+      "Evaluar generalizaciones"
+    ],
+    "tiempo_estimado_segundos": 140,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0014",
+    "area": "Lectura Crítica",
+    "materia_interna": "Inferencias",
+    "tema": "Texto argumentativo",
+    "subtema": "Inferencia de consecuencia",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 60,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un orientador afirma que elegir carrera no debería reducirse a revisar listas de profesiones con mayor salario. Según él, el ingreso económico es una variable importante, pero no la única: también importan las habilidades, la disposición para estudiar durante años, el tipo de problemas que se desea resolver y el estilo de vida asociado a cada profesión.",
+    "pregunta": "¿Qué consecuencia se desprende de la postura del orientador?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La elección de carrera debe considerar varios criterios, no solo el salario."
+      },
+      {
+        "letra": "B",
+        "texto": "El salario no debe considerarse bajo ninguna circunstancia."
+      },
+      {
+        "letra": "C",
+        "texto": "La carrera correcta siempre es la que exige más años de estudio."
+      },
+      {
+        "letra": "D",
+        "texto": "Las habilidades personales no influyen en la elección."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El orientador reconoce el salario como una variable, pero insiste en que debe evaluarse junto con otros factores personales y profesionales.",
+    "diagnostico_por_error": {
+      "A": "Correcta: infiere una consecuencia equilibrada.",
+      "B": "Exagera la postura, pues el texto sí considera importante el ingreso.",
+      "C": "No se deriva de la mención de años de estudio.",
+      "D": "Contradice explícitamente la importancia de habilidades."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Consecuencias de una postura argumentativa",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar qué acepta y qué rechaza el autor.",
+        "Elegir opciones que mantengan el equilibrio del texto.",
+        "Evitar extremos no sostenidos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir consecuencias",
+      "Interpretar posturas matizadas"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0015",
+    "area": "Lectura Crítica",
+    "materia_interna": "Idea principal y propósito del texto",
+    "tema": "Texto argumentativo",
+    "subtema": "Tesis central",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 62,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Se suele pedir a los estudiantes que administren mejor su tiempo, pero pocas veces se revisa cómo está diseñado ese tiempo. Una agenda saturada de tareas breves puede parecer productiva y, al mismo tiempo, impedir la concentración necesaria para comprender textos complejos. La organización no consiste solo en llenar casillas de un horario, sino en proteger bloques de atención profunda. Si la escuela exige pensamiento crítico, debe crear condiciones para practicarlo.",
+    "pregunta": "¿Cuál es la idea principal del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Administrar el tiempo implica proteger espacios de concentración, no solo acumular tareas."
+      },
+      {
+        "letra": "B",
+        "texto": "Los horarios deben eliminarse porque siempre impiden aprender."
+      },
+      {
+        "letra": "C",
+        "texto": "Las tareas breves son la única forma de desarrollar pensamiento crítico."
+      },
+      {
+        "letra": "D",
+        "texto": "La escuela no tiene ninguna responsabilidad en la organización del estudio."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto cuestiona una visión superficial de la productividad y defiende la necesidad de tiempos de atención profunda para comprender y pensar críticamente.",
+    "diagnostico_por_error": {
+      "A": "Correcta: sintetiza la tesis central.",
+      "B": "Exagera; el texto critica la saturación, no todo horario.",
+      "C": "Contradice la crítica a la acumulación de tareas breves.",
+      "D": "Contradice la última oración."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Idea principal y propósito del texto",
+      "subtema_a_reforzar": "Identificación de tesis",
+      "prioridad": "Alta",
+      "acciones": [
+        "Buscar la afirmación que integra todas las ideas.",
+        "Distinguir ejemplos de tesis.",
+        "Descartar opciones extremas o contrarias al cierre del texto."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar idea principal",
+      "Sintetizar argumento"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0016",
+    "area": "Lectura Crítica",
+    "materia_interna": "Idea principal y propósito del texto",
+    "tema": "Texto expositivo",
+    "subtema": "Propósito comunicativo",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 57,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "La respiración diafragmática se utiliza en algunos programas escolares de manejo del estrés. Consiste en realizar inspiraciones lentas, procurando que el abdomen se expanda más que el pecho, y exhalaciones prolongadas. No es un tratamiento médico ni reemplaza la atención profesional cuando existe un problema de salud, pero puede ayudar a regular la activación corporal antes de una exposición oral o una evaluación.",
+    "pregunta": "¿Cuál es el propósito principal del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Explicar en qué consiste una técnica y aclarar sus límites."
+      },
+      {
+        "letra": "B",
+        "texto": "Convencer de que toda atención profesional es innecesaria."
+      },
+      {
+        "letra": "C",
+        "texto": "Narrar una experiencia personal de ansiedad escolar."
+      },
+      {
+        "letra": "D",
+        "texto": "Criticar todas las evaluaciones orales."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto define la respiración diafragmática, menciona usos y advierte que no reemplaza atención profesional. Su propósito es informativo y delimitador.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica explicación y delimitación.",
+      "B": "Contradice la aclaración sobre atención profesional.",
+      "C": "No hay narración personal.",
+      "D": "El texto no critica las evaluaciones."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Idea principal y propósito del texto",
+      "subtema_a_reforzar": "Propósitos comunicativos en textos expositivos",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar si el texto informa, argumenta, narra o instruye.",
+        "Observar aclaraciones sobre alcance.",
+        "No atribuir intención polémica si el tono es explicativo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer propósito",
+      "Distinguir exposición de argumentación"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0017",
+    "area": "Lectura Crítica",
+    "materia_interna": "Idea principal y propósito del texto",
+    "tema": "Texto científico divulgativo",
+    "subtema": "Idea global",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 74,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El cuerpo humano no funciona como un conjunto de piezas aisladas. Cuando una persona realiza actividad física, los músculos requieren más energía; para responder, aumentan la respiración y la frecuencia cardíaca, y se movilizan reservas de nutrientes. Esta coordinación no implica que todos los órganos hagan lo mismo, sino que cada sistema ajusta su función para sostener un equilibrio dinámico. Por eso, comprender la salud exige observar relaciones entre sistemas, no solo memorizar nombres de órganos.",
+    "pregunta": "¿Cuál enunciado expresa mejor la idea global del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La salud debe entenderse como coordinación entre sistemas corporales."
+      },
+      {
+        "letra": "B",
+        "texto": "Todos los órganos cumplen exactamente la misma función durante el ejercicio."
+      },
+      {
+        "letra": "C",
+        "texto": "Memorizar órganos es suficiente para comprender el cuerpo humano."
+      },
+      {
+        "letra": "D",
+        "texto": "La actividad física impide el equilibrio corporal."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto insiste en que el cuerpo funciona mediante relaciones coordinadas entre sistemas y que la salud debe entenderse desde esa integración.",
+    "diagnostico_por_error": {
+      "A": "Correcta: sintetiza la idea global.",
+      "B": "Contradice la idea de funciones distintas coordinadas.",
+      "C": "Contradice la crítica a memorizar nombres aislados.",
+      "D": "El texto muestra ajustes para sostener equilibrio, no impedirlo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Idea principal y propósito del texto",
+      "subtema_a_reforzar": "Síntesis de textos científicos breves",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar la idea que engloba los ejemplos.",
+        "Distinguir explicación central de detalles fisiológicos.",
+        "Revisar frases finales, que suelen condensar tesis."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Sintetizar información",
+      "Comprender sentido global"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0018",
+    "area": "Lectura Crítica",
+    "materia_interna": "Idea principal y propósito del texto",
+    "tema": "Texto filosófico o reflexivo",
+    "subtema": "Propósito reflexivo",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 87,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "La prisa tiene prestigio porque se confunde con importancia. Quien corre de una obligación a otra parece necesario, solicitado, productivo. Pero la prisa también puede ser una forma de evitar preguntas incómodas: ¿para qué hacemos lo que hacemos?, ¿qué merece nuestra atención?, ¿qué decisiones tomamos solo porque no hubo tiempo de pensarlas? No se trata de defender la lentitud como regla universal, sino de recordar que algunas respuestas requieren una pausa. Una vida sin pausas puede estar llena de actividades y, aun así, pobre en deliberación.",
+    "pregunta": "¿Cuál es el propósito principal del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Cuestionar la valoración automática de la prisa y defender la necesidad de pausas reflexivas."
+      },
+      {
+        "letra": "B",
+        "texto": "Demostrar que toda persona ocupada carece de importancia."
+      },
+      {
+        "letra": "C",
+        "texto": "Proponer que la lentitud debe aplicarse en todas las situaciones."
+      },
+      {
+        "letra": "D",
+        "texto": "Explicar un método técnico para organizar horarios."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto no condena toda rapidez, sino la confusión entre prisa e importancia. Su propósito es invitar a una reflexión sobre pausas y deliberación.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica el propósito reflexivo central.",
+      "B": "Caricaturiza la crítica del texto.",
+      "C": "Contradice la aclaración de que no se defiende la lentitud como regla universal.",
+      "D": "No es un texto instructivo ni técnico."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Idea principal y propósito del texto",
+      "subtema_a_reforzar": "Propósito en textos reflexivos",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Ubicar matices como 'no se trata de... sino de...'.",
+        "Diferenciar reflexión crítica de instrucción práctica.",
+        "Evitar opciones que absolutizan una postura matizada."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer propósito global",
+      "Interpretar matices argumentativos"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0019",
+    "area": "Lectura Crítica",
+    "materia_interna": "Idea principal y propósito del texto",
+    "tema": "Texto argumentativo",
+    "subtema": "Tesis y apoyo",
+    "competencia": "Identificar tesis, argumentos y conclusiones",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 79,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Los simulacros son útiles cuando se convierten en diagnóstico. Si solo se entregan puntajes, muchos estudiantes interpretan el resultado como una etiqueta: 'soy bueno' o 'soy malo'. En cambio, cuando se analizan patrones de error, tiempos por sección y tipos de pregunta fallados, el simulacro permite ajustar estrategias. Evaluar sin retroalimentar es como tomar la temperatura y negarse a leer el termómetro.",
+    "pregunta": "¿Cuál es la tesis principal del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Los simulacros sirven si se usan para diagnosticar y retroalimentar, no solo para asignar puntajes."
+      },
+      {
+        "letra": "B",
+        "texto": "Los puntajes deben eliminarse porque no aportan ninguna información."
+      },
+      {
+        "letra": "C",
+        "texto": "El único factor importante en una prueba es el tiempo por sección."
+      },
+      {
+        "letra": "D",
+        "texto": "Los estudiantes no deben presentar simulacros."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto no rechaza los simulacros; sostiene que su utilidad depende de analizarlos como diagnóstico con retroalimentación.",
+    "diagnostico_por_error": {
+      "A": "Correcta: recoge tesis y condición de utilidad.",
+      "B": "Exagera; el texto critica entregar solo puntajes.",
+      "C": "El tiempo es un elemento entre varios.",
+      "D": "Contradice la afirmación inicial de utilidad."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Idea principal y propósito del texto",
+      "subtema_a_reforzar": "Identificación de tesis en textos argumentativos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Distinguir crítica parcial de rechazo total.",
+        "Buscar la condición que el texto considera central.",
+        "Relacionar analogías con la tesis."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar tesis",
+      "Comprender analogías argumentativas"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0020",
+    "area": "Lectura Crítica",
+    "materia_interna": "Idea principal y propósito del texto",
+    "tema": "Texto narrativo breve con intención crítica",
+    "subtema": "Sentido global narrativo",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 68,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El profesor anunció que premiaría al estudiante que más libros leyera durante el periodo. Al principio, el salón se llenó de listas, marcas y competencias. Algunos leían de prisa para sumar títulos; otros escogían textos cortos aunque no les interesaran. Al final, una estudiante que había leído solo dos libros levantó la mano y explicó con detalle cómo una idea había cambiado su forma de ver una discusión familiar. El profesor miró la tabla de posiciones y, por primera vez, dudó del criterio del premio.",
+    "pregunta": "¿Cuál es el sentido crítico principal del relato?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Cuestiona medir la lectura solo por cantidad de libros leídos."
+      },
+      {
+        "letra": "B",
+        "texto": "Afirma que leer pocos libros siempre es mejor que leer muchos."
+      },
+      {
+        "letra": "C",
+        "texto": "Sostiene que los premios hacen imposible cualquier aprendizaje."
+      },
+      {
+        "letra": "D",
+        "texto": "Defiende que solo deben leerse textos cortos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El relato contrasta la competencia por cantidad con una experiencia de comprensión profunda, lo que cuestiona el criterio del premio.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta la crítica del relato.",
+      "B": "Convierte un caso narrativo en regla absoluta.",
+      "C": "Exagera la crítica al premio específico.",
+      "D": "Contradice el problema de escoger textos cortos solo para sumar."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Idea principal y propósito del texto",
+      "subtema_a_reforzar": "Sentido global en narraciones críticas",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar el cambio final del personaje.",
+        "Relacionar el conflicto con la crítica implícita.",
+        "Evitar transformar el mensaje en una regla extrema."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Comprender sentido global",
+      "Inferir crítica narrativa"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0021",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Evaluación de evidencia",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 76,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un estudiante afirma: 'La biblioteca debe cerrar más tarde porque a mí me sirve estudiar después de las cinco'. Otro responde: 'Estoy de acuerdo con ampliar el horario, pero necesitamos saber cuántos estudiantes la usarían, si hay personal disponible y qué costo tendría mantenerla abierta'.",
+    "pregunta": "¿Cuál evaluación del primer argumento es más adecuada?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Es débil porque usa una experiencia personal como única base para una decisión general."
+      },
+      {
+        "letra": "B",
+        "texto": "Es concluyente porque toda experiencia personal prueba una necesidad colectiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Es inválido porque nadie puede estudiar después de las cinco."
+      },
+      {
+        "letra": "D",
+        "texto": "Es fuerte porque no requiere considerar costos ni usuarios."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La experiencia personal puede ser un indicio, pero no basta para justificar una política general sin datos de demanda, recursos y costos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: evalúa la suficiencia de la evidencia.",
+      "B": "Sobrestima el valor de un caso individual.",
+      "C": "Introduce una afirmación falsa o no sustentada.",
+      "D": "Ignora variables relevantes para la decisión."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Evidencia suficiente e insuficiente",
+      "prioridad": "Alta",
+      "acciones": [
+        "Distinguir anécdota de evidencia representativa.",
+        "Identificar qué datos faltan para apoyar una conclusión.",
+        "Evaluar si una conclusión general se basa en casos suficientes."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar evidencia",
+      "Detectar generalización apresurada"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0022",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Identificación de conclusión",
+    "competencia": "Identificar tesis, argumentos y conclusiones",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 59,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "La cafetería escolar debería publicar información nutricional básica de sus productos. Muchos estudiantes compran alimentos sin saber su contenido de azúcar o grasa, y la información permitiría tomar decisiones más conscientes. No se trata de prohibir productos, sino de ofrecer datos claros para que cada persona elija con mayor responsabilidad.",
+    "pregunta": "¿Cuál es la conclusión defendida en el texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La cafetería debería publicar información nutricional básica."
+      },
+      {
+        "letra": "B",
+        "texto": "Todos los productos de cafetería deben prohibirse."
+      },
+      {
+        "letra": "C",
+        "texto": "Los estudiantes siempre eligen mal sus alimentos."
+      },
+      {
+        "letra": "D",
+        "texto": "La información nutricional impide cualquier decisión personal."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La primera oración presenta la tesis o conclusión; las demás razones explican por qué publicar la información sería útil.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la conclusión central.",
+      "B": "Contradice la aclaración de que no se trata de prohibir.",
+      "C": "Generaliza de forma injustificada.",
+      "D": "Invierte el papel de la información."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Diferenciación entre conclusión y razones",
+      "prioridad": "Media",
+      "acciones": [
+        "Buscar qué propuesta defiende el texto.",
+        "Distinguir la tesis de los argumentos que la apoyan.",
+        "Identificar aclaraciones que descartan interpretaciones extremas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar conclusión",
+      "Distinguir razones de tesis"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0023",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Contraargumento",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 80,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un grupo propone eliminar las exposiciones orales porque algunos estudiantes sienten ansiedad al hablar en público. Afirman que así se protegería el bienestar emocional. Otro grupo responde que, en lugar de eliminarlas, se podrían preparar progresivamente: primero exposiciones en parejas, luego ante grupos pequeños y finalmente ante el curso completo, con retroalimentación respetuosa.",
+    "pregunta": "¿Cuál opción evalúa mejor la respuesta del segundo grupo?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Presenta una alternativa que atiende el problema sin renunciar por completo a la habilidad que se busca desarrollar."
+      },
+      {
+        "letra": "B",
+        "texto": "Ignora la ansiedad porque obliga a exponer inmediatamente ante todo el curso."
+      },
+      {
+        "letra": "C",
+        "texto": "Defiende que la ansiedad no existe en contextos escolares."
+      },
+      {
+        "letra": "D",
+        "texto": "Acepta eliminar toda comunicación oral del currículo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El segundo grupo reconoce la dificultad y propone una estrategia gradual, equilibrando bienestar y desarrollo de habilidades comunicativas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: evalúa la solución intermedia.",
+      "B": "Contradice la progresión propuesta.",
+      "C": "No niega la ansiedad; la toma como problema a manejar.",
+      "D": "No propone eliminar la oralidad."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Evaluación de contraargumentos y alternativas",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar si la respuesta niega, concede o reformula el problema.",
+        "Valorar alternativas intermedias.",
+        "Distinguir solución gradual de imposición inmediata."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar contraargumentos",
+      "Reconocer soluciones matizadas"
+    ],
+    "tiempo_estimado_segundos": 110,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0024",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Falacia de falsa causa",
+    "competencia": "Reconocer supuestos",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 91,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Después de instalar una nueva cartelera motivacional, el promedio del curso subió cinco puntos en el siguiente simulacro. Un docente concluyó: 'La cartelera causó la mejora; por tanto, debemos poner carteleras en todos los salones'. Sin embargo, durante ese mismo mes se realizaron asesorías adicionales, se redujo el número de tareas repetitivas y varios estudiantes empezaron grupos de estudio.",
+    "pregunta": "¿Cuál es la debilidad principal del argumento del docente?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Atribuye la mejora a una sola causa sin descartar otros factores ocurridos al mismo tiempo."
+      },
+      {
+        "letra": "B",
+        "texto": "Usa demasiadas evidencias independientes para apoyar la conclusión."
+      },
+      {
+        "letra": "C",
+        "texto": "Niega que haya existido aumento en el promedio."
+      },
+      {
+        "letra": "D",
+        "texto": "Demuestra que las asesorías no pueden influir en los resultados."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El argumento comete una atribución causal apresurada: observa una mejora posterior a la cartelera, pero no controla otras intervenciones simultáneas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: detecta falsa causa o causalidad no demostrada.",
+      "B": "El problema es falta de control, no exceso de evidencia.",
+      "C": "El aumento sí se reconoce.",
+      "D": "No se demuestra que las asesorías sean irrelevantes."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Falacias causales y variables alternativas",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Diferenciar correlación temporal de causalidad.",
+        "Buscar factores simultáneos que puedan explicar el resultado.",
+        "Evaluar si la conclusión descarta explicaciones alternativas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Detectar falacias",
+      "Evaluar causalidad"
+    ],
+    "tiempo_estimado_segundos": 135,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0025",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Fortalecimiento de argumento",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 77,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una estudiante sostiene que conviene abrir un espacio semanal de resolución de dudas antes del simulacro. Su argumento es que muchos compañeros fallan no porque desconozcan todos los temas, sino porque acumulan preguntas pequeñas que nunca formulan en clase.",
+    "pregunta": "¿Cuál evidencia fortalecería mejor su argumento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Una encuesta donde muchos estudiantes indiquen que tienen dudas específicas que no alcanzan a preguntar durante clase."
+      },
+      {
+        "letra": "B",
+        "texto": "La opinión de un solo estudiante que prefiere no asistir a asesorías."
+      },
+      {
+        "letra": "C",
+        "texto": "Una lista de materias que no se evaluarán en el simulacro."
+      },
+      {
+        "letra": "D",
+        "texto": "Un cartel que diga que estudiar es importante."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La encuesta aportaría evidencia directa sobre la existencia de dudas acumuladas, que es la base del argumento.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aporta evidencia relevante y representativa.",
+      "B": "Un caso aislado y contrario no fortalece la propuesta.",
+      "C": "No aborda el problema de dudas específicas.",
+      "D": "Es un mensaje motivacional, no evidencia."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Evidencia relevante para fortalecer argumentos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar la premisa central del argumento.",
+        "Buscar evidencia que confirme esa premisa.",
+        "Distinguir datos relevantes de mensajes generales."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Seleccionar evidencia",
+      "Fortalecer argumentos"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0026",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Debilitamiento de argumento",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 83,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un coordinador afirma que prohibir los celulares durante toda la jornada mejorará la concentración, porque los estudiantes ya no tendrán distracciones digitales. Varios docentes recuerdan que algunas clases usan aplicaciones de medición, diccionarios y plataformas de lectura que funcionan en los celulares de los estudiantes.",
+    "pregunta": "¿Cuál información debilita más el argumento del coordinador?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Que algunos celulares se usan como herramientas académicas en actividades guiadas."
+      },
+      {
+        "letra": "B",
+        "texto": "Que los celulares pueden tener distintos colores y tamaños."
+      },
+      {
+        "letra": "C",
+        "texto": "Que algunos estudiantes cargan sus celulares en casa."
+      },
+      {
+        "letra": "D",
+        "texto": "Que la concentración es importante para aprender."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El argumento supone que el celular funciona solo como distractor. Si también se usa académicamente, una prohibición total puede afectar actividades útiles.",
+    "diagnostico_por_error": {
+      "A": "Correcta: ataca un supuesto central del argumento.",
+      "B": "Es irrelevante para la concentración.",
+      "C": "No afecta la relación entre prohibición y aprendizaje.",
+      "D": "Apoya una idea general, pero no debilita la medida."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Identificación de información que debilita argumentos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar el supuesto que sostiene la conclusión.",
+        "Buscar datos que contradigan ese supuesto.",
+        "Descartar información verdadera pero irrelevante."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Debilitar argumentos",
+      "Reconocer relevancia"
+    ],
+    "tiempo_estimado_segundos": 110,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0027",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Analogía",
+    "competencia": "Analizar recursos argumentativos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 65,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una orientadora dice: 'Prepararse para una prueba no es llenar una maleta con datos sueltos; es organizar una caja de herramientas. No basta tener muchos objetos, hay que saber cuándo usar cada uno'. Luego explica que los estudiantes deben practicar estrategias para distintos tipos de pregunta.",
+    "pregunta": "¿Qué función cumple la comparación con una caja de herramientas?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Mostrar que el conocimiento debe usarse estratégicamente según la situación."
+      },
+      {
+        "letra": "B",
+        "texto": "Sugerir que estudiar consiste solo en memorizar listas."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar que las pruebas deben resolverse con objetos físicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Defender que tener más datos siempre garantiza mejores resultados."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La analogía contrasta acumular datos con saber utilizar recursos adecuados para cada tipo de pregunta.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta la función de la analogía.",
+      "B": "Contradice la comparación.",
+      "C": "Toma la analogía de forma literal.",
+      "D": "Ignora la importancia del uso estratégico."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Función de analogías en argumentos",
+      "prioridad": "Media",
+      "acciones": [
+        "Preguntar qué idea abstracta aclara la comparación.",
+        "No interpretar metáforas literalmente.",
+        "Identificar el contraste que construye la analogía."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar analogías",
+      "Comprender recursos argumentativos"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0028",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Consistencia interna",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 89,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un comité escolar afirma: 'Para promover la autonomía, todos los estudiantes deberán seguir exactamente el mismo plan de estudio, con los mismos horarios y las mismas técnicas. Así aprenderán a tomar decisiones por sí mismos'. Algunos docentes cuestionan la propuesta porque consideran que la autonomía se desarrolla cuando los estudiantes aprenden a elegir estrategias, justificar decisiones y evaluar resultados, no cuando solo obedecen un esquema único.",
+    "pregunta": "¿Cuál es el problema argumentativo principal de la propuesta del comité?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Existe tensión entre el objetivo de promover autonomía y el medio de imponer un plan único."
+      },
+      {
+        "letra": "B",
+        "texto": "La propuesta es fuerte porque autonomía significa obedecer instrucciones idénticas."
+      },
+      {
+        "letra": "C",
+        "texto": "El comité no menciona horarios, por eso el argumento no puede evaluarse."
+      },
+      {
+        "letra": "D",
+        "texto": "Los docentes rechazan que los estudiantes aprendan a justificar decisiones."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La propuesta busca autonomía, pero usa un mecanismo que reduce la posibilidad de elegir, justificar y ajustar estrategias. Hay inconsistencia entre fin y medio.",
+    "diagnostico_por_error": {
+      "A": "Correcta: evalúa la coherencia interna del argumento.",
+      "B": "Define autonomía de manera contraria al texto.",
+      "C": "El comité sí menciona horarios y técnicas iguales.",
+      "D": "Los docentes justamente valoran la justificación de decisiones."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Coherencia entre medios y fines",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Identificar el objetivo declarado.",
+        "Analizar si la medida propuesta conduce a ese objetivo.",
+        "Detectar contradicciones entre propósito y procedimiento."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar consistencia argumentativa",
+      "Reconocer contradicción medio-fin"
+    ],
+    "tiempo_estimado_segundos": 135,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0029",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Distinción entre hecho y opinión",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 60,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un estudiante escribe: 'El laboratorio nuevo tiene doce microscopios y mesas resistentes. Por eso, es el mejor espacio del colegio'. La primera oración puede verificarse mediante observación; la segunda expresa una valoración que requeriría criterios adicionales, como uso, seguridad, ventilación o impacto en el aprendizaje.",
+    "pregunta": "¿Cuál opción distingue correctamente hecho y opinión en el texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La cantidad de microscopios es un hecho verificable; decir que es el mejor espacio es una opinión evaluativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Ambas oraciones son hechos porque aparecen en el mismo texto."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambas oraciones son opiniones porque hablan del laboratorio."
+      },
+      {
+        "letra": "D",
+        "texto": "La cantidad de microscopios es opinión y la valoración es hecho."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Un hecho puede verificarse; una valoración como 'el mejor' depende de criterios y comparación. Por eso la opción A distingue correctamente.",
+    "diagnostico_por_error": {
+      "A": "Correcta: diferencia verificabilidad y valoración.",
+      "B": "Confunde ubicación en el texto con tipo de afirmación.",
+      "C": "No reconoce que hay datos observables.",
+      "D": "Invierte las categorías."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Hechos, opiniones y criterios de valoración",
+      "prioridad": "Media",
+      "acciones": [
+        "Preguntar si una afirmación se puede verificar directamente.",
+        "Identificar palabras valorativas como 'mejor' o 'peor'.",
+        "Buscar criterios necesarios para sostener una opinión."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Distinguir hecho y opinión",
+      "Evaluar afirmaciones"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0030",
+    "area": "Lectura Crítica",
+    "materia_interna": "Argumentación y evaluación de argumentos",
+    "tema": "Texto argumentativo",
+    "subtema": "Premisa implícita",
+    "competencia": "Reconocer supuestos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una estudiante argumenta: 'El colegio debería enseñar primeros auxilios básicos, porque cualquier persona puede presenciar una emergencia antes de que llegue ayuda profesional'.",
+    "pregunta": "¿Qué premisa implícita necesita el argumento para ser más sólido?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Conocer primeros auxilios básicos puede ayudar a actuar de manera adecuada mientras llega ayuda profesional."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas las emergencias pueden resolverse completamente sin profesionales."
+      },
+      {
+        "letra": "C",
+        "texto": "Los estudiantes nunca presencian situaciones de riesgo."
+      },
+      {
+        "letra": "D",
+        "texto": "La ayuda profesional no tiene importancia en ninguna emergencia."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Para que la posibilidad de presenciar una emergencia justifique enseñar primeros auxilios, debe asumirse que ese conocimiento permite actuar mejor en la espera.",
+    "diagnostico_por_error": {
+      "A": "Correcta: conecta la razón con la conclusión.",
+      "B": "Exagera el alcance de los primeros auxilios.",
+      "C": "Contradice la premisa explícita.",
+      "D": "Contradice la referencia a ayuda profesional."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Argumentación y evaluación de argumentos",
+      "subtema_a_reforzar": "Premisas implícitas",
+      "prioridad": "Alta",
+      "acciones": [
+        "Ubicar conclusión y razón explícita.",
+        "Preguntar qué idea falta para unirlas.",
+        "Evitar premisas absolutas que exageran el argumento."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer premisas implícitas",
+      "Analizar estructura argumentativa"
+    ],
+    "tiempo_estimado_segundos": 110,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0031",
+    "area": "Lectura Crítica",
+    "materia_interna": "Estructura textual y relaciones lógicas",
+    "tema": "Texto expositivo",
+    "subtema": "Conectores de contraste",
+    "competencia": "Analizar conectores y relaciones lógicas",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 56,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Algunos estudiantes prefieren estudiar con música porque sienten que el ambiente se vuelve menos monótono. Sin embargo, cuando la música tiene letra y el tema exige lectura compleja, puede competir con el procesamiento verbal del texto. Por eso, no basta preguntar si la música 'ayuda' o 'distrae'; conviene considerar qué tipo de música se usa y qué tarea se realiza.",
+    "pregunta": "¿Qué relación lógica introduce la expresión 'Sin embargo'?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Contraste entre una percepción positiva y una posible dificultad."
+      },
+      {
+        "letra": "B",
+        "texto": "Repetición exacta de la idea anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Causa directa de la preferencia por la música."
+      },
+      {
+        "letra": "D",
+        "texto": "Enumeración de ejemplos sin oposición."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Sin embargo' introduce una objeción o contraste: aunque algunos sienten que la música ayuda, en ciertos casos puede interferir.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica relación adversativa.",
+      "B": "No hay repetición, sino matiz contrario.",
+      "C": "El conector no introduce causa.",
+      "D": "No se limita a enumerar ejemplos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Estructura textual y relaciones lógicas",
+      "subtema_a_reforzar": "Conectores adversativos",
+      "prioridad": "Media",
+      "acciones": [
+        "Estudiar conectores como 'sin embargo', 'pero' y 'no obstante'.",
+        "Identificar qué idea se contrapone.",
+        "Reescribir el texto con otro conector equivalente."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar conectores",
+      "Reconocer contraste"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0032",
+    "area": "Lectura Crítica",
+    "materia_interna": "Estructura textual y relaciones lógicas",
+    "tema": "Texto argumentativo",
+    "subtema": "Relación causa-consecuencia",
+    "competencia": "Analizar conectores y relaciones lógicas",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 63,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El colegio redujo el ruido en los pasillos durante los cambios de clase. Como consecuencia, los docentes reportaron que las clases iniciaban con menos interrupciones. No obstante, algunos estudiantes señalaron que la medida debía acompañarse de más espacios de descanso, pues el silencio permanente no equivale necesariamente a bienestar.",
+    "pregunta": "¿Qué relación establece la expresión 'Como consecuencia'?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Presenta un efecto asociado a la reducción del ruido."
+      },
+      {
+        "letra": "B",
+        "texto": "Introduce una objeción a la medida."
+      },
+      {
+        "letra": "C",
+        "texto": "Indica que el ruido aumentó."
+      },
+      {
+        "letra": "D",
+        "texto": "Introduce una comparación entre docentes."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Como consecuencia' conecta la reducción del ruido con un efecto reportado: menos interrupciones al iniciar clase.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce relación causa-efecto.",
+      "B": "La objeción aparece con 'No obstante'.",
+      "C": "Contradice la reducción mencionada.",
+      "D": "No hay comparación entre docentes."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Estructura textual y relaciones lógicas",
+      "subtema_a_reforzar": "Conectores causales y consecutivos",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar qué hecho aparece antes del conector.",
+        "Determinar si lo que sigue es causa o efecto.",
+        "Diferenciar conectores consecutivos de adversativos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer consecuencia",
+      "Analizar estructura lógica"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0033",
+    "area": "Lectura Crítica",
+    "materia_interna": "Estructura textual y relaciones lógicas",
+    "tema": "Texto expositivo",
+    "subtema": "Orden lógico de ideas",
+    "competencia": "Analizar conectores y relaciones lógicas",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 73,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Para evaluar una fuente de información, primero conviene identificar quién la produce y con qué propósito. Luego es necesario revisar si presenta datos verificables o solo afirmaciones generales. Finalmente, se puede comparar la información con otras fuentes confiables antes de usarla en un trabajo académico.",
+    "pregunta": "¿Cuál es la estructura predominante del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Secuencia de pasos para evaluar una fuente."
+      },
+      {
+        "letra": "B",
+        "texto": "Narración de un conflicto entre personajes."
+      },
+      {
+        "letra": "C",
+        "texto": "Descripción de un lugar físico."
+      },
+      {
+        "letra": "D",
+        "texto": "Lista de opiniones sin orden."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los conectores 'primero', 'luego' y 'finalmente' organizan una secuencia de acciones para evaluar fuentes.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la estructura secuencial.",
+      "B": "No hay personajes ni conflicto narrativo.",
+      "C": "No se describe un espacio.",
+      "D": "Las ideas tienen orden procedimental."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Estructura textual y relaciones lógicas",
+      "subtema_a_reforzar": "Estructuras secuenciales",
+      "prioridad": "Alta",
+      "acciones": [
+        "Reconocer marcadores temporales o de orden.",
+        "Distinguir secuencia de descripción o narración.",
+        "Preguntar si el texto indica pasos para hacer algo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar estructura textual",
+      "Reconocer orden lógico"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0034",
+    "area": "Lectura Crítica",
+    "materia_interna": "Estructura textual y relaciones lógicas",
+    "tema": "Texto argumentativo",
+    "subtema": "Concesión y refutación",
+    "competencia": "Analizar conectores y relaciones lógicas",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 86,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Es cierto que las evaluaciones estandarizadas permiten comparar resultados entre instituciones. No obstante, si se usan como único criterio para juzgar la calidad educativa, pueden ocultar procesos que no caben en una cifra: acompañamiento docente, formación ética, inclusión de estudiantes con ritmos distintos y desarrollo de pensamiento crítico. Por tanto, los puntajes deben leerse como indicadores parciales, no como retratos completos de una escuela.",
+    "pregunta": "¿Cómo se organiza la argumentación del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Concede una ventaja de las pruebas, luego limita su alcance y concluye que los puntajes son indicadores parciales."
+      },
+      {
+        "letra": "B",
+        "texto": "Niega desde el inicio cualquier utilidad de las pruebas y concluye que deben desaparecer."
+      },
+      {
+        "letra": "C",
+        "texto": "Enumera datos estadísticos sin formular una conclusión."
+      },
+      {
+        "letra": "D",
+        "texto": "Presenta una narración cronológica sobre una escuela específica."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La estructura es concesiva: acepta una ventaja, introduce una objeción con 'No obstante' y concluye con una postura matizada.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce concesión, limitación y conclusión.",
+      "B": "Ignora la concesión inicial.",
+      "C": "No hay datos estadísticos específicos y sí hay conclusión.",
+      "D": "No se narra una secuencia de hechos en una escuela particular."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Estructura textual y relaciones lógicas",
+      "subtema_a_reforzar": "Concesión y refutación",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Identificar expresiones como 'es cierto que' y 'no obstante'.",
+        "Distinguir aceptar parcialmente de rechazar totalmente.",
+        "Ubicar la conclusión introducida por 'por tanto'."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Analizar estructura argumentativa",
+      "Reconocer concesiones"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0035",
+    "area": "Lectura Crítica",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Texto argumentativo",
+    "subtema": "Significado contextual",
+    "competencia": "Comprender vocabulario en contexto",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 66,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El informe no propone eliminar las tareas, sino hacerlas más pertinentes. Una actividad pertinente es aquella que guarda relación clara con los objetivos de aprendizaje y permite practicar habilidades necesarias. En cambio, una tarea extensa pero desconectada del propósito de clase puede consumir tiempo sin mejorar la comprensión.",
+    "pregunta": "En el contexto, la palabra 'pertinentes' significa principalmente:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Adecuadas y relacionadas con el propósito de aprendizaje."
+      },
+      {
+        "letra": "B",
+        "texto": "Largas y difíciles de terminar."
+      },
+      {
+        "letra": "C",
+        "texto": "Decorativas y agradables a la vista."
+      },
+      {
+        "letra": "D",
+        "texto": "Obligatorias aunque no tengan relación con la clase."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El mismo texto define la pertinencia como relación clara con objetivos y práctica de habilidades necesarias.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta el término según el contexto.",
+      "B": "Confunde extensión con pertinencia.",
+      "C": "No corresponde al campo académico del texto.",
+      "D": "Contradice la idea de relación con objetivos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Definición contextual de palabras académicas",
+      "prioridad": "Media",
+      "acciones": [
+        "Buscar pistas de definición cercanas a la palabra.",
+        "Reemplazar la palabra por cada opción y verificar coherencia.",
+        "Distinguir significado general de significado en contexto."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar vocabulario",
+      "Usar pistas contextuales"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0036",
+    "area": "Lectura Crítica",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Texto filosófico o reflexivo",
+    "subtema": "Matiz de una palabra",
+    "competencia": "Comprender vocabulario en contexto",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 74,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "La discusión no fue inútil; fue incómoda. Y esa incomodidad resultó fecunda, porque obligó al grupo a revisar acuerdos que todos repetían sin entender. Una conversación fecunda no es necesariamente tranquila: puede producir preguntas, cambios de perspectiva y decisiones más cuidadosas.",
+    "pregunta": "En el texto, la palabra 'fecunda' se entiende mejor como:",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Productiva en ideas o reflexiones."
+      },
+      {
+        "letra": "B",
+        "texto": "Silenciosa y sin desacuerdos."
+      },
+      {
+        "letra": "C",
+        "texto": "Inútil para tomar decisiones."
+      },
+      {
+        "letra": "D",
+        "texto": "Rápida y superficial."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El contexto asocia 'fecunda' con producir preguntas, cambios de perspectiva y decisiones cuidadosas; por eso significa productiva en sentido intelectual.",
+    "diagnostico_por_error": {
+      "A": "Correcta: capta el matiz contextual.",
+      "B": "Contradice que la conversación fue incómoda.",
+      "C": "Contradice la utilidad reflexiva descrita.",
+      "D": "No se relaciona con profundidad ni producción de ideas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Sentido figurado de palabras",
+      "prioridad": "Alta",
+      "acciones": [
+        "Relacionar la palabra con ejemplos posteriores.",
+        "Identificar si el uso es literal o figurado.",
+        "Descartar opciones que contradicen el tono del texto."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar sentido figurado",
+      "Usar contexto semántico"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0037",
+    "area": "Lectura Crítica",
+    "materia_interna": "Textos científicos o académicos breves",
+    "tema": "Texto científico divulgativo",
+    "subtema": "Diseño experimental",
+    "competencia": "Identificar tesis, argumentos y conclusiones",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 64,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un estudio escolar quiso evaluar si hacer pausas activas mejora la concentración. Un curso realizó pausas de cinco minutos cada hora; otro curso continuó con su rutina habitual. Al final de la mañana, ambos respondieron una prueba de atención. Los investigadores aclararon que los cursos tenían docentes distintos y horarios diferentes, por lo que los resultados debían interpretarse con cautela.",
+    "pregunta": "¿Por qué los resultados deben interpretarse con cautela?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque hay variables adicionales, como docentes y horarios, que podrían influir en la atención."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque ningún estudio escolar puede comparar dos grupos."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque las pausas activas no pueden medirse de ninguna forma."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque una prueba de atención siempre produce resultados falsos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La cautela se debe a variables no controladas que pueden afectar los resultados, lo que limita la atribución causal a las pausas activas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce variables de confusión.",
+      "B": "Generaliza de forma injustificada.",
+      "C": "El estudio sí puede medir atención después de pausas.",
+      "D": "Descalifica toda prueba sin base en el texto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Textos científicos o académicos breves",
+      "subtema_a_reforzar": "Variables de confusión",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar diferencias entre grupos comparados.",
+        "Distinguir asociación de causalidad.",
+        "Reconocer limitaciones declaradas por los investigadores."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Leer textos científicos",
+      "Evaluar diseño experimental"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0038",
+    "area": "Lectura Crítica",
+    "materia_interna": "Textos científicos o académicos breves",
+    "tema": "Texto académico",
+    "subtema": "Alcance de una conclusión",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 79,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una revisión de hábitos de estudio encontró que los estudiantes que planeaban sus sesiones con metas específicas tendían a reportar menos sensación de desorden. El texto advierte que la revisión se basó en autoinformes, es decir, en respuestas dadas por los propios estudiantes, y no en observaciones directas de sus rutinas. Por ello, los autores recomiendan no confundir la percepción de organización con una medición objetiva del comportamiento.",
+    "pregunta": "¿Cuál conclusión respeta mejor el alcance del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Planear con metas específicas se asocia con menor sensación de desorden, según lo reportado por los estudiantes."
+      },
+      {
+        "letra": "B",
+        "texto": "Planear metas elimina de manera objetiva todo desorden en cualquier estudiante."
+      },
+      {
+        "letra": "C",
+        "texto": "Los autoinformes prueban exactamente cómo estudia cada estudiante."
+      },
+      {
+        "letra": "D",
+        "texto": "La planificación no tiene ninguna relación con la percepción de organización."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La opción A conserva las limitaciones: habla de asociación y de percepción reportada, no de eliminación objetiva del desorden.",
+    "diagnostico_por_error": {
+      "A": "Correcta: respeta alcance y fuente de los datos.",
+      "B": "Generaliza y convierte percepción en medición objetiva.",
+      "C": "Ignora la limitación de los autoinformes.",
+      "D": "Contradice la asociación descrita."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Textos científicos o académicos breves",
+      "subtema_a_reforzar": "Conclusiones proporcionales a la evidencia",
+      "prioridad": "Alta",
+      "acciones": [
+        "Distinguir asociación de causalidad.",
+        "Observar si los datos son autoinformes u observaciones.",
+        "Elegir conclusiones con lenguaje moderado."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar alcance",
+      "Interpretar cautelas metodológicas"
+    ],
+    "tiempo_estimado_segundos": 115,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0039",
+    "area": "Lectura Crítica",
+    "materia_interna": "Textos científicos o académicos breves",
+    "tema": "Texto científico divulgativo",
+    "subtema": "Interpretación de hallazgos",
+    "competencia": "Comprender el sentido global del texto",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 68,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un texto sobre nutrición explica que los carbohidratos no son 'buenos' o 'malos' en sí mismos. Su efecto depende de la cantidad consumida, el tipo de alimento, el nivel de actividad física y el conjunto de la dieta. Por ejemplo, no es equivalente consumir fruta entera que bebidas azucaradas, aunque ambas puedan contener azúcares. El texto busca evitar clasificaciones simples que impiden tomar decisiones informadas.",
+    "pregunta": "¿Cuál idea resume mejor el enfoque del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La evaluación de los carbohidratos requiere considerar contexto, cantidad y fuente alimentaria."
+      },
+      {
+        "letra": "B",
+        "texto": "Todos los carbohidratos deben eliminarse de la dieta."
+      },
+      {
+        "letra": "C",
+        "texto": "La fruta entera y las bebidas azucaradas son siempre idénticas."
+      },
+      {
+        "letra": "D",
+        "texto": "La actividad física no influye en las necesidades nutricionales."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto rechaza clasificaciones simples y propone evaluar los carbohidratos según cantidad, fuente, actividad física y dieta general.",
+    "diagnostico_por_error": {
+      "A": "Correcta: sintetiza el enfoque contextual.",
+      "B": "Contradice la crítica a clasificaciones absolutas.",
+      "C": "El texto señala que no son equivalentes.",
+      "D": "Contradice la mención del nivel de actividad física."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Textos científicos o académicos breves",
+      "subtema_a_reforzar": "Síntesis de explicaciones científicas",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar variables que el texto considera relevantes.",
+        "Evitar respuestas absolutas en textos de enfoque contextual.",
+        "Distinguir ejemplos de la idea general."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Comprender texto científico",
+      "Sintetizar enfoque explicativo"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0040",
+    "area": "Lectura Crítica",
+    "materia_interna": "Textos científicos o académicos breves",
+    "tema": "Texto académico",
+    "subtema": "Definición operacional",
+    "competencia": "Identificar información explícita e implícita",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una investigación sobre comprensión lectora, los autores definieron 'mejora' como el aumento de al menos diez puntos en una prueba aplicada antes y después de un taller. Esta definición no pretende abarcar todos los aspectos de leer mejor, como disfrutar más un texto o argumentar con mayor profundidad; simplemente establece un criterio medible para comparar resultados dentro del estudio.",
+    "pregunta": "¿Qué función cumple la definición de 'mejora' en el estudio?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Establece un criterio observable para comparar resultados antes y después del taller."
+      },
+      {
+        "letra": "B",
+        "texto": "Demuestra que leer mejor solo significa disfrutar más los textos."
+      },
+      {
+        "letra": "C",
+        "texto": "Elimina la necesidad de aplicar pruebas."
+      },
+      {
+        "letra": "D",
+        "texto": "Afirma que todos los aspectos de la lectura caben en una sola medida."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La definición operacional permite medir y comparar una variable dentro del estudio, sin afirmar que agote todo el significado de mejorar la lectura.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce la función metodológica de la definición.",
+      "B": "Contradice el criterio de diez puntos.",
+      "C": "La definición depende de aplicar pruebas antes y después.",
+      "D": "Ignora la aclaración de que no abarca todos los aspectos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Textos científicos o académicos breves",
+      "subtema_a_reforzar": "Definiciones operacionales",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar cómo se medirá una variable.",
+        "Distinguir definición metodológica de definición total del concepto.",
+        "Observar expresiones como 'dentro del estudio'."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar definiciones académicas",
+      "Distinguir medición y concepto amplio"
+    ],
+    "tiempo_estimado_segundos": 110,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LC-0041",
+    "area": "Lectura Crítica",
+    "materia_interna": "Textos científicos o académicos breves",
+    "tema": "Texto científico divulgativo",
+    "subtema": "Comparación de explicaciones",
+    "competencia": "Evaluar la fuerza de un argumento",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 84,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un texto explica que la memoria no funciona como una cámara que guarda copias exactas de lo ocurrido. Al recordar, las personas reconstruyen información usando fragmentos de experiencia, conocimientos previos y pistas del contexto. Por eso, dos testigos honestos de una misma situación pueden narrarla de modo diferente sin que uno de ellos esté mintiendo. Esta idea no significa que todos los recuerdos sean falsos, sino que deben evaluarse con cuidado cuando se usan como única evidencia.",
+    "pregunta": "¿Cuál conclusión se ajusta mejor al texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Los recuerdos pueden ser sinceros y, aun así, contener reconstrucciones o diferencias."
+      },
+      {
+        "letra": "B",
+        "texto": "Toda memoria humana es necesariamente una mentira deliberada."
+      },
+      {
+        "letra": "C",
+        "texto": "Recordar equivale a reproducir una copia exacta de los hechos."
+      },
+      {
+        "letra": "D",
+        "texto": "Dos testigos honestos siempre deben narrar exactamente lo mismo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto sostiene que recordar implica reconstrucción, por lo que pueden existir diferencias sinceras. También aclara que no todos los recuerdos son falsos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: respeta el matiz científico del texto.",
+      "B": "Confunde reconstrucción con mentira deliberada.",
+      "C": "Contradice la comparación inicial con la cámara.",
+      "D": "Contradice el ejemplo de testigos honestos con relatos diferentes."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Textos científicos o académicos breves",
+      "subtema_a_reforzar": "Conclusiones matizadas en divulgación científica",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar aclaraciones que evitan extremos.",
+        "Distinguir error de memoria y mentira intencional.",
+        "Elegir conclusiones que conserven los matices del texto."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar conclusiones",
+      "Comprender matices científicos"
+    ],
+    "tiempo_estimado_segundos": 110,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "LEC-0001",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Idea principal",
+    "subtema": "Reconocimiento de tesis en texto breve",
+    "competencia": "Comprensión de sentido global",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 42,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una clase, la profesora explicó que leer no consiste únicamente en pronunciar palabras correctamente. Según ella, un lector también debe relacionar ideas, reconocer la intención del texto y preguntarse si los argumentos son suficientes. Por eso, propuso que cada estudiante escribiera una breve reflexión después de leer.",
+    "pregunta": "¿Cuál es la idea principal del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Leer bien implica comprender, relacionar y evaluar ideas."
+      },
+      {
+        "letra": "B",
+        "texto": "Leer consiste solo en pronunciar palabras sin equivocarse."
+      },
+      {
+        "letra": "C",
+        "texto": "La reflexión escrita impide comprender los textos."
+      },
+      {
+        "letra": "D",
+        "texto": "La profesora rechaza cualquier actividad de lectura."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto sostiene que la lectura va más allá de pronunciar palabras e incluye comprender relaciones, intenciones y argumentos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: sintetiza la idea central del fragmento.",
+      "B": "Contradice la afirmación principal del texto.",
+      "C": "Invierte el sentido de la actividad propuesta.",
+      "D": "Atribuye a la profesora una postura que no aparece."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Idea principal",
+      "subtema_a_reforzar": "Identificación de tesis",
+      "prioridad": "Media",
+      "acciones": [
+        "Buscar la afirmación que resume todo el texto.",
+        "Separar ideas principales de ejemplos.",
+        "Descartar opciones que contradicen el fragmento."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar idea principal",
+      "Sintetizar información",
+      "Reconocer postura del texto"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Media",
+      "peso_dificultad_sugerido": 0.5,
+      "comentarios": "La pregunta es clara y concisa, y la respuesta correcta está bien justificada. Sin embargo, podría ser útil agregar más opciones para que el estudiante tenga más oportunidades de demostrar su comprensión.",
+      "problemas_detectados": [
+        "La pregunta podría ser más desafiante para estudiantes con dificultades en la lectura crítica."
+      ],
+      "sugerencias": [
+        "Agregar más opciones para que el estudiante tenga más oportunidades de demostrar su comprensión.",
+        "Considerar agregar un enfoque más desafiante para estudiantes con dificultades en la lectura crítica."
+      ]
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Media",
+    "peso_dificultad_sugerido_ia": 0.5
+  },
+  {
+    "id": "LEC-0002",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Información explícita",
+    "subtema": "Ubicación de datos en texto informativo",
+    "competencia": "Identificación de contenidos locales",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 39,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El club de escritura del colegio se reunirá los miércoles durante el descanso largo. Los estudiantes deben llevar un cuaderno, un lápiz y un texto propio de máximo una página para compartir con el grupo.",
+    "pregunta": "Según el texto, ¿qué deben llevar los estudiantes?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Un cuaderno, un lápiz y un texto propio corto."
+      },
+      {
+        "letra": "B",
+        "texto": "Una novela completa y una cartulina."
+      },
+      {
+        "letra": "C",
+        "texto": "Un computador obligatorio y audífonos."
+      },
+      {
+        "letra": "D",
+        "texto": "Una autorización firmada para salir del colegio."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El contexto indica explícitamente que deben llevar cuaderno, lápiz y un texto propio de máximo una página.",
+    "diagnostico_por_error": {
+      "A": "Correcta: recupera información explícita del aviso.",
+      "B": "Agrega elementos no mencionados y exagera la extensión del texto.",
+      "C": "Introduce materiales que no aparecen en el contexto.",
+      "D": "Confunde una reunión escolar con una salida pedagógica."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Información explícita",
+      "subtema_a_reforzar": "Localización de datos",
+      "prioridad": "Media",
+      "acciones": [
+        "Subrayar objetos, fechas y condiciones mencionadas.",
+        "Comparar cada opción con el texto.",
+        "Evitar escoger información no escrita."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Localizar información",
+      "Distinguir datos explícitos",
+      "Leer avisos breves"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Básica diagnóstica",
+      "peso_dificultad_sugerido": 1.0,
+      "comentarios": "La pregunta es clara y concisa, y la respuesta correcta es evidente. Sin embargo, podría ser útil agregar más opciones para evaluar la capacidad de los estudiantes de distinguir entre información relevante e irrelevante.",
+      "problemas_detectados": [
+        "La pregunta podría ser demasiado fácil para algunos estudiantes."
+      ],
+      "sugerencias": [
+        "Agregar más opciones para evaluar la capacidad de los estudiantes de distinguir entre información relevante e irrelevante."
+      ]
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Básica diagnóstica",
+    "peso_dificultad_sugerido_ia": 1.0
+  },
+  {
+    "id": "LEC-0003",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Inferencias",
+    "subtema": "Inferencia de actitud",
+    "competencia": "Comprensión de sentido global",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 48,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Cuando anunciaron el concurso de cuentos, Mariana guardó silencio. Al salir del salón, sacó de su maleta una libreta llena de relatos y sonrió mientras tachaba algunos títulos. Después le dijo a su amiga: 'Esta vez sí voy a enviar uno'.",
+    "pregunta": "¿Qué se puede inferir sobre Mariana?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Tiene interés en participar en el concurso."
+      },
+      {
+        "letra": "B",
+        "texto": "No sabe escribir ningún tipo de texto."
+      },
+      {
+        "letra": "C",
+        "texto": "Está molesta porque cancelaron el concurso."
+      },
+      {
+        "letra": "D",
+        "texto": "Quiere evitar que otros lean cuentos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La libreta con relatos, la sonrisa y la frase final indican que Mariana desea participar.",
+    "diagnostico_por_error": {
+      "A": "Correcta: infiere la actitud a partir de acciones y palabras.",
+      "B": "Contradice que tenga una libreta llena de relatos.",
+      "C": "No hay cancelación ni molestia en el texto.",
+      "D": "No se evidencia intención de impedir la lectura de otros."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Inferencias",
+      "subtema_a_reforzar": "Actitud de personajes",
+      "prioridad": "Media",
+      "acciones": [
+        "Relacionar acciones con emociones posibles.",
+        "Usar frases del personaje como evidencia.",
+        "Evitar suposiciones extremas sin respaldo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir actitud",
+      "Relacionar acciones y sentido",
+      "Interpretar texto narrativo breve"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Básica diagnóstica",
+      "peso_dificultad_sugerido": 1.0,
+      "comentarios": "La pregunta es clara y concisa, y la respuesta correcta se puede inferir a partir del texto. Sin embargo, algunas opciones pueden ser consideradas como posibles respuestas correctas.",
+      "problemas_detectados": [
+        "Algunas opciones pueden ser consideradas como posibles respuestas correctas."
+      ],
+      "sugerencias": [
+        "Considerar opciones más específicas y claras para evitar confusiones."
+      ]
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Básica diagnóstica",
+    "peso_dificultad_sugerido_ia": 1.0
+  },
+  {
+    "id": "LEC-0004",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Vocabulario en contexto",
+    "subtema": "Significado contextual de palabras",
+    "competencia": "Identificación de contenidos locales",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 45,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El director dijo que la propuesta era viable porque el colegio ya tenía los materiales, los docentes estaban dispuestos y el horario podía ajustarse sin afectar otras clases.",
+    "pregunta": "En el texto, la palabra 'viable' significa que la propuesta",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "puede realizarse."
+      },
+      {
+        "letra": "B",
+        "texto": "es imposible de entender."
+      },
+      {
+        "letra": "C",
+        "texto": "debe cancelarse de inmediato."
+      },
+      {
+        "letra": "D",
+        "texto": "no tiene ninguna utilidad."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El contexto menciona condiciones favorables para llevar a cabo la propuesta; por eso 'viable' significa realizable.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa las pistas del contexto para interpretar la palabra.",
+      "B": "Confunde viabilidad con dificultad de comprensión.",
+      "C": "Contradice las condiciones favorables descritas.",
+      "D": "No se relaciona con el sentido de la palabra en el fragmento."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Inferencia por pistas contextuales",
+      "prioridad": "Media",
+      "acciones": [
+        "Leer la oración completa antes de definir la palabra.",
+        "Buscar pistas antes y después del término desconocido.",
+        "Sustituir la palabra por cada opción y verificar coherencia."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir significado",
+      "Usar contexto",
+      "Comprender vocabulario académico"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Básica diagnóstica",
+      "peso_dificultad_sugerido": 1.0,
+      "comentarios": "La pregunta es clara y concisa, y la respuesta correcta está bien justificada.",
+      "problemas_detectados": [],
+      "sugerencias": []
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Básica diagnóstica",
+    "peso_dificultad_sugerido_ia": 1.0
+  },
+  {
+    "id": "LEC-0005",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Relaciones entre párrafos",
+    "subtema": "Conectores de contraste",
+    "competencia": "Identificación de contenidos locales",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 46,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El periódico escolar recibe muchos textos de opinión. Sin embargo, pocos estudiantes revisan sus argumentos antes de enviarlos.",
+    "pregunta": "¿Qué relación establece el conector 'Sin embargo'?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Contraste entre la cantidad de textos y la revisión de argumentos."
+      },
+      {
+        "letra": "B",
+        "texto": "Causa directa de la llegada de textos."
+      },
+      {
+        "letra": "C",
+        "texto": "Orden cronológico de publicación."
+      },
+      {
+        "letra": "D",
+        "texto": "Repetición exacta de la primera idea."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El conector 'Sin embargo' introduce una oposición o contraste entre dos ideas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce la función contrastiva del conector.",
+      "B": "Confunde contraste con causa.",
+      "C": "No hay secuencia temporal en el fragmento.",
+      "D": "El segundo enunciado no repite la primera idea."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Relaciones entre párrafos",
+      "subtema_a_reforzar": "Conectores de contraste",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar conectores como pero, aunque y sin embargo.",
+        "Determinar si la segunda idea se opone a la primera.",
+        "Clasificar conectores según causa, contraste o consecuencia."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer conectores",
+      "Identificar relaciones lógicas",
+      "Comprender cohesión textual"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Básica diagnóstica",
+      "peso_dificultad_sugerido": 1.0,
+      "comentarios": "La pregunta es clara y concisa, y la respuesta correcta es evidente. Sin embargo, podría ser útil agregar más opciones para evitar confusiones.",
+      "problemas_detectados": [
+        "La pregunta podría ser más desafiante para estudiantes con dificultades en lectura crítica."
+      ],
+      "sugerencias": [
+        "Agregar más opciones para evitar confusiones.",
+        "Considerar aumentar la dificultad de la pregunta para estudiantes con dificultades en lectura crítica."
+      ]
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Básica diagnóstica",
+    "peso_dificultad_sugerido_ia": 1.0
+  },
+  {
+    "id": "LEC-0006",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Tipos de texto",
+    "subtema": "Reconocimiento de texto instructivo",
+    "competencia": "Identificación de contenidos locales",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 43,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Primero, seleccione el libro que desea consultar. Luego, registre su nombre en la planilla. Finalmente, devuelva el libro en el lugar indicado antes de salir de la sala.",
+    "pregunta": "¿Qué tipo de texto es el fragmento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Instructivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Narrativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Poético."
+      },
+      {
+        "letra": "D",
+        "texto": "Publicitario."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El fragmento presenta pasos ordenados que indican qué debe hacer una persona; por eso es instructivo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica instrucciones secuenciales.",
+      "B": "No narra acciones de personajes en una historia.",
+      "C": "No usa lenguaje poético ni intención estética principal.",
+      "D": "No busca vender ni promocionar un producto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Tipos de texto",
+      "subtema_a_reforzar": "Textos instructivos",
+      "prioridad": "Media",
+      "acciones": [
+        "Buscar verbos que indiquen acciones o pasos.",
+        "Reconocer marcadores como primero, luego y finalmente.",
+        "Comparar intención del texto con su estructura."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer tipo de texto",
+      "Identificar secuencia",
+      "Comprender intención comunicativa"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Básica diagnóstica",
+      "peso_dificultad_sugerido": 1.0,
+      "comentarios": "La pregunta es clara y concisa, y la respuesta correcta está bien explicada. Sin embargo, podría ser útil agregar más opciones para que el estudiante tenga más oportunidades de demostrar su comprensión.",
+      "problemas_detectados": [
+        "La pregunta podría ser más desafiante para estudiantes con dificultades en la lectura crítica."
+      ],
+      "sugerencias": [
+        "Considerar agregar más opciones para que el estudiante tenga más oportunidades de demostrar su comprensión.",
+        "Revisar la dificultad de la pregunta para asegurarse de que sea adecuada para el nivel de los estudiantes."
+      ]
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Básica diagnóstica",
+    "peso_dificultad_sugerido_ia": 1.0
+  },
+  {
+    "id": "LEC-0007",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Intención comunicativa",
+    "subtema": "Propósito en texto informativo",
+    "competencia": "Comprensión de sentido global",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 49,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "La coordinación informó que la jornada cultural se realizará el viernes. También indicó que cada curso tendrá veinte minutos para su presentación y que los estudiantes deben llegar con anticipación.",
+    "pregunta": "¿Cuál es la intención principal del texto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Informar condiciones de una actividad escolar."
+      },
+      {
+        "letra": "B",
+        "texto": "Convencer a los estudiantes de cancelar la jornada."
+      },
+      {
+        "letra": "C",
+        "texto": "Narrar una experiencia personal de la coordinación."
+      },
+      {
+        "letra": "D",
+        "texto": "Criticar la participación de todos los cursos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto comunica fecha, duración de presentaciones y una indicación de llegada; su propósito es informar.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce el propósito informativo.",
+      "B": "No se plantea cancelación ni persuasión en contra.",
+      "C": "No hay narración personal.",
+      "D": "No se emite una crítica hacia los cursos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Intención comunicativa",
+      "subtema_a_reforzar": "Propósito textual",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar si el texto informa, persuade, narra o instruye.",
+        "Ubicar datos concretos de tiempo, lugar o condición.",
+        "Evitar atribuir críticas que no aparecen."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar propósito",
+      "Reconocer texto informativo",
+      "Comprender sentido global"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Básica diagnóstica",
+      "peso_dificultad_sugerido": 1.0,
+      "comentarios": "La pregunta es clara y concisa, y la respuesta correcta es evidente. Sin embargo, podría ser útil agregar más opciones para aumentar la dificultad.",
+      "problemas_detectados": [
+        {
+          "tipo": "falta_de_dificultad",
+          "descripcion": "La pregunta es demasiado fácil debido a la claridad del contexto y la respuesta correcta."
+        }
+      ],
+      "sugerencias": [
+        {
+          "tipo": "agregar_opciones",
+          "descripcion": "Agregar opciones más complejas o ambiguas para aumentar la dificultad y requerir una mayor comprensión del texto."
+        }
+      ]
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Básica diagnóstica",
+    "peso_dificultad_sugerido_ia": 1.0
+  },
+  {
+    "id": "LEC-0008",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Coherencia y cohesión",
+    "subtema": "Orden lógico de ideas",
+    "competencia": "Comprensión de sentido global",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 50,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una estudiante quiere organizar estas ideas: 1. Revisó las fuentes consultadas. 2. Eligió un tema de investigación. 3. Escribió la versión final del informe. 4. Elaboró un esquema con las ideas principales.",
+    "pregunta": "¿Cuál es el orden más lógico del proceso?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "2, 1, 4, 3"
+      },
+      {
+        "letra": "B",
+        "texto": "3, 4, 1, 2"
+      },
+      {
+        "letra": "C",
+        "texto": "1, 3, 2, 4"
+      },
+      {
+        "letra": "D",
+        "texto": "4, 2, 3, 1"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Primero se elige el tema, luego se revisan fuentes, después se organiza un esquema y finalmente se escribe el informe.",
+    "diagnostico_por_error": {
+      "A": "Correcta: organiza el proceso de investigación de forma lógica.",
+      "B": "Pone la versión final antes de planear e investigar.",
+      "C": "Revisa fuentes antes de elegir tema y escribe antes de organizar.",
+      "D": "Hace el esquema antes de definir tema y deja la revisión para el final."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Coherencia y cohesión",
+      "subtema_a_reforzar": "Secuencia lógica",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar qué acción debe ocurrir primero.",
+        "Ordenar las acciones según causa y preparación.",
+        "Verificar que el cierre corresponda al producto final."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Ordenar secuencias",
+      "Reconocer coherencia",
+      "Comprender procesos escritos"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Media",
+      "peso_dificultad_sugerido": 0.5,
+      "comentarios": "La pregunta es clara y concisa, y las opciones son adecuadas para evaluar la competencia de comprensión de sentido global.",
+      "problemas_detectados": [],
+      "sugerencias": []
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Media",
+    "peso_dificultad_sugerido_ia": 0.5
+  },
+  {
+    "id": "LEC-0009",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Tesis y argumentos",
+    "subtema": "Diferencia entre tesis y ejemplo",
+    "competencia": "Comprensión de sentido global",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 47,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Es importante cuidar los espacios comunes del colegio. Por ejemplo, cuando los estudiantes dejan limpia la cafetería, otras personas pueden usarla con comodidad y se reducen los conflictos por desorden.",
+    "pregunta": "¿Cuál es la tesis del fragmento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Es importante cuidar los espacios comunes del colegio."
+      },
+      {
+        "letra": "B",
+        "texto": "La cafetería es el único espacio común del colegio."
+      },
+      {
+        "letra": "C",
+        "texto": "Los conflictos escolares siempre ocurren en la cafetería."
+      },
+      {
+        "letra": "D",
+        "texto": "Nadie puede usar la cafetería con comodidad."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La primera oración expresa la postura general; el resto funciona como ejemplo que la apoya.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la postura principal del texto.",
+      "B": "Generaliza de forma incorrecta a partir del ejemplo.",
+      "C": "Usa una afirmación absoluta no respaldada.",
+      "D": "Contradice la idea de que cuidar permite usar con comodidad."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Tesis y argumentos",
+      "subtema_a_reforzar": "Reconocimiento de tesis",
+      "prioridad": "Media",
+      "acciones": [
+        "Buscar la afirmación general defendida.",
+        "Distinguir ejemplos de postura principal.",
+        "Evitar convertir detalles en tesis."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar tesis",
+      "Diferenciar ejemplo y argumento",
+      "Comprender estructura argumentativa"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Básica diagnóstica",
+      "peso_dificultad_sugerido": 1.0,
+      "comentarios": "La pregunta es clara y concisa, y la explicación de la respuesta correcta es precisa. Sin embargo, podría ser útil agregar más opciones para que el estudiante tenga que pensar más críticamente.",
+      "problemas_detectados": [
+        "La pregunta podría ser más desafiante para estudiantes con dificultades en lectura crítica."
+      ],
+      "sugerencias": [
+        "Agregar opciones más complejas o que requieran más análisis del texto."
+      ]
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Básica diagnóstica",
+    "peso_dificultad_sugerido_ia": 1.0
+  },
+  {
+    "id": "LEC-0010",
+    "area": "Lectura Crítica",
+    "materia_interna": "Lengua Castellana",
+    "tema": "Postura del autor",
+    "subtema": "Reconocimiento de postura explícita",
+    "competencia": "Comprensión de sentido global",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 44,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.25,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El autor afirma que las redes sociales pueden facilitar la comunicación entre estudiantes, pero advierte que no deben reemplazar las conversaciones directas ni el trabajo colaborativo presencial.",
+    "pregunta": "¿Cuál es la postura del autor?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Reconoce beneficios de las redes, pero señala límites en su uso."
+      },
+      {
+        "letra": "B",
+        "texto": "Afirma que las redes sociales deben prohibirse siempre."
+      },
+      {
+        "letra": "C",
+        "texto": "Sostiene que la comunicación directa ya no sirve."
+      },
+      {
+        "letra": "D",
+        "texto": "Defiende que todo trabajo debe hacerse solo en redes."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El autor presenta una postura equilibrada: acepta una utilidad de las redes, pero advierte que no deben reemplazar otros espacios.",
+    "diagnostico_por_error": {
+      "A": "Correcta: recoge el matiz de la postura.",
+      "B": "Exagera la advertencia y la convierte en prohibición total.",
+      "C": "Contradice la importancia de conversaciones directas.",
+      "D": "Invierte el límite planteado por el autor."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Postura del autor",
+      "subtema_a_reforzar": "Posturas matizadas",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar qué acepta y qué limita el autor.",
+        "Reconocer conectores como pero.",
+        "Evitar respuestas extremas si el texto es equilibrado."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer postura",
+      "Interpretar matices",
+      "Comprender argumento breve"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    },
+    "revision_ia": {
+      "estado_revision": "aprobada",
+      "calidad": 8,
+      "dificultad_sugerida": "Básica diagnóstica",
+      "peso_dificultad_sugerido": 1.0,
+      "comentarios": "La pregunta es clara y concisa, y la respuesta correcta es evidente. Sin embargo, es posible que algunos estudiantes tengan dificultades para reconocer la postura del autor.",
+      "problemas_detectados": [
+        "Posible confusión entre postura y argumento",
+        "Necesidad de lectura cuidadosa para reconocer matices"
+      ],
+      "sugerencias": [
+        "Añadir una opción de respuesta que refleje una postura extremada para evaluar la capacidad de reconocer matices",
+        "Revisar la explicación para asegurarse de que esté clara y concisa"
+      ]
+    },
+    "estado_revision": "aprobada",
+    "calidad_revision_ia": 8,
+    "dificultad_sugerida_ia": "Básica diagnóstica",
+    "peso_dificultad_sugerido_ia": 1.0
+  }
+]

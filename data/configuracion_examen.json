@@ -1,0 +1,41 @@
+{
+  "materias": {
+    "matematicas": {
+      "nombre": "Matemáticas",
+      "archivo": "matematicas.json",
+      "preguntas_simulacro": 50,
+      "ponderacion": 0.25
+    },
+    "lectura_critica": {
+      "nombre": "Lectura Crítica",
+      "archivo": "lectura_critica.json",
+      "preguntas_simulacro": 41,
+      "ponderacion": 0.25
+    },
+    "ciencias_naturales": {
+      "nombre": "Ciencias Naturales",
+      "archivo": "ciencias_naturales.json",
+      "preguntas_simulacro": 58,
+      "ponderacion": 0.2
+    },
+    "sociales_ciudadanas": {
+      "nombre": "Sociales y Ciudadanas",
+      "archivo": "sociales_ciudadanas.json",
+      "preguntas_simulacro": 50,
+      "ponderacion": 0.2
+    },
+    "ingles": {
+      "nombre": "Inglés",
+      "archivo": "ingles.json",
+      "preguntas_simulacro": 55,
+      "ponderacion": 0.1
+    }
+  },
+  "simulacro_corto": {
+    "Lectura Crítica": 8,
+    "Matemáticas": 10,
+    "Sociales y Ciudadanas": 10,
+    "Ciencias Naturales": 12,
+    "Inglés": 10
+  }
+}

@@ -1,0 +1,3540 @@
+[
+  {
+    "id": "CN-0001",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Biología celular",
+    "subtema": "Transporte a través de membrana",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 42,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un grupo de estudiantes coloca células vegetales en tres soluciones: solución 1 con menor concentración de solutos que el interior celular, solución 2 con concentración similar y solución 3 con mayor concentración de solutos. Después de 20 minutos observan que en la solución 3 la membrana celular se separa parcialmente de la pared celular.",
+    "pregunta": "¿Cuál explicación describe mejor lo ocurrido en la solución 3?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El agua salió de la célula por ósmosis porque el medio externo tenía mayor concentración de solutos."
+      },
+      {
+        "letra": "B",
+        "texto": "Los solutos salieron de la célula por difusión simple hasta igualar las concentraciones."
+      },
+      {
+        "letra": "C",
+        "texto": "El agua entró a la célula por transporte activo porque el medio era hipertónico."
+      },
+      {
+        "letra": "D",
+        "texto": "La pared celular se contrajo porque consume energía en presencia de sales."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En un medio hipertónico, la concentración de solutos fuera de la célula es mayor que dentro de ella. Por ósmosis, el agua se mueve hacia donde hay mayor concentración de solutos, por lo que sale de la célula. Esto reduce el volumen celular y puede producir plasmólisis, visible como separación de la membrana respecto a la pared celular.",
+    "diagnostico_por_error": {
+      "A": "Respuesta correcta: reconoce la dirección del movimiento de agua en un medio hipertónico.",
+      "B": "Confunde ósmosis con difusión de solutos; el fenómeno observado se explica por salida de agua.",
+      "C": "Invierte la dirección del movimiento de agua y atribuye erróneamente la ósmosis al transporte activo.",
+      "D": "Atribuye contracción activa a la pared celular, que no explica el cambio observado."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Biología celular",
+      "subtema_a_reforzar": "Ósmosis, soluciones hipotónicas, isotónicas e hipertónicas",
+      "prioridad": "Alta",
+      "acciones": [
+        "Dibujar células en medios hipotónico, isotónico e hipertónico.",
+        "Practicar la identificación de la dirección del movimiento del agua.",
+        "Relacionar concentración de solutos con cambios de volumen celular."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar condiciones experimentales",
+      "Explicar transporte pasivo"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0002",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Biología celular",
+    "subtema": "Organelos y metabolismo celular",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 58,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un cultivo celular se aplica una sustancia que bloquea temporalmente la función de las mitocondrias, sin romper la membrana plasmática ni afectar directamente el núcleo. Luego se mide la cantidad de ATP disponible para procesos celulares.",
+    "pregunta": "¿Cuál resultado sería más coherente con el efecto de la sustancia?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Disminución notable del ATP disponible para actividades celulares."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento de la síntesis de ADN en el núcleo."
+      },
+      {
+        "letra": "C",
+        "texto": "Desaparición inmediata de la membrana plasmática."
+      },
+      {
+        "letra": "D",
+        "texto": "Conversión directa de proteínas en material genético."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las mitocondrias participan en la respiración celular aerobia, proceso que produce gran parte del ATP utilizado por la célula. Si su función se bloquea, la disponibilidad energética disminuye, aunque otras estructuras no se destruyan de inmediato.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona mitocondria con producción de ATP.",
+      "B": "Confunde metabolismo energético con replicación del ADN.",
+      "C": "Supone destrucción celular inmediata, no indicada en el contexto.",
+      "D": "Plantea una transformación biológica incorrecta entre proteínas y ADN."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Biología celular",
+      "subtema_a_reforzar": "Función de mitocondrias y ATP",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar organelos celulares y su función.",
+        "Comparar respiración celular con otros procesos celulares.",
+        "Resolver preguntas donde se inhiba un organelo específico."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Relacionar estructura y función celular",
+      "Predecir efectos de una intervención"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0003",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Biología celular",
+    "subtema": "Enzimas",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 74,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Se estudia una enzima digestiva a tres temperaturas. La velocidad de reacción fue: 20 °C: 3 unidades/min; 37 °C: 10 unidades/min; 70 °C: 1 unidad/min. El sustrato y el pH se mantuvieron constantes.",
+    "pregunta": "¿Cuál conclusión se ajusta mejor a los datos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La enzima presenta mayor actividad cerca de 37 °C y pierde actividad a temperatura muy alta."
+      },
+      {
+        "letra": "B",
+        "texto": "La enzima funciona mejor mientras más aumenta la temperatura."
+      },
+      {
+        "letra": "C",
+        "texto": "La temperatura no influye en la actividad enzimática porque el pH fue constante."
+      },
+      {
+        "letra": "D",
+        "texto": "A 70 °C la enzima produce más sustrato, por eso baja la reacción."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los datos muestran máxima velocidad a 37 °C y una caída fuerte a 70 °C. Esto es compatible con la existencia de una temperatura óptima y con la pérdida de estructura funcional de la enzima a temperaturas altas, proceso asociado a desnaturalización.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta el patrón de máxima actividad y caída por alta temperatura.",
+      "B": "Generaliza incorrectamente una relación creciente; los datos contradicen esa idea.",
+      "C": "Ignora que una variable puede influir aunque otras se mantengan constantes.",
+      "D": "Confunde sustrato con producto y no explica la pérdida de actividad."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Biología celular",
+      "subtema_a_reforzar": "Factores que afectan la actividad enzimática",
+      "prioridad": "Alta",
+      "acciones": [
+        "Analizar gráficas de velocidad enzimática contra temperatura.",
+        "Estudiar desnaturalización de proteínas.",
+        "Diferenciar variables constantes y variables independientes."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar datos experimentales",
+      "Inferir conclusiones biológicas"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0004",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Biología celular",
+    "subtema": "Respiración celular",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 80,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Durante ejercicio intenso, algunas células musculares pueden obtener energía por una vía que no requiere oxígeno y produce ácido láctico. Esta vía permite sostener temporalmente la contracción, aunque produce menos ATP que la respiración aerobia.",
+    "pregunta": "¿Por qué esta vía es útil solo durante periodos cortos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque genera poco ATP por molécula de glucosa y sus productos pueden acumularse."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque destruye permanentemente todas las mitocondrias musculares."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque requiere más oxígeno que la respiración aerobia."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque impide que la glucosa entre a la célula."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La fermentación láctica permite producir ATP sin oxígeno, pero su rendimiento energético es bajo comparado con la respiración aerobia. Además, la acumulación de productos metabólicos limita su uso prolongado. Por eso ayuda en esfuerzos breves, no como fuente principal sostenida.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce bajo rendimiento energético y acumulación de productos.",
+      "B": "Exagera el efecto; la vía no implica destrucción permanente de mitocondrias.",
+      "C": "Contradice el contexto, que indica que no requiere oxígeno.",
+      "D": "No explica la vía metabólica; la glucosa sí puede ser usada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Biología celular",
+      "subtema_a_reforzar": "Respiración aerobia y fermentación láctica",
+      "prioridad": "Alta",
+      "acciones": [
+        "Comparar ATP producido en respiración y fermentación.",
+        "Relacionar metabolismo muscular con disponibilidad de oxígeno.",
+        "Resolver casos sobre ejercicio y energía celular."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Comparar procesos metabólicos",
+      "Explicar adaptación celular temporal"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0005",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Biología celular",
+    "subtema": "Ciclo celular",
+    "competencia": "Indagación científica",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 88,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un tejido se observa que muchas células duplican su ADN, pero pocas completan la división celular. Un investigador sospecha que un medicamento experimental bloquea el paso de la fase G2 a la mitosis. Para probarlo, mide la cantidad de ADN por célula y observa los cromosomas al microscopio.",
+    "pregunta": "¿Qué resultado apoyaría mejor la hipótesis del investigador?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Acumulación de células con ADN duplicado y baja presencia de cromosomas condensados en mitosis."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento de células sin ADN y alta producción de membrana celular."
+      },
+      {
+        "letra": "C",
+        "texto": "Mayor número de células en citocinesis con ADN no duplicado."
+      },
+      {
+        "letra": "D",
+        "texto": "Disminución total del tamaño celular antes de la fase S."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Si el bloqueo ocurre entre G2 y mitosis, las células ya habrán duplicado su ADN en fase S, pero no avanzarán eficazmente hacia mitosis. Por eso se esperaría acumulación con ADN duplicado y pocas señales microscópicas de mitosis, como cromosomas condensados.",
+    "diagnostico_por_error": {
+      "A": "Correcta: conecta fase S, G2 y entrada a mitosis.",
+      "B": "Propone células sin ADN, condición incompatible con células viables normales.",
+      "C": "Confunde citocinesis con entrada a mitosis y contradice la duplicación previa del ADN.",
+      "D": "Se centra en tamaño celular, dato insuficiente para apoyar el bloqueo G2-mitosis."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Biología celular",
+      "subtema_a_reforzar": "Fases del ciclo celular y puntos de control",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Ordenar eventos de G1, S, G2, mitosis y citocinesis.",
+        "Relacionar cantidad de ADN con cada fase.",
+        "Practicar inferencias a partir de resultados celulares."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar hipótesis",
+      "Relacionar evidencia con ciclo celular"
+    ],
+    "tiempo_estimado_segundos": 120,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0006",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Genética y herencia",
+    "subtema": "Cruces monohíbridos",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 60,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una especie vegetal, el alelo A produce semillas lisas y domina sobre el alelo a, que produce semillas rugosas. Se cruzan dos plantas heterocigotas Aa.",
+    "pregunta": "¿Cuál proporción esperada de descendientes con semillas rugosas se obtiene si se cumple herencia mendeliana simple?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "0 %"
+      },
+      {
+        "letra": "B",
+        "texto": "25 %"
+      },
+      {
+        "letra": "C",
+        "texto": "50 %"
+      },
+      {
+        "letra": "D",
+        "texto": "75 %"
+      }
+    ],
+    "respuesta_correcta": "B",
+    "explicacion": "El cruce Aa × Aa produce genotipos AA, Aa, Aa y aa. Solo aa expresa el rasgo recesivo rugoso. Por tanto, 1 de 4 descendientes, es decir 25 %, tendría semillas rugosas.",
+    "diagnostico_por_error": {
+      "A": "Olvida que dos portadores pueden tener descendencia recesiva.",
+      "B": "Correcta: identifica el genotipo aa como 1/4 del cruce.",
+      "C": "Confunde proporción de heterocigotos con proporción recesiva.",
+      "D": "Confunde fenotipo dominante con recesivo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Genética y herencia",
+      "subtema_a_reforzar": "Cuadros de Punnett y dominancia completa",
+      "prioridad": "Media",
+      "acciones": [
+        "Construir cuadros de Punnett para Aa × Aa.",
+        "Distinguir genotipo y fenotipo.",
+        "Resolver cruces con rasgos recesivos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar proporciones genéticas",
+      "Distinguir dominancia y recesividad"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0007",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Genética y herencia",
+    "subtema": "Pedigrí",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 78,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una familia, dos padres sin una enfermedad genética tienen una hija afectada. La enfermedad aparece en ambos sexos en otras ramas familiares y no se observa en todas las generaciones.",
+    "pregunta": "¿Qué patrón de herencia es más probable?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Autosómico recesivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Autosómico dominante."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligado al cromosoma Y."
+      },
+      {
+        "letra": "D",
+        "texto": "Mitocondrial obligatorio."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Cuando padres no afectados tienen un descendiente afectado, es probable que ambos sean portadores de un alelo recesivo. Que aparezca en ambos sexos sugiere que no depende de cromosomas sexuales. La ausencia en todas las generaciones también es compatible con herencia autosómica recesiva.",
+    "diagnostico_por_error": {
+      "A": "Correcta: integra padres sanos, hija afectada y aparición en ambos sexos.",
+      "B": "En herencia dominante suele observarse al menos un progenitor afectado.",
+      "C": "Un rasgo ligado al Y no afectaría a mujeres.",
+      "D": "La herencia mitocondrial se transmite por línea materna, no se deduce del caso."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Genética y herencia",
+      "subtema_a_reforzar": "Patrones de herencia en pedigrí",
+      "prioridad": "Alta",
+      "acciones": [
+        "Comparar herencia autosómica dominante y recesiva.",
+        "Practicar lectura de árboles familiares.",
+        "Identificar pistas de herencia ligada al sexo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir patrón hereditario",
+      "Analizar evidencia familiar"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0008",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Genética y herencia",
+    "subtema": "ADN y proteínas",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 46,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un segmento de ADN contiene información para producir una proteína que participa en el transporte de oxígeno. Una mutación cambia una base nitrogenada en ese segmento.",
+    "pregunta": "¿Cuál afirmación es científicamente más adecuada?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La mutación puede alterar la proteína si cambia la secuencia de aminoácidos."
+      },
+      {
+        "letra": "B",
+        "texto": "Toda mutación cambia siempre por completo el número de cromosomas."
+      },
+      {
+        "letra": "C",
+        "texto": "Una mutación en ADN nunca afecta proteínas."
+      },
+      {
+        "letra": "D",
+        "texto": "Las proteínas se convierten directamente en genes."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El ADN contiene instrucciones para formar proteínas. Si una mutación cambia la información codificada, puede modificar un aminoácido y alterar la estructura o función proteica. No toda mutación tiene efecto, pero sí puede tenerlo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce relación entre ADN, aminoácidos y proteína.",
+      "B": "Confunde mutación puntual con alteraciones cromosómicas numéricas.",
+      "C": "Desconoce que cambios en genes pueden afectar proteínas.",
+      "D": "Invierte erróneamente el flujo de información genética."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Genética y herencia",
+      "subtema_a_reforzar": "Relación ADN, ARN y proteínas",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar el dogma central de la biología molecular.",
+        "Diferenciar mutaciones génicas y cromosómicas.",
+        "Analizar ejemplos de mutaciones silenciosas y no silenciosas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Relacionar información genética y función",
+      "Evaluar consecuencias de una mutación"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0009",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Genética y herencia",
+    "subtema": "Probabilidad genética",
+    "competencia": "Indagación científica",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 90,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una enfermedad autosómica recesiva se expresa solo en individuos rr. Dos personas sanas tienen un primer hijo afectado. Luego consultan por la probabilidad de que un segundo hijo también presente la enfermedad. Cada nacimiento es un evento independiente.",
+    "pregunta": "¿Cuál es la probabilidad correcta y por qué?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "25 %, porque ambos padres deben ser portadores y en cada embarazo existe la misma probabilidad de rr."
+      },
+      {
+        "letra": "B",
+        "texto": "50 %, porque ya tuvieron un hijo afectado y el siguiente debe compensar la proporción."
+      },
+      {
+        "letra": "C",
+        "texto": "0 %, porque la enfermedad recesiva solo aparece una vez por familia."
+      },
+      {
+        "letra": "D",
+        "texto": "75 %, porque los padres sanos transmiten principalmente el alelo recesivo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Si dos padres sanos tienen un hijo rr, ambos deben ser Rr. En el cruce Rr × Rr, la probabilidad de rr es 1/4 en cada embarazo. El resultado del primer nacimiento no cambia la probabilidad del segundo, porque son eventos independientes.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica genotipos parentales e independencia de eventos.",
+      "B": "Comete la falacia de compensación entre eventos independientes.",
+      "C": "Desconoce que cada embarazo conserva la probabilidad genética.",
+      "D": "Confunde la proporción de fenotipos dominantes con recesivos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Genética y herencia",
+      "subtema_a_reforzar": "Probabilidad condicional e independencia en genética",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Resolver cruces autosómicos recesivos con eventos independientes.",
+        "Diferenciar probabilidad por embarazo de proporciones familiares observadas.",
+        "Practicar problemas con información inferida de descendientes."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Razonamiento probabilístico",
+      "Inferencia genética"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0010",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Genética y herencia",
+    "subtema": "Variabilidad genética",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 64,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dos hermanos tienen los mismos padres biológicos, pero presentan diferencias en estatura, color de cabello y susceptibilidad a algunas enfermedades. No son gemelos idénticos.",
+    "pregunta": "¿Qué proceso explica mejor parte de esas diferencias genéticas?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La recombinación y distribución independiente de cromosomas durante la meiosis."
+      },
+      {
+        "letra": "B",
+        "texto": "La duplicación exacta del genoma en todas las células somáticas."
+      },
+      {
+        "letra": "C",
+        "texto": "La eliminación de todos los alelos recesivos en cada generación."
+      },
+      {
+        "letra": "D",
+        "texto": "La conversión de células musculares en gametos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Durante la meiosis se forman gametos con combinaciones distintas de alelos debido a la distribución independiente y la recombinación. Por eso hermanos no idénticos pueden recibir combinaciones genéticas diferentes de los mismos padres.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona meiosis con variabilidad hereditaria.",
+      "B": "Describe mitosis o replicación somática, no formación de gametos diversos.",
+      "C": "Los alelos recesivos no se eliminan necesariamente de la población.",
+      "D": "Plantea un proceso celular incorrecto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Genética y herencia",
+      "subtema_a_reforzar": "Meiosis, recombinación y variabilidad",
+      "prioridad": "Media",
+      "acciones": [
+        "Comparar mitosis y meiosis.",
+        "Estudiar crossing-over y segregación independiente.",
+        "Aplicar el concepto a variación entre hermanos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Explicar variabilidad",
+      "Relacionar meiosis con herencia"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0011",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Sistemas del cuerpo humano",
+    "subtema": "Sistema respiratorio",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 63,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Durante una caminata en una montaña alta, una estudiante nota que respira más rápido que al nivel del mar. En la montaña, la presión parcial de oxígeno es menor.",
+    "pregunta": "¿Cuál explicación relaciona mejor el fenómeno con la homeostasis?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El aumento de la frecuencia respiratoria ayuda a incorporar más oxígeno por unidad de tiempo."
+      },
+      {
+        "letra": "B",
+        "texto": "El cuerpo deja de producir dióxido de carbono en altura."
+      },
+      {
+        "letra": "C",
+        "texto": "La sangre se transforma en aire para compensar el oxígeno."
+      },
+      {
+        "letra": "D",
+        "texto": "Los pulmones eliminan todos los glóbulos rojos para respirar mejor."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Cuando la disponibilidad de oxígeno disminuye, el organismo puede responder aumentando la frecuencia respiratoria para mejorar la entrada de oxígeno y ayudar a mantener el suministro a los tejidos. Esto es una respuesta homeostática.",
+    "diagnostico_por_error": {
+      "A": "Correcta: conecta baja disponibilidad de oxígeno con respuesta respiratoria.",
+      "B": "El metabolismo sigue produciendo dióxido de carbono.",
+      "C": "Describe una transformación imposible.",
+      "D": "Los glóbulos rojos transportan oxígeno; eliminarlos sería perjudicial."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Sistemas del cuerpo humano",
+      "subtema_a_reforzar": "Ventilación pulmonar e intercambio gaseoso",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar presión parcial de oxígeno.",
+        "Relacionar respiración con homeostasis.",
+        "Analizar respuestas del cuerpo al ejercicio y la altura."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Explicar respuestas fisiológicas",
+      "Aplicar homeostasis"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0012",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Sistemas del cuerpo humano",
+    "subtema": "Sistema circulatorio",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 76,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una práctica se mide la frecuencia cardíaca de una estudiante: en reposo es 72 latidos/min y después de subir escaleras durante 3 minutos es 126 latidos/min. La respiración también aumenta.",
+    "pregunta": "¿Cuál interpretación es más adecuada?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El aumento cardíaco favorece el transporte de oxígeno y nutrientes hacia músculos activos."
+      },
+      {
+        "letra": "B",
+        "texto": "El corazón late más rápido para impedir que llegue sangre a los músculos."
+      },
+      {
+        "letra": "C",
+        "texto": "La frecuencia cardíaca aumenta porque la sangre deja de contener glóbulos rojos."
+      },
+      {
+        "letra": "D",
+        "texto": "La respiración aumenta, pero no se relaciona con el sistema circulatorio."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Durante el ejercicio, los músculos consumen más oxígeno y nutrientes y producen más dióxido de carbono. El aumento de la frecuencia cardíaca ayuda a transportar sustancias más rápido, coordinándose con el sistema respiratorio.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta la respuesta integrada circulación-respiración.",
+      "B": "Invierte la función del sistema circulatorio durante el ejercicio.",
+      "C": "No hay evidencia de pérdida de glóbulos rojos.",
+      "D": "Desconoce la relación funcional entre respiración y circulación."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Sistemas del cuerpo humano",
+      "subtema_a_reforzar": "Circulación, ejercicio y transporte de gases",
+      "prioridad": "Alta",
+      "acciones": [
+        "Estudiar gasto cardíaco y demanda muscular.",
+        "Relacionar oxígeno, nutrientes y actividad física.",
+        "Interpretar tablas de signos vitales."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar datos fisiológicos",
+      "Relacionar sistemas corporales"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0013",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Sistemas del cuerpo humano",
+    "subtema": "Sistema digestivo",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 61,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una persona consume pan, huevo y aguacate en el desayuno. Durante la digestión, distintas enzimas actúan sobre carbohidratos, proteínas y lípidos para producir moléculas más pequeñas que puedan absorberse.",
+    "pregunta": "¿Cuál relación alimento-nutriente-producto de digestión es correcta?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Pan-carbohidratos-glucosa u otros azúcares simples."
+      },
+      {
+        "letra": "B",
+        "texto": "Huevo-lípidos-nucleótidos exclusivamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Aguacate-proteínas-oxígeno molecular."
+      },
+      {
+        "letra": "D",
+        "texto": "Pan-proteínas-sales minerales como único producto."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El pan contiene principalmente carbohidratos como almidón, que se digieren hasta azúcares más simples absorbibles. Las proteínas se degradan a aminoácidos y los lípidos a ácidos grasos y glicerol, no a oxígeno ni exclusivamente a nucleótidos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona carbohidratos con azúcares simples.",
+      "B": "Confunde proteínas y lípidos del huevo con nucleótidos como producto exclusivo.",
+      "C": "El aguacate aporta lípidos; la digestión no produce oxígeno molecular.",
+      "D": "El pan no se digiere únicamente a sales minerales."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Sistemas del cuerpo humano",
+      "subtema_a_reforzar": "Digestión de carbohidratos, proteínas y lípidos",
+      "prioridad": "Media",
+      "acciones": [
+        "Hacer una tabla nutriente-enzima-producto.",
+        "Revisar absorción intestinal.",
+        "Clasificar alimentos por macronutrientes."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Clasificar biomoléculas",
+      "Relacionar digestión y absorción"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0014",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Sistemas del cuerpo humano",
+    "subtema": "Sistema endocrino",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Después de una comida rica en carbohidratos, la concentración de glucosa en sangre aumenta. En una persona sana, el páncreas libera insulina, lo que favorece la entrada de glucosa a algunas células y su almacenamiento.",
+    "pregunta": "¿Qué pasaría probablemente si la insulina no ejerciera su efecto adecuadamente?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La glucosa permanecería elevada en sangre por menor ingreso o almacenamiento celular."
+      },
+      {
+        "letra": "B",
+        "texto": "La glucosa desaparecería de la sangre sin necesidad de células."
+      },
+      {
+        "letra": "C",
+        "texto": "El oxígeno se convertiría directamente en glucosa."
+      },
+      {
+        "letra": "D",
+        "texto": "El páncreas dejaría de pertenecer al sistema endocrino."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La insulina ayuda a regular la glucemia al facilitar el uso y almacenamiento de glucosa. Si su acción falla, la glucosa tiende a mantenerse alta en sangre. La pregunta evalúa la regulación homeostática, no un diagnóstico clínico específico.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona insulina con reducción de glucosa sanguínea.",
+      "B": "Ignora que la glucosa debe ser usada, almacenada o eliminada por procesos biológicos.",
+      "C": "Plantea una conversión química no propia del metabolismo humano.",
+      "D": "Confunde función alterada con clasificación anatómica."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Sistemas del cuerpo humano",
+      "subtema_a_reforzar": "Regulación de glucosa e insulina",
+      "prioridad": "Alta",
+      "acciones": [
+        "Estudiar homeostasis de la glucemia.",
+        "Diferenciar hormona, órgano blanco y respuesta.",
+        "Analizar gráficas de glucosa antes y después de comer."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Predecir consecuencias fisiológicas",
+      "Aplicar retroalimentación hormonal"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0015",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Sistemas del cuerpo humano",
+    "subtema": "Sistema inmune",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 48,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una vacuna presenta al sistema inmune una forma segura de reconocer un agente infeccioso. Tiempo después, si el organismo entra en contacto con el agente real, puede responder más rápido.",
+    "pregunta": "¿Qué concepto explica mejor esta respuesta más rápida?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Memoria inmunológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Digestión mecánica."
+      },
+      {
+        "letra": "C",
+        "texto": "Fotosíntesis celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Sedimentación sanguínea obligatoria."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las vacunas buscan activar defensas específicas y generar células de memoria. Estas permiten una respuesta más rápida y eficaz ante exposiciones posteriores al mismo agente o a sus componentes reconocibles.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica el principio inmunológico de la vacunación.",
+      "B": "Confunde sistema inmune con digestión.",
+      "C": "La fotosíntesis no ocurre en células humanas.",
+      "D": "No explica reconocimiento específico ni memoria."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Sistemas del cuerpo humano",
+      "subtema_a_reforzar": "Vacunas, anticuerpos y memoria inmunológica",
+      "prioridad": "Media",
+      "acciones": [
+        "Revisar inmunidad innata y adaptativa.",
+        "Diferenciar antígeno y anticuerpo.",
+        "Explicar con un esquema cómo actúa una vacuna."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Comprender función inmunológica",
+      "Relacionar prevención y respuesta inmune"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0016",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Sistemas del cuerpo humano",
+    "subtema": "Sistema renal",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 87,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dos estudiantes comparan muestras de orina de una misma persona tomadas en dos momentos. Muestra 1: color claro, bajo contenido de solutos. Muestra 2: color más oscuro, mayor contenido de solutos. Antes de la muestra 2, la persona estuvo varias horas sin beber agua en un ambiente cálido.",
+    "pregunta": "¿Cuál explicación integra mejor los datos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El organismo conservó agua produciendo orina más concentrada."
+      },
+      {
+        "letra": "B",
+        "texto": "El riñón dejó de filtrar toda la sangre de forma permanente."
+      },
+      {
+        "letra": "C",
+        "texto": "La orina oscura indica que no contiene solutos."
+      },
+      {
+        "letra": "D",
+        "texto": "Beber menos agua obliga a producir mayor volumen de orina diluida."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Cuando disminuye la disponibilidad de agua, el cuerpo tiende a conservarla. Los riñones pueden reabsorber más agua y producir menor volumen de orina más concentrada. Esto explica el color más oscuro y el mayor contenido de solutos de la muestra 2.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona hidratación, reabsorción y concentración urinaria.",
+      "B": "Exagera el fenómeno y no se deduce de los datos.",
+      "C": "Contradice el dato de mayor contenido de solutos.",
+      "D": "Invierte la respuesta fisiológica esperada ante deshidratación."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Sistemas del cuerpo humano",
+      "subtema_a_reforzar": "Homeostasis hídrica y función renal",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Estudiar filtración, reabsorción y concentración de orina.",
+        "Relacionar hidratación con color y solutos urinarios.",
+        "Interpretar casos de balance hídrico."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Integrar datos fisiológicos",
+      "Explicar homeostasis renal"
+    ],
+    "tiempo_estimado_segundos": 120,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0017",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Ecología y evolución",
+    "subtema": "Relaciones tróficas",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 66,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un humedal se identifica la cadena: algas microscópicas → larvas de insectos → peces pequeños → aves pescadoras. Una sequía reduce la cantidad de algas durante varias semanas.",
+    "pregunta": "¿Cuál efecto es más probable si no hay fuentes alternativas suficientes de alimento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Disminución progresiva de larvas, peces pequeños y aves pescadoras."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento inmediato de todos los niveles tróficos."
+      },
+      {
+        "letra": "C",
+        "texto": "Desaparición de la necesidad de energía en los consumidores."
+      },
+      {
+        "letra": "D",
+        "texto": "Conversión de aves pescadoras en productores primarios."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las algas son productores y sostienen el flujo de energía hacia los consumidores. Si su abundancia disminuye, los consumidores primarios tienen menos alimento y el efecto puede transmitirse a niveles superiores de la cadena trófica.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce dependencia energética entre niveles tróficos.",
+      "B": "Contradice la reducción de productores.",
+      "C": "Los consumidores siempre requieren energía.",
+      "D": "Confunde roles tróficos; aves no se transforman en productores."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Ecología y evolución",
+      "subtema_a_reforzar": "Cadenas alimentarias y flujo de energía",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar productores y consumidores.",
+        "Analizar efectos en cascada trófica.",
+        "Construir cadenas y redes alimentarias."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar relaciones ecológicas",
+      "Predecir cambios poblacionales"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0018",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Ecología y evolución",
+    "subtema": "Selección natural",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 81,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una población de insectos existen individuos con distinta resistencia a un insecticida. Después de varias aplicaciones, aumenta la proporción de insectos resistentes en la población.",
+    "pregunta": "¿Cuál explicación es más consistente con la selección natural?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Los insectos resistentes sobrevivieron y dejaron más descendencia que los susceptibles."
+      },
+      {
+        "letra": "B",
+        "texto": "El insecticida hizo que todos los insectos decidieran volverse resistentes."
+      },
+      {
+        "letra": "C",
+        "texto": "La resistencia apareció porque cada insecto necesitaba sobrevivir."
+      },
+      {
+        "letra": "D",
+        "texto": "Los insectos susceptibles se transformaron individualmente en resistentes durante su vida."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La selección natural actúa sobre variación heredable ya existente o surgida por mutaciones. El insecticida favorece la supervivencia y reproducción de individuos resistentes, aumentando la frecuencia de esa característica en la población a lo largo de generaciones.",
+    "diagnostico_por_error": {
+      "A": "Correcta: explica cambio poblacional por supervivencia diferencial.",
+      "B": "Atribuye intención a los organismos.",
+      "C": "Confunde necesidad con origen de variación heredable.",
+      "D": "Supone transformación individual dirigida, no selección poblacional."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Ecología y evolución",
+      "subtema_a_reforzar": "Selección natural y resistencia",
+      "prioridad": "Alta",
+      "acciones": [
+        "Diferenciar adaptación poblacional de cambio individual.",
+        "Estudiar variación heredable y presión selectiva.",
+        "Resolver ejemplos de resistencia a antibióticos o insecticidas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Explicar evolución poblacional",
+      "Evitar razonamiento finalista"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0019",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Ecología y evolución",
+    "subtema": "Ciclos biogeoquímicos",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 67,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una zona agrícola se aplican fertilizantes ricos en nitrógeno. Luego de lluvias intensas, parte de esos compuestos llega a una laguna y aumenta el crecimiento de algas.",
+    "pregunta": "¿Qué proceso ambiental describe mejor esta situación?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Eutrofización por exceso de nutrientes."
+      },
+      {
+        "letra": "B",
+        "texto": "Fotosíntesis sin necesidad de nutrientes."
+      },
+      {
+        "letra": "C",
+        "texto": "Desaparición del ciclo del nitrógeno."
+      },
+      {
+        "letra": "D",
+        "texto": "Evaporación selectiva de algas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El ingreso excesivo de nutrientes como nitrógeno o fósforo a cuerpos de agua puede estimular un crecimiento anormal de algas. Este fenómeno se conoce como eutrofización y puede alterar el oxígeno disponible y la vida acuática.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica relación entre nutrientes y proliferación de algas.",
+      "B": "La fotosíntesis requiere nutrientes además de luz, agua y dióxido de carbono.",
+      "C": "El ciclo del nitrógeno no desaparece; se altera el flujo de compuestos.",
+      "D": "La evaporación no explica aumento de algas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Ecología y evolución",
+      "subtema_a_reforzar": "Eutrofización y ciclo del nitrógeno",
+      "prioridad": "Media",
+      "acciones": [
+        "Estudiar causas y consecuencias de la eutrofización.",
+        "Relacionar agricultura y contaminación hídrica.",
+        "Analizar esquemas de ciclos biogeoquímicos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Relacionar actividades humanas y ecosistemas",
+      "Aplicar ciclos de materia"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0020",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Ecología y evolución",
+    "subtema": "Dinámica poblacional",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 91,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una reserva se registró el número de conejos durante cuatro años: año 1: 120, año 2: 260, año 3: 410, año 4: 415. En el año 4 aumentó la competencia por alimento y hubo más depredadores.",
+    "pregunta": "¿Qué interpretación explica mejor el cambio entre los años 3 y 4?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La población se acercó a la capacidad de carga del ambiente."
+      },
+      {
+        "letra": "B",
+        "texto": "La población dejó de necesitar alimento al estabilizarse."
+      },
+      {
+        "letra": "C",
+        "texto": "El crecimiento se volvió ilimitado aunque los datos muestren estabilidad."
+      },
+      {
+        "letra": "D",
+        "texto": "Todos los conejos dejaron de reproducirse por completo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El crecimiento rápido inicial se reduce cuando recursos limitados, competencia y depredación frenan el aumento poblacional. La estabilización cerca de 415 individuos sugiere aproximación a la capacidad de carga, no ausencia total de reproducción.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta estabilización como efecto de factores limitantes.",
+      "B": "Los organismos siguen requiriendo alimento.",
+      "C": "Contradice los datos, que muestran desaceleración.",
+      "D": "La estabilidad puede ocurrir con nacimientos y muertes equilibrados."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Ecología y evolución",
+      "subtema_a_reforzar": "Crecimiento logístico y capacidad de carga",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Comparar crecimiento exponencial y logístico.",
+        "Interpretar tablas poblacionales con factores limitantes.",
+        "Distinguir estabilidad poblacional de reproducción nula."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar datos temporales",
+      "Inferir límites ecológicos"
+    ],
+    "tiempo_estimado_segundos": 125,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0021",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Método científico en biología",
+    "subtema": "Variables experimentales",
+    "competencia": "Identificación de variables, hipótesis y conclusiones",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 59,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un estudiante quiere evaluar si la cantidad de luz afecta el crecimiento de plantas de fríjol. Usa plantas de la misma edad, el mismo tipo de suelo y la misma cantidad de agua. Coloca un grupo con 2 horas diarias de luz y otro con 8 horas diarias de luz. Después mide la altura promedio.",
+    "pregunta": "¿Cuál es la variable independiente del experimento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La cantidad diaria de luz recibida."
+      },
+      {
+        "letra": "B",
+        "texto": "La altura promedio de las plantas."
+      },
+      {
+        "letra": "C",
+        "texto": "El tipo de suelo usado en ambos grupos."
+      },
+      {
+        "letra": "D",
+        "texto": "La edad inicial de las plantas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La variable independiente es la que el investigador modifica para observar su efecto. En este caso se cambia la cantidad de luz. La altura es la variable dependiente, mientras que suelo, agua y edad son variables controladas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la variable manipulada.",
+      "B": "Confunde variable dependiente con independiente.",
+      "C": "El suelo se mantiene constante; es una variable controlada.",
+      "D": "La edad inicial se controla para evitar sesgos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Método científico en biología",
+      "subtema_a_reforzar": "Variable independiente, dependiente y controlada",
+      "prioridad": "Alta",
+      "acciones": [
+        "Subrayar qué cambia el investigador en cada experimento.",
+        "Identificar qué se mide como resultado.",
+        "Distinguir controles de variables manipuladas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar variables",
+      "Comprender diseño experimental"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0022",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Método científico en biología",
+    "subtema": "Hipótesis",
+    "competencia": "Indagación científica",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 73,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una investigadora observa que algunas plantas cercanas a una carretera tienen hojas más pequeñas que plantas de la misma especie ubicadas en una zona rural. Quiere formular una hipótesis comprobable.",
+    "pregunta": "¿Cuál hipótesis es más adecuada científicamente?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Si las plantas crecen cerca de la carretera, entonces tendrán menor tamaño promedio de hoja por exposición a contaminantes."
+      },
+      {
+        "letra": "B",
+        "texto": "Las plantas de carretera son peores porque sí."
+      },
+      {
+        "letra": "C",
+        "texto": "Las hojas pequeñas no pueden medirse de ninguna forma."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas las plantas del mundo cambian igual sin importar el ambiente."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Una hipótesis científica debe ser clara, comprobable y relacionar variables. La opción A propone una relación entre ubicación, posible exposición a contaminantes y tamaño de hoja medible. Las demás son vagas, no medibles o generalizaciones sin control.",
+    "diagnostico_por_error": {
+      "A": "Correcta: plantea relación verificable entre variables.",
+      "B": "Usa juicio subjetivo sin variable medible.",
+      "C": "Niega la posibilidad de medición, pero el tamaño de hoja sí puede medirse.",
+      "D": "Hace una generalización absoluta no sustentada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Método científico en biología",
+      "subtema_a_reforzar": "Formulación de hipótesis comprobables",
+      "prioridad": "Alta",
+      "acciones": [
+        "Practicar hipótesis con estructura si-entonces.",
+        "Identificar variables medibles.",
+        "Evitar explicaciones subjetivas o absolutas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Formular hipótesis",
+      "Reconocer criterios de comprobabilidad"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0023",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Biología",
+    "tema": "Método científico en biología",
+    "subtema": "Conclusiones a partir de datos",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 83,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Se prueba un fertilizante en plantas de tomate. Grupo control: 10 plantas sin fertilizante, altura promedio final 32 cm. Grupo experimental: 10 plantas con fertilizante, altura promedio final 45 cm. Ambos grupos tuvieron igual luz, agua, suelo y edad inicial.",
+    "pregunta": "¿Cuál conclusión es más válida con base en el diseño?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "En estas condiciones, el fertilizante se asoció con mayor crecimiento promedio."
+      },
+      {
+        "letra": "B",
+        "texto": "El fertilizante siempre aumenta cualquier planta en cualquier ambiente."
+      },
+      {
+        "letra": "C",
+        "texto": "El agua fue la única causa del mayor crecimiento."
+      },
+      {
+        "letra": "D",
+        "texto": "No puede compararse porque no existió grupo control."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El experimento controla varias condiciones y cambia el uso de fertilizante. Por tanto, es razonable concluir que, bajo esas condiciones, el fertilizante se relacionó con mayor altura promedio. No se debe generalizar a todas las especies ni ambientes sin más evidencia.",
+    "diagnostico_por_error": {
+      "A": "Correcta: concluye dentro del alcance de los datos.",
+      "B": "Generaliza excesivamente más allá del experimento.",
+      "C": "El agua fue controlada, no la variable probada.",
+      "D": "Sí hubo grupo control sin fertilizante."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Método científico en biología",
+      "subtema_a_reforzar": "Alcance de conclusiones experimentales",
+      "prioridad": "Alta",
+      "acciones": [
+        "Diferenciar conclusión válida y generalización excesiva.",
+        "Identificar grupo control y experimental.",
+        "Practicar interpretación de promedios y controles."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluar conclusiones",
+      "Reconocer límites de evidencia"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0024",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Estructura atómica y tabla periódica",
+    "subtema": "Partículas subatómicas",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 44,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un átomo neutro tiene número atómico 12 y número másico 24. El número atómico indica la cantidad de protones, y en un átomo neutro la cantidad de electrones es igual a la de protones.",
+    "pregunta": "¿Cuántos protones, neutrones y electrones tiene este átomo?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "12 protones, 12 neutrones y 12 electrones."
+      },
+      {
+        "letra": "B",
+        "texto": "24 protones, 12 neutrones y 24 electrones."
+      },
+      {
+        "letra": "C",
+        "texto": "12 protones, 24 neutrones y 12 electrones."
+      },
+      {
+        "letra": "D",
+        "texto": "24 protones, 24 neutrones y 12 electrones."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El número atómico 12 indica 12 protones. Al ser neutro, tiene 12 electrones. El número de neutrones se obtiene restando número másico menos número atómico: 24 - 12 = 12.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica las definiciones de número atómico y número másico.",
+      "B": "Confunde número másico con número de protones.",
+      "C": "Usa el número másico como si fuera número de neutrones.",
+      "D": "Confunde simultáneamente número másico, protones y neutrones."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Estructura atómica y tabla periódica",
+      "subtema_a_reforzar": "Número atómico, número másico e isótopos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Practicar cálculos de protones, neutrones y electrones.",
+        "Diferenciar átomo neutro e ion.",
+        "Resolver ejercicios con notación nuclear."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar definiciones atómicas",
+      "Calcular partículas subatómicas"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0025",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Estructura atómica y tabla periódica",
+    "subtema": "Tendencias periódicas",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 75,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dos elementos del mismo grupo de la tabla periódica son X y Y. X está ubicado por encima de Y. Ambos forman iones positivos de carga +1 con facilidad.",
+    "pregunta": "¿Qué afirmación es más probable sobre sus propiedades?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Y tiene mayor radio atómico que X porque posee más niveles de energía."
+      },
+      {
+        "letra": "B",
+        "texto": "X tiene más niveles de energía que Y porque está más arriba."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambos tienen idéntico radio porque pertenecen al mismo grupo."
+      },
+      {
+        "letra": "D",
+        "texto": "Y no puede formar iones si está debajo de X."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En un grupo de la tabla periódica, el radio atómico generalmente aumenta hacia abajo porque los átomos tienen más niveles de energía. Si Y está debajo de X, es esperable que Y tenga mayor radio atómico.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica la tendencia periódica vertical.",
+      "B": "Invierte la relación entre posición y niveles de energía.",
+      "C": "Confunde similitud de electrones de valencia con igualdad de tamaño.",
+      "D": "No hay base para negar la formación de iones por su posición inferior."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Estructura atómica y tabla periódica",
+      "subtema_a_reforzar": "Radio atómico y tendencias en grupos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Dibujar tendencias de radio en la tabla periódica.",
+        "Relacionar niveles de energía con tamaño atómico.",
+        "Comparar elementos de un mismo grupo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar tendencias periódicas",
+      "Explicar propiedades atómicas"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0026",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Estructura atómica y tabla periódica",
+    "subtema": "Iones",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 57,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un átomo neutro de cloro tiene 17 protones y 17 electrones. En una reacción, gana un electrón y forma un ion cloruro.",
+    "pregunta": "¿Cuál es la carga del ion formado?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "-1"
+      },
+      {
+        "letra": "B",
+        "texto": "+1"
+      },
+      {
+        "letra": "C",
+        "texto": "0"
+      },
+      {
+        "letra": "D",
+        "texto": "+17"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los protones aportan carga positiva y los electrones carga negativa. Si el cloro gana un electrón, queda con 17 protones y 18 electrones; por tanto, tiene una carga neta de -1.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce que ganar electrones produce carga negativa.",
+      "B": "Confunde ganar electrones con perderlos.",
+      "C": "No considera el electrón adicional.",
+      "D": "Confunde número de protones con carga neta del ion."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Estructura atómica y tabla periódica",
+      "subtema_a_reforzar": "Formación de cationes y aniones",
+      "prioridad": "Media",
+      "acciones": [
+        "Practicar cargas al ganar o perder electrones.",
+        "Diferenciar protones de electrones en carga neta.",
+        "Resolver ejemplos de iones comunes."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Determinar carga iónica",
+      "Aplicar conservación de protones"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0027",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Estructura atómica y tabla periódica",
+    "subtema": "Isótopos",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 68,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Tres átomos pertenecen al mismo elemento. Átomo 1: 6 protones y 6 neutrones. Átomo 2: 6 protones y 7 neutrones. Átomo 3: 6 protones y 8 neutrones.",
+    "pregunta": "¿Por qué se consideran isótopos?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque tienen igual número de protones y diferente número de neutrones."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque tienen diferente número de protones y el mismo número de neutrones."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque todos poseen la misma masa exacta."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque no tienen electrones en ningún caso."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los isótopos son átomos del mismo elemento, por eso tienen igual número de protones. Se diferencian en el número de neutrones, lo que cambia su número másico.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la definición de isótopos.",
+      "B": "Describe elementos distintos, no isótopos.",
+      "C": "Los isótopos tienen masas diferentes.",
+      "D": "La presencia o ausencia de electrones no define isótopos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Estructura atómica y tabla periódica",
+      "subtema_a_reforzar": "Isótopos y número másico",
+      "prioridad": "Media",
+      "acciones": [
+        "Comparar protones y neutrones en isótopos.",
+        "Calcular número másico.",
+        "Relacionar número atómico con identidad del elemento."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar datos atómicos",
+      "Clasificar isótopos"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0028",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Enlaces químicos y propiedades de la materia",
+    "subtema": "Enlace iónico",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 65,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El cloruro de sodio sólido no conduce bien la electricidad, pero cuando se disuelve en agua la solución sí conduce.",
+    "pregunta": "¿Cuál explicación es más adecuada?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Al disolverse, se forman iones móviles capaces de transportar carga."
+      },
+      {
+        "letra": "B",
+        "texto": "El agua convierte los iones en protones libres del núcleo."
+      },
+      {
+        "letra": "C",
+        "texto": "El sólido conduce mejor porque sus iones están fijos."
+      },
+      {
+        "letra": "D",
+        "texto": "La electricidad se produce porque la sal desaparece completamente."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En el sólido iónico, los iones están ordenados en una red y no se mueven libremente. Al disolverse, los iones sodio y cloruro quedan separados y pueden moverse en la solución, permitiendo conducción eléctrica.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona conducción con movilidad iónica.",
+      "B": "Confunde disociación iónica con liberación de protones nucleares.",
+      "C": "Los iones fijos no transportan carga eficientemente.",
+      "D": "La sal se disocia, no desaparece como materia."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Enlaces químicos y propiedades de la materia",
+      "subtema_a_reforzar": "Compuestos iónicos y conductividad",
+      "prioridad": "Media",
+      "acciones": [
+        "Comparar sólidos iónicos, fundidos y disueltos.",
+        "Relacionar movilidad de cargas con conductividad.",
+        "Dibujar disociación de sales en agua."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Explicar propiedades macroscópicas",
+      "Relacionar estructura y conducción"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0029",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Enlaces químicos y propiedades de la materia",
+    "subtema": "Polaridad",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 79,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "El agua disuelve con facilidad sustancias polares o iónicas, pero no disuelve bien aceites no polares. En una mezcla de agua y aceite se forman dos fases.",
+    "pregunta": "¿Qué principio explica mejor este comportamiento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Sustancias con polaridades semejantes tienden a mezclarse mejor entre sí."
+      },
+      {
+        "letra": "B",
+        "texto": "Toda sustancia líquida se mezcla completamente con cualquier otra."
+      },
+      {
+        "letra": "C",
+        "texto": "El aceite no tiene masa y por eso flota."
+      },
+      {
+        "letra": "D",
+        "texto": "El agua rompe todos los enlaces covalentes del aceite."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La solubilidad depende en parte de las interacciones intermoleculares. El agua es polar y favorece la disolución de sustancias polares o iónicas. El aceite es mayoritariamente no polar, por lo que sus interacciones con el agua no son favorables y se separan en fases.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica el principio de semejanza de polaridad.",
+      "B": "Desconoce la inmiscibilidad de algunos líquidos.",
+      "C": "El aceite tiene masa; la flotación depende de densidad, no de ausencia de masa.",
+      "D": "El agua no rompe todos los enlaces covalentes del aceite al mezclarse."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Enlaces químicos y propiedades de la materia",
+      "subtema_a_reforzar": "Polaridad y solubilidad",
+      "prioridad": "Alta",
+      "acciones": [
+        "Clasificar moléculas polares y no polares.",
+        "Relacionar fuerzas intermoleculares con solubilidad.",
+        "Analizar ejemplos de agua, sales, alcoholes y aceites."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar polaridad",
+      "Explicar mezclas y fases"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0030",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Enlaces químicos y propiedades de la materia",
+    "subtema": "Cambios físicos y químicos",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 56,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un laboratorio escolar se observan cuatro procesos: derretir hielo, quemar papel, disolver azúcar en agua y cortar una lámina de aluminio.",
+    "pregunta": "¿Cuál proceso corresponde a un cambio químico?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Quemar papel."
+      },
+      {
+        "letra": "B",
+        "texto": "Derretir hielo."
+      },
+      {
+        "letra": "C",
+        "texto": "Disolver azúcar en agua."
+      },
+      {
+        "letra": "D",
+        "texto": "Cortar una lámina de aluminio."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Quemar papel produce sustancias nuevas, como gases y cenizas, por reacciones de combustión. Derretir, disolver y cortar pueden cambiar estado, distribución o forma, pero no necesariamente forman nuevas sustancias.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica formación de nuevas sustancias.",
+      "B": "Confunde cambio de estado con cambio químico.",
+      "C": "Disolver azúcar suele ser un cambio físico reversible por evaporación del agua.",
+      "D": "Cortar cambia forma, no composición química."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Enlaces químicos y propiedades de la materia",
+      "subtema_a_reforzar": "Diferencia entre cambio físico y químico",
+      "prioridad": "Media",
+      "acciones": [
+        "Buscar evidencias de formación de nuevas sustancias.",
+        "Clasificar procesos cotidianos.",
+        "Distinguir cambios de estado de reacciones."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Clasificar transformaciones",
+      "Reconocer evidencia química"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0031",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Enlaces químicos y propiedades de la materia",
+    "subtema": "Propiedades de materiales",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 72,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un material sólido conduce electricidad en estado sólido, es maleable y tiene brillo. Otro material es quebradizo, tiene alto punto de fusión y solo conduce electricidad cuando está fundido.",
+    "pregunta": "¿Cuál clasificación es más coherente?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El primero es metálico y el segundo es iónico."
+      },
+      {
+        "letra": "B",
+        "texto": "El primero es iónico y el segundo es metálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambos son gases nobles sólidos."
+      },
+      {
+        "letra": "D",
+        "texto": "Ambos son moléculas no polares líquidas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los metales suelen conducir en estado sólido, ser maleables y brillantes. Los compuestos iónicos suelen ser quebradizos, tener altos puntos de fusión y conducir cuando sus iones pueden moverse, por ejemplo, fundidos o disueltos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona propiedades con tipo de enlace.",
+      "B": "Invierte las propiedades típicas de metales e iónicos.",
+      "C": "No corresponde a las propiedades descritas.",
+      "D": "Contradice el estado sólido y la conductividad indicada."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Enlaces químicos y propiedades de la materia",
+      "subtema_a_reforzar": "Propiedades de sólidos metálicos e iónicos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Comparar conductividad en sólidos metálicos e iónicos.",
+        "Relacionar estructura con maleabilidad.",
+        "Resolver clasificaciones por propiedades observables."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferir estructura a partir de propiedades",
+      "Comparar tipos de enlace"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0032",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Reacciones químicas y estequiometría básica",
+    "subtema": "Balanceo",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 62,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Se quiere balancear la reacción: H2 + O2 → H2O.",
+    "pregunta": "¿Cuál ecuación balanceada conserva el número de átomos de cada elemento?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "2H2 + O2 → 2H2O"
+      },
+      {
+        "letra": "B",
+        "texto": "H2 + O2 → H2O"
+      },
+      {
+        "letra": "C",
+        "texto": "H2 + 2O2 → H2O"
+      },
+      {
+        "letra": "D",
+        "texto": "2H2 + 2O2 → H2O"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En 2H2 + O2 hay 4 átomos de hidrógeno y 2 de oxígeno. En 2H2O también hay 4 átomos de hidrógeno y 2 de oxígeno. Por tanto, la ecuación conserva la materia.",
+    "diagnostico_por_error": {
+      "A": "Correcta: conserva H y O en ambos lados.",
+      "B": "No conserva oxígeno: hay dos átomos a la izquierda y uno a la derecha.",
+      "C": "No conserva oxígeno.",
+      "D": "No conserva ni hidrógeno ni oxígeno con los productos dados."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Reacciones químicas y estequiometría básica",
+      "subtema_a_reforzar": "Balanceo por tanteo",
+      "prioridad": "Media",
+      "acciones": [
+        "Contar átomos antes y después de la flecha.",
+        "Ajustar coeficientes, no subíndices.",
+        "Practicar reacciones sencillas de combustión y formación."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Conservar materia",
+      "Balancear ecuaciones simples"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0033",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Reacciones químicas y estequiometría básica",
+    "subtema": "Reactivo limitante",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 84,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Para formar agua se usa la reacción balanceada 2H2 + O2 → 2H2O. En un recipiente hay 6 moléculas de H2 y 2 moléculas de O2.",
+    "pregunta": "¿Cuál afirmación identifica correctamente el reactivo limitante?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "El O2 es limitante porque 2 moléculas de O2 solo reaccionan con 4 moléculas de H2."
+      },
+      {
+        "letra": "B",
+        "texto": "El H2 es limitante porque hay más moléculas de H2 que de O2."
+      },
+      {
+        "letra": "C",
+        "texto": "No hay reactivo limitante porque siempre se consume todo."
+      },
+      {
+        "letra": "D",
+        "texto": "El producto H2O es el reactivo limitante."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La proporción exige 2 moléculas de H2 por 1 de O2. Con 2 moléculas de O2 se necesitan 4 de H2, y hay 6 disponibles. Por tanto, el O2 se consume primero y sobran 2 moléculas de H2.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa la proporción estequiométrica.",
+      "B": "Confunde cantidad absoluta con proporción requerida.",
+      "C": "Desconoce que puede sobrar un reactivo.",
+      "D": "El producto no es reactivo limitante."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Reacciones químicas y estequiometría básica",
+      "subtema_a_reforzar": "Reactivo limitante con proporciones",
+      "prioridad": "Alta",
+      "acciones": [
+        "Usar coeficientes como relaciones de cantidad.",
+        "Comparar disponibilidad con requerimiento.",
+        "Resolver problemas con moléculas o moles."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar estequiometría",
+      "Razonar con proporciones"
+    ],
+    "tiempo_estimado_segundos": 110,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0034",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Reacciones químicas y estequiometría básica",
+    "subtema": "Conservación de la masa",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 55,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un recipiente cerrado reaccionan 8 g de una sustancia A con 12 g de una sustancia B. No entra ni sale materia del sistema.",
+    "pregunta": "¿Cuál debe ser la masa total de productos si la reacción se completa?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "20 g"
+      },
+      {
+        "letra": "B",
+        "texto": "12 g"
+      },
+      {
+        "letra": "C",
+        "texto": "8 g"
+      },
+      {
+        "letra": "D",
+        "texto": "4 g"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En un sistema cerrado se cumple la ley de conservación de la masa: la masa total de reactivos es igual a la masa total de productos. Como 8 g + 12 g = 20 g, los productos deben sumar 20 g.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica conservación de la masa.",
+      "B": "Toma solo la masa de un reactivo.",
+      "C": "Toma solo la masa del otro reactivo.",
+      "D": "Resta masas sin justificación química."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Reacciones químicas y estequiometría básica",
+      "subtema_a_reforzar": "Ley de conservación de la masa",
+      "prioridad": "Media",
+      "acciones": [
+        "Resolver ejercicios de masa en sistemas cerrados.",
+        "Diferenciar sistema abierto y cerrado.",
+        "Relacionar balanceo con conservación de átomos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar conservación de masa",
+      "Interpretar sistemas cerrados"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0035",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Reacciones químicas y estequiometría básica",
+    "subtema": "Evidencias de reacción",
+    "competencia": "Indagación científica",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 43,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Al mezclar dos soluciones transparentes aparece un sólido blanco que se deposita en el fondo del tubo. La temperatura y el volumen se mantienen casi iguales.",
+    "pregunta": "¿Qué evidencia sugiere que ocurrió una reacción química?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Formación de un precipitado sólido."
+      },
+      {
+        "letra": "B",
+        "texto": "Que las soluciones eran transparentes al inicio."
+      },
+      {
+        "letra": "C",
+        "texto": "Que el tubo era de vidrio."
+      },
+      {
+        "letra": "D",
+        "texto": "Que el volumen no cambió mucho."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La formación de un precipitado indica que apareció una sustancia insoluble nueva al mezclar las soluciones. Esta es una evidencia común de reacción química, aunque debe analizarse con el contexto experimental.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce precipitado como evidencia de reacción.",
+      "B": "La transparencia inicial no prueba reacción.",
+      "C": "El material del recipiente no es evidencia del cambio químico descrito.",
+      "D": "La ausencia de cambio de volumen no indica reacción."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Reacciones químicas y estequiometría básica",
+      "subtema_a_reforzar": "Evidencias macroscópicas de reacciones",
+      "prioridad": "Media",
+      "acciones": [
+        "Listar evidencias: gas, precipitado, cambio de color o energía.",
+        "Distinguir observación relevante de dato incidental.",
+        "Analizar reacciones de precipitación sencillas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar evidencia experimental",
+      "Diferenciar observaciones relevantes"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0036",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Reacciones químicas y estequiometría básica",
+    "subtema": "Estequiometría en contexto médico",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 89,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un antiácido contiene una base que neutraliza ácido del estómago según una proporción simplificada: 1 mol de base neutraliza 1 mol de ácido. En una prueba, 0,03 mol de base se mezclan con 0,05 mol de ácido.",
+    "pregunta": "¿Qué conclusión es correcta al finalizar la reacción?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La base es limitante y quedan 0,02 mol de ácido sin neutralizar."
+      },
+      {
+        "letra": "B",
+        "texto": "El ácido es limitante y quedan 0,02 mol de base."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambos se consumen exactamente porque la proporción es 1:1."
+      },
+      {
+        "letra": "D",
+        "texto": "Se forman 0,08 mol de base nueva."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La proporción es 1:1, por lo que 0,03 mol de base neutralizan 0,03 mol de ácido. Como había 0,05 mol de ácido, sobran 0,02 mol. La base se consume primero y es el reactivo limitante.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica proporción molar y calcula exceso.",
+      "B": "Invierte el reactivo limitante.",
+      "C": "Confunde proporción de reacción con cantidades iniciales iguales.",
+      "D": "No corresponde a una neutralización; la base se consume."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Reacciones químicas y estequiometría básica",
+      "subtema_a_reforzar": "Moles, proporción 1:1 y exceso",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Plantear tablas inicial-cambio-final.",
+        "Practicar neutralizaciones simples.",
+        "Diferenciar proporción química y cantidad disponible."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Calcular reactivo limitante",
+      "Interpretar contexto químico-biológico"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0037",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Soluciones, concentración y pH",
+    "subtema": "Concentración",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 69,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Se preparan dos soluciones de glucosa. Solución A: 10 g de glucosa en 100 mL de solución. Solución B: 10 g de glucosa en 500 mL de solución.",
+    "pregunta": "¿Cuál afirmación compara correctamente las concentraciones?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La solución A es más concentrada porque la misma masa de soluto está en menor volumen."
+      },
+      {
+        "letra": "B",
+        "texto": "La solución B es más concentrada porque tiene más volumen."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambas tienen igual concentración porque contienen la misma masa de glucosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Ninguna tiene soluto porque la glucosa se disuelve."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La concentración depende de la cantidad de soluto en relación con el volumen de solución. Si ambas tienen 10 g de glucosa, la que tiene menor volumen total posee mayor concentración.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona soluto y volumen.",
+      "B": "Confunde volumen mayor con concentración mayor.",
+      "C": "Ignora el papel del volumen en la concentración.",
+      "D": "Disolver no elimina el soluto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Soluciones, concentración y pH",
+      "subtema_a_reforzar": "Relación soluto-volumen",
+      "prioridad": "Media",
+      "acciones": [
+        "Calcular concentración como soluto/volumen.",
+        "Comparar soluciones con igual soluto y distinto volumen.",
+        "Diferenciar disolver de desaparecer."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Comparar concentraciones",
+      "Razonar proporcionalmente"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0038",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Soluciones, concentración y pH",
+    "subtema": "pH",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 77,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Tres soluciones tienen los siguientes valores de pH: solución X: 3, solución Y: 7, solución Z: 10.",
+    "pregunta": "¿Cuál clasificación es correcta?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "X es ácida, Y es neutra y Z es básica."
+      },
+      {
+        "letra": "B",
+        "texto": "X es básica, Y es ácida y Z es neutra."
+      },
+      {
+        "letra": "C",
+        "texto": "X, Y y Z son neutras porque tienen pH numérico."
+      },
+      {
+        "letra": "D",
+        "texto": "Z es ácida porque tiene el número mayor."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En la escala de pH, valores menores que 7 indican acidez, pH 7 es neutro y valores mayores que 7 indican basicidad. Por eso pH 3 es ácido, pH 7 neutro y pH 10 básico.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta correctamente la escala de pH.",
+      "B": "Invierte ácido y base.",
+      "C": "Confunde tener un valor de pH con ser neutro.",
+      "D": "Asocia número mayor con acidez, cuando ocurre lo contrario."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Soluciones, concentración y pH",
+      "subtema_a_reforzar": "Escala de pH",
+      "prioridad": "Alta",
+      "acciones": [
+        "Memorizar rangos básicos de pH.",
+        "Ordenar sustancias de más ácidas a más básicas.",
+        "Interpretar tablas de pH en contextos cotidianos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar escala numérica",
+      "Clasificar soluciones"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0039",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Soluciones, concentración y pH",
+    "subtema": "Dilución",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 64,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "A 100 mL de una solución salina se le agregan 300 mL de agua pura, sin agregar más sal. La sal no se evapora ni reacciona.",
+    "pregunta": "¿Qué ocurre con la concentración de sal?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Disminuye porque la misma cantidad de sal queda distribuida en mayor volumen."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumenta porque el agua pura contiene sal oculta."
+      },
+      {
+        "letra": "C",
+        "texto": "Permanece igual porque no se agregó sal."
+      },
+      {
+        "letra": "D",
+        "texto": "Se vuelve cero porque el agua destruye la sal."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En una dilución, la cantidad de soluto se mantiene pero el volumen de solución aumenta. Por eso la concentración, definida como cantidad de soluto por volumen, disminuye.",
+    "diagnostico_por_error": {
+      "A": "Correcta: comprende el efecto de la dilución.",
+      "B": "Introduce una suposición falsa sobre el agua pura.",
+      "C": "Ignora que la concentración depende también del volumen.",
+      "D": "El agua no destruye químicamente la sal al diluirla."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Soluciones, concentración y pH",
+      "subtema_a_reforzar": "Dilución y conservación de soluto",
+      "prioridad": "Media",
+      "acciones": [
+        "Representar diluciones con dibujos de partículas.",
+        "Aplicar concentración igual a soluto sobre volumen.",
+        "Resolver ejercicios de antes y después de agregar solvente."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Razonar sobre dilución",
+      "Relacionar concentración y volumen"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0040",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Soluciones, concentración y pH",
+    "subtema": "Soluciones isotónicas",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 80,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En contextos de salud se usan soluciones salinas con concentraciones adecuadas para evitar cambios bruscos en el volumen de las células sanguíneas. Si una célula se coloca en una solución mucho menos concentrada que su interior, entra agua por ósmosis.",
+    "pregunta": "¿Por qué una solución isotónica es útil para mantener células sanguíneas estables?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque tiene concentración efectiva similar a la del interior celular y evita flujo neto grande de agua."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque elimina todos los solutos de la sangre."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque obliga a que el agua siempre salga de las células."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque convierte las células sanguíneas en sales disueltas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Una solución isotónica tiene una concentración de solutos efectiva comparable con la del interior celular. Esto reduce el flujo neto de agua por ósmosis, evitando que las células se hinchen o se deshidraten en exceso.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica ósmosis a un contexto de salud.",
+      "B": "No elimina todos los solutos; mantiene equilibrio osmótico.",
+      "C": "Describe una solución hipertónica, no isotónica.",
+      "D": "Propone una transformación imposible."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Soluciones, concentración y pH",
+      "subtema_a_reforzar": "Osmosis e isotonicidad",
+      "prioridad": "Alta",
+      "acciones": [
+        "Comparar soluciones isotónicas, hipotónicas e hipertónicas.",
+        "Relacionar concentración con movimiento de agua.",
+        "Aplicar el concepto a células sanguíneas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar conceptos de soluciones",
+      "Explicar estabilidad celular"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0041",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Química orgánica básica y biomoléculas",
+    "subtema": "Grupos funcionales",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 58,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una molécula orgánica sencilla tiene un grupo -OH unido a una cadena de carbonos. Este grupo puede formar interacciones con el agua y aumentar la solubilidad en comparación con hidrocarburos del mismo tamaño.",
+    "pregunta": "¿Qué grupo funcional se describe?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Hidroxilo."
+      },
+      {
+        "letra": "B",
+        "texto": "Fosfato."
+      },
+      {
+        "letra": "C",
+        "texto": "Amino."
+      },
+      {
+        "letra": "D",
+        "texto": "Carbonilo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El grupo -OH se denomina hidroxilo. Su presencia aumenta la polaridad de la molécula y puede favorecer interacciones con el agua, como ocurre en alcoholes y algunos carbohidratos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce el grupo -OH.",
+      "B": "El fosfato contiene fósforo y oxígenos, no es simplemente -OH.",
+      "C": "El grupo amino se relaciona con -NH2.",
+      "D": "El carbonilo corresponde a C=O."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Química orgánica básica y biomoléculas",
+      "subtema_a_reforzar": "Grupos funcionales principales",
+      "prioridad": "Media",
+      "acciones": [
+        "Hacer tarjetas de grupos funcionales.",
+        "Relacionar grupo funcional con polaridad.",
+        "Identificar grupos en biomoléculas simples."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer estructuras químicas",
+      "Relacionar estructura y solubilidad"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0042",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Química orgánica básica y biomoléculas",
+    "subtema": "Biomoléculas",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 63,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una dieta equilibrada incluye carbohidratos, lípidos y proteínas. En el cuerpo, estas biomoléculas cumplen funciones diferentes: algunas aportan energía rápida, otras almacenan energía y otras forman estructuras o enzimas.",
+    "pregunta": "¿Cuál asociación es más correcta?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Proteínas: pueden actuar como enzimas y formar estructuras celulares."
+      },
+      {
+        "letra": "B",
+        "texto": "Lípidos: son siempre material genético."
+      },
+      {
+        "letra": "C",
+        "texto": "Carbohidratos: nunca aportan energía."
+      },
+      {
+        "letra": "D",
+        "texto": "Proteínas: están formadas principalmente por nucleótidos."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las proteínas están formadas por aminoácidos y pueden cumplir funciones estructurales, de transporte, defensa o catálisis enzimática. Los lípidos no son material genético y los carbohidratos sí pueden aportar energía.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce funciones de proteínas.",
+      "B": "Confunde lípidos con ácidos nucleicos.",
+      "C": "Desconoce función energética de carbohidratos.",
+      "D": "Confunde proteínas con ácidos nucleicos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Química orgánica básica y biomoléculas",
+      "subtema_a_reforzar": "Funciones de carbohidratos, lípidos, proteínas y ácidos nucleicos",
+      "prioridad": "Media",
+      "acciones": [
+        "Construir una tabla biomolécula-monómero-función.",
+        "Relacionar dieta con metabolismo.",
+        "Diferenciar aminoácidos y nucleótidos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Clasificar biomoléculas",
+      "Relacionar composición y función"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0043",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Química",
+    "tema": "Química orgánica básica y biomoléculas",
+    "subtema": "Lípidos y membranas",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Los fosfolípidos tienen una cabeza polar y dos colas no polares. En agua, tienden a formar bicapas donde las cabezas quedan hacia el agua y las colas hacia el interior.",
+    "pregunta": "¿Por qué esta organización es adecuada para formar membranas celulares?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque separa regiones acuosas y crea una barrera selectiva con interior hidrofóbico."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque todas las partes del fosfolípido son igualmente solubles en agua."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque las colas no polares atraen fuertemente iones disueltos."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque la bicapa impide absolutamente el paso de cualquier sustancia."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La naturaleza anfipática de los fosfolípidos permite que las cabezas polares interactúen con medios acuosos y las colas no polares se orienten hacia el interior. Esto crea una barrera que regula el paso de sustancias, no una pared totalmente impermeable.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona anfipaticidad con bicapa y selectividad.",
+      "B": "Ignora la diferencia entre cabeza polar y colas no polares.",
+      "C": "Las colas hidrofóbicas no atraen fuertemente iones.",
+      "D": "La membrana es selectivamente permeable, no absolutamente impermeable."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Química orgánica básica y biomoléculas",
+      "subtema_a_reforzar": "Fosfolípidos y membrana celular",
+      "prioridad": "Alta",
+      "acciones": [
+        "Dibujar fosfolípidos en agua.",
+        "Estudiar moléculas anfipáticas.",
+        "Relacionar estructura de membrana con permeabilidad selectiva."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Explicar autoorganización molecular",
+      "Relacionar química y biología celular"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0044",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Mecánica y movimiento",
+    "subtema": "Velocidad promedio",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 60,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una ambulancia recorre 18 km en 15 minutos por una vía despejada. Para estimar su rapidez promedio, se considera la distancia total recorrida y el tiempo total empleado.",
+    "pregunta": "¿Cuál es la rapidez promedio en km/h?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "72 km/h"
+      },
+      {
+        "letra": "B",
+        "texto": "18 km/h"
+      },
+      {
+        "letra": "C",
+        "texto": "45 km/h"
+      },
+      {
+        "letra": "D",
+        "texto": "270 km/h"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Quince minutos equivalen a 0,25 horas. La rapidez promedio es distancia dividida entre tiempo: 18 km / 0,25 h = 72 km/h.",
+    "diagnostico_por_error": {
+      "A": "Correcta: convierte minutos a horas y calcula rapidez.",
+      "B": "Usa la distancia como si fuera rapidez.",
+      "C": "Realiza una conversión incorrecta del tiempo.",
+      "D": "Multiplica valores sin considerar unidades."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Mecánica y movimiento",
+      "subtema_a_reforzar": "Rapidez promedio y conversión de unidades",
+      "prioridad": "Media",
+      "acciones": [
+        "Convertir minutos a horas antes de calcular.",
+        "Usar la fórmula rapidez = distancia/tiempo.",
+        "Verificar unidades del resultado."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Calcular rapidez promedio",
+      "Convertir unidades de tiempo"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0045",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Mecánica y movimiento",
+    "subtema": "Aceleración",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 76,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un carrito se mueve en línea recta. Su velocidad cambia de 2 m/s a 10 m/s en 4 s.",
+    "pregunta": "¿Cuál es su aceleración promedio?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "2 m/s²"
+      },
+      {
+        "letra": "B",
+        "texto": "8 m/s²"
+      },
+      {
+        "letra": "C",
+        "texto": "12 m/s²"
+      },
+      {
+        "letra": "D",
+        "texto": "40 m/s²"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La aceleración promedio es el cambio de velocidad dividido entre el tiempo: (10 m/s - 2 m/s) / 4 s = 8 m/s / 4 s = 2 m/s².",
+    "diagnostico_por_error": {
+      "A": "Correcta: calcula cambio de velocidad sobre tiempo.",
+      "B": "Calcula solo el cambio de velocidad, no la aceleración.",
+      "C": "Suma velocidades en lugar de restarlas.",
+      "D": "Multiplica velocidad final por tiempo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Mecánica y movimiento",
+      "subtema_a_reforzar": "Aceleración promedio",
+      "prioridad": "Alta",
+      "acciones": [
+        "Usar aceleración = cambio de velocidad/tiempo.",
+        "Diferenciar velocidad final, inicial y cambio.",
+        "Practicar unidades m/s²."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Calcular aceleración",
+      "Interpretar cambio de velocidad"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0046",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Mecánica y movimiento",
+    "subtema": "Movimiento uniforme",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 67,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un objeto se mueve en línea recta con velocidad constante. No cambia ni su rapidez ni la dirección de movimiento durante un intervalo.",
+    "pregunta": "¿Qué puede afirmarse sobre la fuerza neta que actúa sobre el objeto, según el modelo de Newton?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La fuerza neta es cero."
+      },
+      {
+        "letra": "B",
+        "texto": "La fuerza neta aumenta continuamente."
+      },
+      {
+        "letra": "C",
+        "texto": "La fuerza neta siempre apunta en sentido contrario al movimiento."
+      },
+      {
+        "letra": "D",
+        "texto": "La fuerza neta depende solo del color del objeto."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Si un objeto mantiene velocidad constante en línea recta, su aceleración es cero. Por la segunda ley de Newton, una aceleración cero implica fuerza neta igual a cero, aunque puedan existir fuerzas equilibradas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona velocidad constante con fuerza neta nula.",
+      "B": "Una fuerza neta creciente produciría aceleración.",
+      "C": "Una fuerza neta contraria cambiaría la velocidad.",
+      "D": "El color no determina la fuerza neta."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Mecánica y movimiento",
+      "subtema_a_reforzar": "Primera y segunda ley de Newton",
+      "prioridad": "Media",
+      "acciones": [
+        "Diferenciar fuerza neta de fuerzas individuales.",
+        "Relacionar aceleración con cambios de velocidad.",
+        "Resolver situaciones de equilibrio dinámico."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar leyes de Newton",
+      "Interpretar movimiento uniforme"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0047",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Mecánica y movimiento",
+    "subtema": "Caída libre",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 86,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dos esferas del mismo tamaño, una de madera y otra de metal, se dejan caer desde la misma altura en un tubo donde se ha retirado casi todo el aire. Se observa que llegan prácticamente al mismo tiempo.",
+    "pregunta": "¿Qué explicación es más adecuada?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Al reducirse la resistencia del aire, ambas tienen prácticamente la misma aceleración gravitacional."
+      },
+      {
+        "letra": "B",
+        "texto": "La esfera metálica pierde toda su masa durante la caída."
+      },
+      {
+        "letra": "C",
+        "texto": "La madera cae igual porque se convierte en metal dentro del tubo."
+      },
+      {
+        "letra": "D",
+        "texto": "La gravedad actúa solo sobre objetos livianos en ausencia de aire."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En ausencia casi total de aire, la resistencia del aire deja de ser un factor importante. Los objetos caen con aceleración gravitacional prácticamente igual, independientemente de su masa, si se desprecia la resistencia del medio.",
+    "diagnostico_por_error": {
+      "A": "Correcta: diferencia gravedad de resistencia del aire.",
+      "B": "La masa no desaparece durante la caída.",
+      "C": "Propone una transformación material imposible.",
+      "D": "La gravedad actúa sobre ambos objetos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Mecánica y movimiento",
+      "subtema_a_reforzar": "Caída libre y resistencia del aire",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Comparar caída con y sin resistencia del aire.",
+        "Estudiar aceleración gravitacional.",
+        "Analizar experimentos ideales y reales."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar modelos físicos",
+      "Distinguir fuerzas relevantes"
+    ],
+    "tiempo_estimado_segundos": 120,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0048",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Fuerzas y energía",
+    "subtema": "Energía potencial",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 47,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una caja de 2 kg se coloca en una repisa alta y otra caja idéntica se deja en el suelo. Ambas están en reposo.",
+    "pregunta": "¿Cuál caja tiene mayor energía potencial gravitacional respecto al suelo?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "La caja ubicada en la repisa."
+      },
+      {
+        "letra": "B",
+        "texto": "La caja ubicada en el suelo."
+      },
+      {
+        "letra": "C",
+        "texto": "Ambas tienen mayor energía que cualquier objeto en movimiento."
+      },
+      {
+        "letra": "D",
+        "texto": "Ninguna puede tener energía porque están en reposo."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La energía potencial gravitacional depende de la altura respecto a un nivel de referencia, además de la masa y la gravedad. Como las masas son iguales, la caja a mayor altura tiene mayor energía potencial respecto al suelo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona energía potencial con altura.",
+      "B": "Invierte la relación entre altura y energía potencial.",
+      "C": "Compara con objetos no descritos y mezcla energía potencial con cinética.",
+      "D": "Un objeto en reposo puede tener energía potencial."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Fuerzas y energía",
+      "subtema_a_reforzar": "Energía potencial gravitacional",
+      "prioridad": "Media",
+      "acciones": [
+        "Usar la relación Epg = mgh de forma conceptual.",
+        "Distinguir energía potencial de cinética.",
+        "Identificar nivel de referencia."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Reconocer energía potencial",
+      "Relacionar altura y energía"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0049",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Fuerzas y energía",
+    "subtema": "Trabajo mecánico",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 78,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una persona empuja una camilla con una fuerza horizontal constante de 40 N y la desplaza 5 m en la misma dirección de la fuerza.",
+    "pregunta": "¿Qué trabajo realiza la persona sobre la camilla?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "200 J"
+      },
+      {
+        "letra": "B",
+        "texto": "45 J"
+      },
+      {
+        "letra": "C",
+        "texto": "8 J"
+      },
+      {
+        "letra": "D",
+        "texto": "0 J"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Cuando la fuerza y el desplazamiento tienen la misma dirección, el trabajo es W = F × d. Entonces W = 40 N × 5 m = 200 J.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica trabajo como fuerza por desplazamiento.",
+      "B": "Suma fuerza y distancia, operación físicamente incorrecta.",
+      "C": "Divide fuerza entre distancia.",
+      "D": "El trabajo no es cero porque sí hay desplazamiento en dirección de la fuerza."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Fuerzas y energía",
+      "subtema_a_reforzar": "Trabajo mecánico",
+      "prioridad": "Alta",
+      "acciones": [
+        "Aplicar W = Fd cuando fuerza y desplazamiento son paralelos.",
+        "Revisar unidades de joule.",
+        "Distinguir empujar sin desplazamiento de empujar con desplazamiento."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Calcular trabajo",
+      "Interpretar dirección de fuerza y desplazamiento"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0050",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Fuerzas y energía",
+    "subtema": "Conservación de energía",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 81,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Una pelota se suelta desde cierta altura. Si se desprecia la resistencia del aire, cae aumentando su rapidez hasta llegar al suelo.",
+    "pregunta": "¿Qué transformación de energía ocurre principalmente durante la caída?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Energía potencial gravitacional se transforma en energía cinética."
+      },
+      {
+        "letra": "B",
+        "texto": "Energía cinética se transforma completamente en masa."
+      },
+      {
+        "letra": "C",
+        "texto": "Energía térmica se transforma en altura sin movimiento."
+      },
+      {
+        "letra": "D",
+        "texto": "La energía desaparece porque la pelota baja."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Al caer, la altura de la pelota disminuye, por lo que disminuye su energía potencial gravitacional. Al mismo tiempo aumenta su velocidad, por lo que aumenta su energía cinética. Sin resistencia del aire, la energía mecánica total se conserva.",
+    "diagnostico_por_error": {
+      "A": "Correcta: describe la transformación energética principal.",
+      "B": "No corresponde al fenómeno mecánico descrito.",
+      "C": "Contradice el aumento de rapidez durante la caída.",
+      "D": "La energía se transforma, no desaparece."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Fuerzas y energía",
+      "subtema_a_reforzar": "Conservación de energía mecánica",
+      "prioridad": "Alta",
+      "acciones": [
+        "Relacionar altura con energía potencial.",
+        "Relacionar rapidez con energía cinética.",
+        "Resolver casos sin fricción o resistencia."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Explicar transformaciones de energía",
+      "Aplicar conservación energética"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0051",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Fuerzas y energía",
+    "subtema": "Fuerza neta",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 62,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Sobre una caja actúan dos fuerzas horizontales: 30 N hacia la derecha y 20 N hacia la izquierda. La superficie es horizontal.",
+    "pregunta": "¿Cuál es la fuerza neta horizontal sobre la caja?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "10 N hacia la derecha."
+      },
+      {
+        "letra": "B",
+        "texto": "50 N hacia la derecha."
+      },
+      {
+        "letra": "C",
+        "texto": "10 N hacia la izquierda."
+      },
+      {
+        "letra": "D",
+        "texto": "0 N porque hay dos fuerzas."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Las fuerzas en sentidos opuestos se restan. Como 30 N hacia la derecha es mayor que 20 N hacia la izquierda, la fuerza neta es 10 N hacia la derecha.",
+    "diagnostico_por_error": {
+      "A": "Correcta: resta fuerzas opuestas y conserva dirección.",
+      "B": "Suma fuerzas que actúan en sentidos contrarios.",
+      "C": "Resta bien la magnitud pero asigna dirección incorrecta.",
+      "D": "Dos fuerzas no implican equilibrio si sus magnitudes son distintas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Fuerzas y energía",
+      "subtema_a_reforzar": "Suma vectorial de fuerzas en una dimensión",
+      "prioridad": "Media",
+      "acciones": [
+        "Dibujar flechas de fuerza.",
+        "Restar magnitudes cuando son opuestas.",
+        "Asignar dirección de la fuerza mayor."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Calcular fuerza neta",
+      "Interpretar dirección vectorial"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0052",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Ondas, sonido y luz",
+    "subtema": "Frecuencia y tono",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 59,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dos sonidos tienen la misma intensidad, pero uno se percibe más agudo que el otro. En física, el tono se relaciona con la frecuencia de la onda sonora.",
+    "pregunta": "¿Qué diferencia física explica que un sonido sea más agudo?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Tiene mayor frecuencia."
+      },
+      {
+        "letra": "B",
+        "texto": "Tiene menor velocidad en el mismo medio."
+      },
+      {
+        "letra": "C",
+        "texto": "Tiene mayor masa."
+      },
+      {
+        "letra": "D",
+        "texto": "No necesita vibración."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El tono percibido de un sonido depende de su frecuencia. Una frecuencia mayor se percibe como un sonido más agudo; una frecuencia menor se percibe como más grave. La intensidad se relaciona más con el volumen percibido.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona tono agudo con frecuencia alta.",
+      "B": "En el mismo medio, la velocidad del sonido no explica el tono.",
+      "C": "La masa no es una propiedad de la onda sonora como tal.",
+      "D": "El sonido requiere vibración y propagación en un medio."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Ondas, sonido y luz",
+      "subtema_a_reforzar": "Frecuencia, tono e intensidad",
+      "prioridad": "Media",
+      "acciones": [
+        "Diferenciar frecuencia, amplitud e intensidad.",
+        "Relacionar sonidos agudos y graves con frecuencia.",
+        "Interpretar dibujos de ondas sonoras."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Relacionar magnitudes ondulatorias",
+      "Explicar percepción sonora"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0053",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Ondas, sonido y luz",
+    "subtema": "Reflexión de la luz",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 66,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un rayo de luz incide sobre un espejo plano formando un ángulo de 35° con la normal, que es la línea perpendicular a la superficie del espejo.",
+    "pregunta": "¿Cuál será el ángulo de reflexión medido respecto a la normal?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "35°"
+      },
+      {
+        "letra": "B",
+        "texto": "55°"
+      },
+      {
+        "letra": "C",
+        "texto": "70°"
+      },
+      {
+        "letra": "D",
+        "texto": "0°"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La ley de la reflexión establece que el ángulo de incidencia es igual al ángulo de reflexión, ambos medidos respecto a la normal. Si el ángulo de incidencia es 35°, el de reflexión también es 35°.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica la ley de reflexión.",
+      "B": "Usa el ángulo complementario con la superficie, no con la normal.",
+      "C": "Duplica el ángulo sin fundamento.",
+      "D": "Confunde reflexión con incidencia perpendicular."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Ondas, sonido y luz",
+      "subtema_a_reforzar": "Ley de reflexión y normal",
+      "prioridad": "Media",
+      "acciones": [
+        "Dibujar normal, rayo incidente y rayo reflejado.",
+        "Medir siempre los ángulos respecto a la normal.",
+        "Resolver ejercicios con espejos planos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar ley física",
+      "Interpretar geometría de rayos"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0054",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Ondas, sonido y luz",
+    "subtema": "Longitud de onda",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 83,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En una cuerda, una onda viaja con rapidez constante de 12 m/s. La frecuencia de vibración es 4 Hz.",
+    "pregunta": "¿Cuál es la longitud de onda?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "3 m"
+      },
+      {
+        "letra": "B",
+        "texto": "16 m"
+      },
+      {
+        "letra": "C",
+        "texto": "48 m"
+      },
+      {
+        "letra": "D",
+        "texto": "0,33 m"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La rapidez de una onda se relaciona con frecuencia y longitud de onda mediante v = fλ. Entonces λ = v/f = 12 m/s ÷ 4 Hz = 3 m.",
+    "diagnostico_por_error": {
+      "A": "Correcta: despeja y calcula longitud de onda.",
+      "B": "Suma rapidez y frecuencia.",
+      "C": "Multiplica rapidez por frecuencia.",
+      "D": "Invierte incorrectamente la relación usando f/v."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Ondas, sonido y luz",
+      "subtema_a_reforzar": "Relación v = fλ",
+      "prioridad": "Alta",
+      "acciones": [
+        "Practicar despejes de v = fλ.",
+        "Revisar unidades de Hz y m/s.",
+        "Interpretar problemas de ondas en cuerda y sonido."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Calcular magnitudes ondulatorias",
+      "Despejar ecuaciones físicas"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0055",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Electricidad básica",
+    "subtema": "Ley de Ohm",
+    "competencia": "Uso comprensivo del conocimiento científico",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 79,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un resistor se conecta a una batería de 12 V. Por el resistor circula una corriente de 3 A.",
+    "pregunta": "¿Cuál es la resistencia del resistor?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "4 Ω"
+      },
+      {
+        "letra": "B",
+        "texto": "15 Ω"
+      },
+      {
+        "letra": "C",
+        "texto": "36 Ω"
+      },
+      {
+        "letra": "D",
+        "texto": "0,25 Ω"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La ley de Ohm establece V = IR. Al despejar, R = V/I = 12 V / 3 A = 4 Ω.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica correctamente la ley de Ohm.",
+      "B": "Suma voltaje y corriente.",
+      "C": "Multiplica voltaje por corriente, lo cual correspondería a potencia en watts.",
+      "D": "Invierte la razón usando I/V."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Electricidad básica",
+      "subtema_a_reforzar": "Ley de Ohm",
+      "prioridad": "Alta",
+      "acciones": [
+        "Memorizar y despejar V = IR.",
+        "Diferenciar resistencia, corriente y voltaje.",
+        "Resolver ejercicios con unidades eléctricas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Aplicar ley de Ohm",
+      "Despejar variables"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0056",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Electricidad básica",
+    "subtema": "Circuitos simples",
+    "competencia": "Explicación de fenómenos",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 68,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "En un circuito simple con una pila, un bombillo y un interruptor, el bombillo solo enciende cuando el interruptor está cerrado.",
+    "pregunta": "¿Por qué ocurre esto?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Porque al cerrar el interruptor se completa el camino para la corriente eléctrica."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque el interruptor cerrado destruye la pila."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque la corriente puede circular mejor por el aire que por el cable."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque el bombillo no necesita energía si el circuito está abierto."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Para que circule corriente se requiere un camino cerrado que conecte la fuente con los componentes. El interruptor abierto interrumpe el circuito; al cerrarlo, permite el flujo de carga y el bombillo enciende.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce la necesidad de circuito cerrado.",
+      "B": "Cerrar un interruptor no destruye la pila por sí mismo.",
+      "C": "El cable conductor facilita la corriente; el aire normalmente no.",
+      "D": "El bombillo necesita energía eléctrica para encender."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Electricidad básica",
+      "subtema_a_reforzar": "Circuito abierto y cerrado",
+      "prioridad": "Media",
+      "acciones": [
+        "Dibujar rutas de corriente en circuitos simples.",
+        "Diferenciar conductor y aislante.",
+        "Identificar función de pila, interruptor y bombillo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Explicar funcionamiento de circuitos",
+      "Identificar condiciones para corriente"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0057",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Interpretación de gráficas y datos experimentales",
+    "subtema": "Gráfica posición-tiempo",
+    "competencia": "Interpretación de tablas, gráficas y experimentos",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 92,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Se describe una gráfica posición-tiempo de un corredor. De 0 a 4 s la posición aumenta linealmente de 0 m a 8 m. De 4 a 7 s la posición permanece constante en 8 m. De 7 a 9 s la posición disminuye linealmente de 8 m a 4 m.",
+    "pregunta": "¿Cuál interpretación es correcta?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Primero avanza a velocidad constante, luego se detiene y finalmente regresa parcialmente."
+      },
+      {
+        "letra": "B",
+        "texto": "Primero está detenido, luego avanza y finalmente aumenta más rápido."
+      },
+      {
+        "letra": "C",
+        "texto": "La posición constante entre 4 y 7 s indica mayor rapidez."
+      },
+      {
+        "letra": "D",
+        "texto": "Una pendiente negativa indica que el corredor desaparece."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En una gráfica posición-tiempo, la pendiente representa velocidad. Pendiente positiva constante indica avance uniforme; tramo horizontal indica velocidad cero; pendiente negativa indica movimiento de regreso o disminución de la posición.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta pendiente positiva, cero y negativa.",
+      "B": "Invierte el significado de los tramos.",
+      "C": "Un tramo horizontal indica reposo, no rapidez mayor.",
+      "D": "La pendiente negativa representa dirección, no desaparición."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Interpretación de gráficas y datos experimentales",
+      "subtema_a_reforzar": "Pendiente en gráficas posición-tiempo",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Relacionar pendiente con velocidad.",
+        "Interpretar tramos horizontales como reposo.",
+        "Practicar gráficas con regreso al punto inicial."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Interpretar gráficas de movimiento",
+      "Relacionar pendiente y velocidad"
+    ],
+    "tiempo_estimado_segundos": 130,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "CN-0058",
+    "area": "Ciencias Naturales",
+    "materia_interna": "Física",
+    "tema": "Interpretación de gráficas y datos experimentales",
+    "subtema": "Diseño experimental en física",
+    "competencia": "Identificación de variables, hipótesis y conclusiones",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 84,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.2,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Un estudiante mide el tiempo que tarda un carrito en bajar por una rampa. Quiere saber si la inclinación de la rampa afecta el tiempo de descenso. Mantiene el mismo carrito, la misma distancia recorrida y la misma superficie. Cambia el ángulo de la rampa y registra el tiempo.",
+    "pregunta": "¿Cuál opción identifica correctamente variable independiente y variable dependiente?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Independiente: ángulo de la rampa; dependiente: tiempo de descenso."
+      },
+      {
+        "letra": "B",
+        "texto": "Independiente: tiempo de descenso; dependiente: ángulo de la rampa."
+      },
+      {
+        "letra": "C",
+        "texto": "Independiente: tipo de carrito; dependiente: distancia, porque ambos se mantienen constantes."
+      },
+      {
+        "letra": "D",
+        "texto": "Independiente: superficie; dependiente: masa del planeta."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La variable independiente es la que el estudiante modifica: el ángulo de la rampa. La variable dependiente es la que mide como resultado: el tiempo de descenso. Carrito, distancia y superficie son controles para que la comparación sea válida.",
+    "diagnostico_por_error": {
+      "A": "Correcta: distingue variable manipulada y medida.",
+      "B": "Invierte causa experimental y resultado medido.",
+      "C": "Confunde variables controladas con variables principal y resultado.",
+      "D": "Incluye factores no manipulados ni relevantes para el diseño descrito."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Interpretación de gráficas y datos experimentales",
+      "subtema_a_reforzar": "Variables en experimentos de movimiento",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar qué cambia el investigador.",
+        "Identificar qué se mide como efecto.",
+        "Separar variables controladas de variables del problema."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identificar variables experimentales",
+      "Evaluar diseño de investigación"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  }
+]

@@ -1,0 +1,3357 @@
+[
+  {
+    "id": "ING-0001",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Short notice",
+    "subtema": "Main information",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 42,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "NOTICE: The science club meeting will be in Room 204 on Friday at 3:00 p.m. Students must bring their notebooks and the results of their plant observation activity.",
+    "pregunta": "What should students bring to the meeting?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Their notebooks and plant observation results."
+      },
+      {
+        "letra": "B",
+        "texto": "Food for the whole science club."
+      },
+      {
+        "letra": "C",
+        "texto": "A permission letter for a trip."
+      },
+      {
+        "letra": "D",
+        "texto": "A computer and headphones."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El aviso dice explícitamente que los estudiantes deben llevar sus cuadernos y los resultados de la observación de plantas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica información explícita del aviso.",
+      "B": "Confunde una reunión académica con una actividad social.",
+      "C": "Agrega información que no aparece en el aviso.",
+      "D": "Menciona objetos no solicitados."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Información explícita en avisos",
+      "prioridad": "Media",
+      "acciones": [
+        "Subrayar palabras como must, bring, date y place.",
+        "Diferenciar información dada de información inventada.",
+        "Practicar lectura de avisos escolares breves."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identifying explicit information",
+      "Understanding school notices"
+    ],
+    "tiempo_estimado_segundos": 55,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0002",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Email",
+    "subtema": "Purpose of a message",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 47,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Hi Laura,\nI left my biology notes in the classroom after the lab. Could you please take a photo of the pages about cell membranes and send them to me before 7 p.m.? I need them to finish the worksheet.\nThanks,\nMateo",
+    "pregunta": "Why does Mateo write to Laura?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "To ask her to send him photos of some biology notes."
+      },
+      {
+        "letra": "B",
+        "texto": "To invite her to a biology competition."
+      },
+      {
+        "letra": "C",
+        "texto": "To tell her that he finished the worksheet."
+      },
+      {
+        "letra": "D",
+        "texto": "To ask her to clean the laboratory."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Mateo pide que Laura tome fotos de las páginas sobre membranas celulares porque dejó sus apuntes en el salón.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce la intención principal del correo.",
+      "B": "No hay invitación a una competencia.",
+      "C": "El texto dice que necesita terminar la guía, no que ya la terminó.",
+      "D": "No se menciona limpieza del laboratorio."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Propósito de correos breves",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar verbos de petición como could you please.",
+        "Leer el motivo que aparece después de because o I need.",
+        "Practicar preguntas tipo Why does the writer...?"
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identifying purpose",
+      "Reading short emails"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0003",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Health habits",
+    "subtema": "Detail and inference",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 58,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "A school nurse gave a short talk about breakfast. She explained that eating before class does not make students intelligent automatically, but it can help them stay focused during the first hours of the morning. She also said that water, fruit, and foods with protein are better choices than only sweet drinks.",
+    "pregunta": "According to the text, breakfast can help students because it may",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "support their attention during the morning."
+      },
+      {
+        "letra": "B",
+        "texto": "replace the need to study for exams."
+      },
+      {
+        "letra": "C",
+        "texto": "make every student get perfect grades."
+      },
+      {
+        "letra": "D",
+        "texto": "avoid all health problems."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto afirma que desayunar puede ayudar a mantener la concentración durante las primeras horas, no que garantice inteligencia, notas perfectas o salud absoluta.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica una consecuencia moderada mencionada en el texto.",
+      "B": "Exagera el efecto del desayuno y contradice la necesidad de estudiar.",
+      "C": "Generaliza de forma absoluta.",
+      "D": "Atribuye un efecto total que el texto no sostiene."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Ideas moderadas vs. absolutas",
+      "prioridad": "Media",
+      "acciones": [
+        "Buscar verbos modales como can y may.",
+        "Evitar opciones con always, every o all si el texto no las dice.",
+        "Relacionar causa y efecto de forma precisa."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding details",
+      "Identifying moderate claims"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0004",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "School announcement",
+    "subtema": "Instructions",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 62,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Announcement: Students who are taking the English mock exam on Saturday must arrive fifteen minutes early. They should bring a pencil, an eraser, and their school ID. Mobile phones must be turned off and kept inside backpacks during the test.",
+    "pregunta": "Which instruction is included in the announcement?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Students must keep their phones off and inside their backpacks."
+      },
+      {
+        "letra": "B",
+        "texto": "Students must arrive fifteen minutes after the exam starts."
+      },
+      {
+        "letra": "C",
+        "texto": "Students can use their phones to translate words."
+      },
+      {
+        "letra": "D",
+        "texto": "Students should bring colored markers only."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El anuncio dice que los celulares deben estar apagados y guardados en las maletas durante la prueba.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce una instrucción explícita.",
+      "B": "Invierte la indicación de llegar antes.",
+      "C": "Contradice la regla sobre celulares.",
+      "D": "Cambia los materiales solicitados."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Instrucciones en anuncios",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar must y should en textos instructivos.",
+        "Diferenciar early de late.",
+        "Comparar cada opción con el texto antes de responder."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding instructions",
+      "Identifying explicit information"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0005",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Technology",
+    "subtema": "Main idea",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 65,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Many students use digital flashcards to review vocabulary. These tools are useful because they can repeat difficult words more often and hide words that students already know well. However, flashcards are not enough for learning a language. Students also need to read, listen, speak, and write in meaningful situations.",
+    "pregunta": "What is the main idea of the text?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Digital flashcards are useful, but they should be combined with other language activities."
+      },
+      {
+        "letra": "B",
+        "texto": "Digital flashcards are useless for all students."
+      },
+      {
+        "letra": "C",
+        "texto": "Students should only memorize isolated words."
+      },
+      {
+        "letra": "D",
+        "texto": "Reading and speaking are unnecessary when using technology."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto presenta una postura equilibrada: las tarjetas digitales ayudan, pero no reemplazan otras habilidades comunicativas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: resume la idea principal con matiz.",
+      "B": "Contradice que las herramientas son útiles.",
+      "C": "Ignora que se recomiendan actividades significativas.",
+      "D": "Contradice la necesidad de leer, escuchar, hablar y escribir."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Idea principal en textos breves",
+      "prioridad": "Alta",
+      "acciones": [
+        "Diferenciar idea principal de detalles.",
+        "Buscar conectores como however para reconocer matices.",
+        "Evitar opciones extremas que contradicen el texto."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identifying main idea",
+      "Understanding contrast"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0006",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Environment",
+    "subtema": "Cause and effect",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 73,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "A group of students measured the temperature in two school areas at noon. The concrete court was hotter than the garden with trees. The teacher explained that concrete absorbs and releases heat differently, while trees provide shade and help cool the air through water loss from leaves.",
+    "pregunta": "Why was the garden probably cooler than the concrete court?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Because trees provided shade and helped cool the air."
+      },
+      {
+        "letra": "B",
+        "texto": "Because concrete always produces rain."
+      },
+      {
+        "letra": "C",
+        "texto": "Because gardens cannot receive sunlight."
+      },
+      {
+        "letra": "D",
+        "texto": "Because students measured it at night."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto explica que los árboles dan sombra y contribuyen a enfriar el aire mediante pérdida de agua de las hojas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica causa ambiental explicada.",
+      "B": "Atribuye al concreto una función absurda no mencionada.",
+      "C": "Generaliza incorrectamente; los jardines sí pueden recibir luz.",
+      "D": "Contradice que la medición fue al mediodía."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Relaciones causa-efecto en textos ambientales",
+      "prioridad": "Alta",
+      "acciones": [
+        "Buscar palabras como because, while y help.",
+        "Relacionar explicación científica con observación.",
+        "Descartar opciones que contradicen tiempo o lugar."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding cause and effect",
+      "Reading scientific explanations"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0007",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Academic email",
+    "subtema": "Tone and request",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 67,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Dear Mr. Collins,\nI am writing because I could not upload my chemistry report before the platform closed. The internet connection in my neighborhood failed for two hours. I have attached the file to this email. Could you please tell me if there is another way to submit it?\nSincerely,\nAna Ruiz",
+    "pregunta": "What is Ana asking for?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "A possible alternative to submit her report."
+      },
+      {
+        "letra": "B",
+        "texto": "A new chemistry topic for the class."
+      },
+      {
+        "letra": "C",
+        "texto": "Permission to leave school early."
+      },
+      {
+        "letra": "D",
+        "texto": "A copy of her teacher's report."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Ana pregunta si hay otra forma de entregar el informe porque la plataforma cerró y tuvo problemas de conexión.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la solicitud central.",
+      "B": "No pide un tema nuevo.",
+      "C": "No menciona salir temprano.",
+      "D": "No solicita un informe del profesor."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Solicitudes formales en correos",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar la pregunta principal del correo.",
+        "Reconocer expresiones formales como Could you please.",
+        "Distinguir explicación del problema y solicitud."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding requests",
+      "Reading formal emails"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0008",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Short article",
+    "subtema": "Inference",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 79,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Some schools are creating quiet rooms where students can read, breathe slowly, or sit without using screens for a few minutes. These rooms are not medical offices, and they do not replace professional support. Their purpose is to give students a short break when the school day becomes intense.",
+    "pregunta": "What can be inferred about quiet rooms?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "They are meant to offer a brief calming space, not medical treatment."
+      },
+      {
+        "letra": "B",
+        "texto": "They are designed to replace doctors and psychologists."
+      },
+      {
+        "letra": "C",
+        "texto": "They are only for students who dislike reading."
+      },
+      {
+        "letra": "D",
+        "texto": "They require students to use screens all the time."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto aclara que estos espacios no son consultorios médicos ni reemplazan apoyo profesional; su objetivo es brindar una pausa breve.",
+    "diagnostico_por_error": {
+      "A": "Correcta: infiere el propósito con límites claros.",
+      "B": "Contradice la aclaración explícita.",
+      "C": "No hay base para limitarlo a estudiantes que no leen.",
+      "D": "Contradice la idea de descansar sin pantallas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Inferencias con límites explícitos",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar frases que delimitan el alcance de una idea.",
+        "Evitar opciones que contradicen not or do not replace.",
+        "Diferenciar propósito de uso extremo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Making inferences",
+      "Understanding limitations"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0009",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Academic routine",
+    "subtema": "Reference",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 60,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Daniel joined a study group for the national exam. The group meets twice a week and reviews difficult questions together. This helps him notice mistakes that he usually does not see when he studies alone.",
+    "pregunta": "In the text, the word 'This' refers to",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "meeting and reviewing difficult questions with the group."
+      },
+      {
+        "letra": "B",
+        "texto": "taking the national exam twice a week."
+      },
+      {
+        "letra": "C",
+        "texto": "studying alone without feedback."
+      },
+      {
+        "letra": "D",
+        "texto": "avoiding difficult questions."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El pronombre 'This' retoma la idea anterior: reunirse dos veces por semana y revisar preguntas difíciles en grupo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica el referente textual.",
+      "B": "Confunde la frecuencia de reuniones con presentar el examen.",
+      "C": "Contradice la ayuda del grupo.",
+      "D": "El grupo revisa preguntas difíciles, no las evita."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Referencia de pronombres",
+      "prioridad": "Media",
+      "acciones": [
+        "Mirar la oración inmediatamente anterior al pronombre.",
+        "Verificar que el referente tenga sentido gramatical y lógico.",
+        "Practicar con this, it, they y them."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identifying pronoun reference",
+      "Understanding cohesion"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0010",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Science text",
+    "subtema": "Conclusion",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "In a simple experiment, students placed three identical plants near a window. Plant A received water every day, Plant B received water twice a week, and Plant C received no water. After two weeks, Plant A grew the most, Plant B grew slowly, and Plant C lost most of its leaves. The students kept light and soil type the same.",
+    "pregunta": "Which conclusion is best supported by the experiment?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Water availability affected plant growth under these conditions."
+      },
+      {
+        "letra": "B",
+        "texto": "Soil type was the main cause of the differences."
+      },
+      {
+        "letra": "C",
+        "texto": "Plants grow better when they receive no water."
+      },
+      {
+        "letra": "D",
+        "texto": "Light was different for every plant."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Como la luz y el suelo se mantuvieron iguales, la variable que cambió fue la cantidad de agua. Los resultados apoyan que el agua influyó en el crecimiento.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona variable manipulada y resultado.",
+      "B": "El suelo fue controlado, no variable principal.",
+      "C": "Contradice que la planta sin agua perdió hojas.",
+      "D": "El texto dice que la luz se mantuvo igual."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Conclusiones en textos científicos simples",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar qué variable cambió.",
+        "Reconocer qué variables se mantuvieron constantes.",
+        "Elegir conclusiones proporcionales a los datos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Drawing conclusions",
+      "Understanding experiments"
+    ],
+    "tiempo_estimado_segundos": 115,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0011",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Instructions",
+    "subtema": "Sequence",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 56,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "To register for the school health fair, students must first complete an online form. Then, they must choose one workshop: nutrition, first aid, or physical activity. Finally, they will receive a confirmation email with the room number.",
+    "pregunta": "What happens after students choose a workshop?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "They receive a confirmation email with the room number."
+      },
+      {
+        "letra": "B",
+        "texto": "They complete the online form for the first time."
+      },
+      {
+        "letra": "C",
+        "texto": "They cancel their registration."
+      },
+      {
+        "letra": "D",
+        "texto": "They create a new workshop."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La secuencia indica: primero completar el formulario, luego elegir un taller y finalmente recibir un correo de confirmación.",
+    "diagnostico_por_error": {
+      "A": "Correcta: sigue el orden lógico del texto.",
+      "B": "Ese paso ocurre antes, no después.",
+      "C": "No se menciona cancelar la inscripción.",
+      "D": "Los estudiantes eligen talleres, no los crean."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Secuencia en instrucciones",
+      "prioridad": "Media",
+      "acciones": [
+        "Subrayar first, then y finally.",
+        "Ordenar los pasos antes de responder.",
+        "Diferenciar acciones anteriores y posteriores."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding sequence",
+      "Reading instructions"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0012",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Nutrition",
+    "subtema": "Specific information",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 63,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The school cafeteria changed its menu. On Mondays, it offers fruit salad and yogurt. On Wednesdays, it offers rice, beans, and chicken. On Fridays, students can buy vegetable soup and bread. The cafeteria manager says the goal is to include more balanced options during the week.",
+    "pregunta": "What is offered on Wednesdays?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Rice, beans, and chicken."
+      },
+      {
+        "letra": "B",
+        "texto": "Fruit salad and yogurt."
+      },
+      {
+        "letra": "C",
+        "texto": "Vegetable soup and bread."
+      },
+      {
+        "letra": "D",
+        "texto": "Only sweet drinks."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto indica que los miércoles se ofrece arroz, fríjoles y pollo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: ubica información específica.",
+      "B": "Corresponde al lunes.",
+      "C": "Corresponde al viernes.",
+      "D": "No aparece en el menú."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Lectura de información específica",
+      "prioridad": "Media",
+      "acciones": [
+        "Ubicar palabras clave como days of the week.",
+        "Relacionar cada día con su información.",
+        "Evitar mezclar detalles de distintas líneas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Scanning for details",
+      "Understanding short informational texts"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0013",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Environment article",
+    "subtema": "Author's purpose",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 78,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Plastic bottles are convenient, but using a new bottle every day creates a large amount of waste. Some schools now have water refill stations, so students can bring reusable bottles. This change does not solve all environmental problems, but it reduces one common source of trash.",
+    "pregunta": "What is the author's main purpose?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "To explain how refill stations can reduce plastic waste at school."
+      },
+      {
+        "letra": "B",
+        "texto": "To say that plastic bottles solve all environmental problems."
+      },
+      {
+        "letra": "C",
+        "texto": "To describe a new sport using water bottles."
+      },
+      {
+        "letra": "D",
+        "texto": "To argue that students should stop drinking water."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto explica que las estaciones de recarga permiten usar botellas reutilizables y disminuir residuos plásticos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica propósito explicativo.",
+      "B": "Contradice el problema de residuos.",
+      "C": "No hay referencia a deportes.",
+      "D": "El texto promueve tomar agua de forma más sostenible."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Propósito del autor",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar problema, propuesta y efecto.",
+        "Diferenciar explicar de narrar o persuadir con extremos.",
+        "Descartar opciones que cambian el tema central."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identifying author's purpose",
+      "Understanding environmental texts"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0014",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Study habits",
+    "subtema": "Inference",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 81,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Sara used to study for four hours without stopping. She often felt tired and remembered little the next day. Now she studies in shorter blocks and takes five-minute breaks. She says she finishes with more energy and can explain the topics better.",
+    "pregunta": "What can be inferred from Sara's experience?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Shorter study blocks with breaks may help her learn more effectively."
+      },
+      {
+        "letra": "B",
+        "texto": "Studying without stopping always gives better results."
+      },
+      {
+        "letra": "C",
+        "texto": "Taking breaks means she stopped studying completely."
+      },
+      {
+        "letra": "D",
+        "texto": "She now studies topics that are easier for everyone."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La experiencia muestra que los bloques cortos con pausas mejoraron su energía y explicación de temas; no se afirma que funcione siempre para todos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: formula una inferencia moderada.",
+      "B": "Contradice la experiencia inicial de cansancio.",
+      "C": "Confunde pausa breve con abandonar el estudio.",
+      "D": "No hay información sobre dificultad de los temas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Inferencias a partir de cambios de hábito",
+      "prioridad": "Alta",
+      "acciones": [
+        "Comparar situación inicial y final.",
+        "Usar inferencias moderadas con may o can.",
+        "Evitar generalizaciones universales."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Making inferences",
+      "Comparing before and after"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0015",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "School project",
+    "subtema": "Problem and solution",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 69,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The robotics team wanted to test its device outside, but the battery lasted only twenty minutes. Instead of canceling the project, the students divided the test into shorter parts and charged the battery between trials.",
+    "pregunta": "How did the team solve the problem?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "They divided the test and charged the battery between trials."
+      },
+      {
+        "letra": "B",
+        "texto": "They canceled the project immediately."
+      },
+      {
+        "letra": "C",
+        "texto": "They stopped using the device forever."
+      },
+      {
+        "letra": "D",
+        "texto": "They tested the device without a battery."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El equipo no canceló el proyecto; adaptó la prueba en partes cortas y cargó la batería entre ensayos.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la solución del problema.",
+      "B": "Contradice 'instead of canceling'.",
+      "C": "No se menciona abandonar el dispositivo.",
+      "D": "No sería coherente con el problema de la batería."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Problema y solución",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar primero el problema.",
+        "Buscar frases como instead of y so.",
+        "Relacionar la solución con la dificultad planteada."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identifying problem and solution",
+      "Understanding short narratives"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0016",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Science fair",
+    "subtema": "Evaluating evidence",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 88,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "A student claims that listening to classical music always improves test scores. To support this, she says that five students listened to music before a quiz and got high grades. However, all five students had studied for several days, and there was no comparison group that took the quiz without music.",
+    "pregunta": "What is the main weakness of the student's claim?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "The evidence does not separate the effect of music from studying and lacks a comparison group."
+      },
+      {
+        "letra": "B",
+        "texto": "The five students definitely got high grades because of music only."
+      },
+      {
+        "letra": "C",
+        "texto": "The claim is proven because it uses the word always."
+      },
+      {
+        "letra": "D",
+        "texto": "A comparison group is never useful in an experiment."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La afirmación es demasiado fuerte porque no controla otras variables como estudiar varios días y no incluye un grupo de comparación.",
+    "diagnostico_por_error": {
+      "A": "Correcta: evalúa limitaciones de evidencia.",
+      "B": "Confunde correlación con causa única.",
+      "C": "La palabra always hace la afirmación más exigente, no más probada.",
+      "D": "Desconoce la utilidad de los grupos de comparación."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Evaluación crítica de evidencia",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Identificar variables no controladas.",
+        "Reconocer afirmaciones absolutas como always.",
+        "Analizar la importancia de grupos de comparación."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Evaluating evidence",
+      "Understanding experimental limitations"
+    ],
+    "tiempo_estimado_segundos": 135,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0017",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Public sign",
+    "subtema": "Intended audience",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 59,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "SIGN AT THE CLINIC: Please arrive ten minutes before your appointment. If you have respiratory symptoms, wear a mask and inform the receptionist when you enter.",
+    "pregunta": "Who is this sign mainly for?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "People who have appointments at the clinic."
+      },
+      {
+        "letra": "B",
+        "texto": "Students buying books at a library."
+      },
+      {
+        "letra": "C",
+        "texto": "Drivers parking outside a stadium."
+      },
+      {
+        "letra": "D",
+        "texto": "Teachers planning a science fair."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El aviso menciona citas, síntomas respiratorios y recepción de una clínica, por lo que está dirigido a pacientes o visitantes con cita.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica destinatario por contexto.",
+      "B": "Biblioteca no corresponde al lugar del aviso.",
+      "C": "No se menciona estacionamiento ni estadio.",
+      "D": "No se relaciona con una feria de ciencias."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Audiencia de avisos",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar lugar y palabras clave.",
+        "Relacionar appointment, clinic y receptionist.",
+        "Descartar audiencias que pertenecen a otros contextos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identifying audience",
+      "Understanding public signs"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0018",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Academic text",
+    "subtema": "Argument and limitation",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 91,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Online courses can increase access to education for students who live far from schools or have limited transportation. Nevertheless, access is not guaranteed by putting lessons on the internet. Students also need a stable connection, a device they can use regularly, and guidance when they do not understand a topic. Without these conditions, online education may reproduce some of the inequalities it tries to reduce.",
+    "pregunta": "Which statement best reflects the author's position?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Online courses can expand access, but they require additional conditions to be effective."
+      },
+      {
+        "letra": "B",
+        "texto": "Online courses automatically solve all educational inequalities."
+      },
+      {
+        "letra": "C",
+        "texto": "Internet lessons are never useful for students far from schools."
+      },
+      {
+        "letra": "D",
+        "texto": "Devices and guidance are unrelated to online learning."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El autor reconoce el potencial de los cursos en línea, pero advierte que requieren conectividad, dispositivos y acompañamiento.",
+    "diagnostico_por_error": {
+      "A": "Correcta: conserva el matiz del argumento.",
+      "B": "Exagera y contradice las condiciones mencionadas.",
+      "C": "Niega el beneficio potencial señalado al inicio.",
+      "D": "Contradice elementos centrales del texto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Posturas matizadas en textos académicos",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Identificar concesiones como can y nevertheless.",
+        "Reconocer condiciones necesarias para una conclusión.",
+        "Evitar respuestas absolutas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding author's position",
+      "Interpreting limitations"
+    ],
+    "tiempo_estimado_segundos": 140,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0019",
+    "area": "Inglés",
+    "materia_interna": "Comprensión lectora",
+    "tema": "Short biography",
+    "subtema": "Chronology",
+    "competencia": "Reading comprehension",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 72,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Nora loved drawing plants when she was a child. In high school, she joined an environmental club and learned to collect data about local trees. Years later, she became a biology teacher and created a school garden where students combine art and science.",
+    "pregunta": "What happened before Nora became a biology teacher?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "She joined an environmental club in high school."
+      },
+      {
+        "letra": "B",
+        "texto": "She created a school garden as a teacher."
+      },
+      {
+        "letra": "C",
+        "texto": "She stopped being interested in plants."
+      },
+      {
+        "letra": "D",
+        "texto": "She opened a hospital garden for patients."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La secuencia indica que en la secundaria Nora se unió a un club ambiental antes de convertirse en profesora de biología.",
+    "diagnostico_por_error": {
+      "A": "Correcta: sigue la cronología del texto.",
+      "B": "Ocurre después de ser profesora.",
+      "C": "Contradice su interés continuo por plantas.",
+      "D": "No aparece en el texto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Comprensión lectora",
+      "subtema_a_reforzar": "Orden cronológico",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar expresiones temporales como when, in high school y years later.",
+        "Ordenar eventos antes de elegir.",
+        "Distinguir acciones de infancia, secundaria y vida profesional."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding chronology",
+      "Reading short biographies"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0020",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "School vocabulary",
+    "subtema": "Meaning from context",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 40,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The teacher asked students to underline the key words in the instructions before answering the questions.",
+    "pregunta": "In the sentence, 'underline' means to",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "draw a line under words."
+      },
+      {
+        "letra": "B",
+        "texto": "erase words completely."
+      },
+      {
+        "letra": "C",
+        "texto": "translate words into another language."
+      },
+      {
+        "letra": "D",
+        "texto": "close the book quickly."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Underline' significa poner una línea debajo de palabras, especialmente para resaltarlas.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce vocabulario escolar básico.",
+      "B": "Confunde subrayar con borrar.",
+      "C": "Traducir no es el significado de underline.",
+      "D": "No se relaciona con instrucciones escritas."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Verbos frecuentes en instrucciones",
+      "prioridad": "Media",
+      "acciones": [
+        "Crear lista de verbos de instrucciones: underline, circle, match, choose.",
+        "Asociar cada verbo con una acción.",
+        "Practicar instrucciones de pruebas en inglés."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding classroom verbs",
+      "Using context clues"
+    ],
+    "tiempo_estimado_segundos": 50,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0021",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Health vocabulary",
+    "subtema": "Contextual meaning",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 57,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "After running for ten minutes, Camila felt thirsty, so she drank water slowly and rested under a tree.",
+    "pregunta": "The word 'thirsty' means that Camila",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "needed to drink something."
+      },
+      {
+        "letra": "B",
+        "texto": "wanted to sleep immediately."
+      },
+      {
+        "letra": "C",
+        "texto": "had finished her homework."
+      },
+      {
+        "letra": "D",
+        "texto": "was afraid of trees."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El contexto dice que después de correr bebió agua; por eso 'thirsty' significa tener sed.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa la pista de beber agua.",
+      "B": "Confunde sed con sueño.",
+      "C": "No tiene relación con el contexto.",
+      "D": "No hay indicios de miedo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Estados físicos y salud general",
+      "prioridad": "Media",
+      "acciones": [
+        "Aprender vocabulario de sensaciones: thirsty, tired, hungry, dizzy.",
+        "Usar acciones posteriores como pistas de significado.",
+        "Practicar frases de salud básica."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferring word meaning",
+      "Understanding health vocabulary"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0022",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Environment vocabulary",
+    "subtema": "Synonyms in context",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 61,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The river was polluted after people threw plastic bags and food containers into the water.",
+    "pregunta": "In this context, 'polluted' is closest in meaning to",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "dirty or contaminated."
+      },
+      {
+        "letra": "B",
+        "texto": "completely dry."
+      },
+      {
+        "letra": "C",
+        "texto": "very deep."
+      },
+      {
+        "letra": "D",
+        "texto": "full of fish only."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La presencia de bolsas plásticas y envases en el agua indica contaminación; 'polluted' significa sucio o contaminado.",
+    "diagnostico_por_error": {
+      "A": "Correcta: infiere significado por contexto ambiental.",
+      "B": "Dry significa seco, no contaminado.",
+      "C": "La profundidad no se menciona.",
+      "D": "El texto habla de basura, no de peces."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Vocabulario ambiental",
+      "prioridad": "Media",
+      "acciones": [
+        "Aprender palabras: polluted, waste, recycle, river, clean.",
+        "Buscar pistas alrededor de la palabra desconocida.",
+        "Relacionar ejemplos con significado general."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using context clues",
+      "Understanding environmental vocabulary"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0023",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Academic vocabulary",
+    "subtema": "Meaning from explanation",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 72,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The results were reliable because the students repeated the experiment three times and obtained very similar measurements.",
+    "pregunta": "In the sentence, 'reliable' means",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "trustworthy or consistent."
+      },
+      {
+        "letra": "B",
+        "texto": "impossible to repeat."
+      },
+      {
+        "letra": "C",
+        "texto": "beautiful but useless."
+      },
+      {
+        "letra": "D",
+        "texto": "dangerous for all students."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Los resultados son 'reliable' porque se repitieron y fueron similares; esto indica confianza y consistencia.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona repetición y consistencia.",
+      "B": "Contradice que el experimento fue repetido.",
+      "C": "No se evalúa belleza ni utilidad estética.",
+      "D": "No hay referencia a peligro."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Vocabulario académico y científico",
+      "prioridad": "Alta",
+      "acciones": [
+        "Estudiar reliable, accurate, valid, evidence.",
+        "Relacionar palabras académicas con ejemplos.",
+        "Practicar textos sobre experimentos simples."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferring academic vocabulary",
+      "Understanding scientific context"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0024",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Food vocabulary",
+    "subtema": "Contextual meaning",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 63,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The nutrition teacher recommended whole grains because they contain more fiber than many refined products.",
+    "pregunta": "The word 'fiber' is related to",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "a part of food that helps digestion."
+      },
+      {
+        "letra": "B",
+        "texto": "a type of classroom furniture."
+      },
+      {
+        "letra": "C",
+        "texto": "a sport played with a ball."
+      },
+      {
+        "letra": "D",
+        "texto": "a digital password."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En contexto nutricional, 'fiber' se refiere a fibra alimentaria, asociada con la digestión.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta vocabulario de nutrición.",
+      "B": "No corresponde al campo semántico de alimentos.",
+      "C": "No hay referencia a deportes.",
+      "D": "Password pertenece a tecnología, no nutrición."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Nutrición y alimentos",
+      "prioridad": "Media",
+      "acciones": [
+        "Aprender palabras como grains, fiber, protein, refined.",
+        "Usar el tema general para inferir significado.",
+        "Clasificar vocabulario por campos semánticos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding food vocabulary",
+      "Using semantic fields"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0025",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Technology vocabulary",
+    "subtema": "Meaning in context",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 68,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Before sending the file, check that the attachment is the correct version of your report.",
+    "pregunta": "The word 'attachment' refers to",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "a file added to an email."
+      },
+      {
+        "letra": "B",
+        "texto": "a chair in the classroom."
+      },
+      {
+        "letra": "C",
+        "texto": "a medical appointment."
+      },
+      {
+        "letra": "D",
+        "texto": "a printed school uniform."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En contexto de enviar un archivo, 'attachment' es un archivo adjunto a un correo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce vocabulario tecnológico.",
+      "B": "No pertenece al contexto digital.",
+      "C": "Confunde attachment con appointment.",
+      "D": "No se relaciona con enviar archivos."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Vocabulario digital y correos",
+      "prioridad": "Media",
+      "acciones": [
+        "Aprender términos: attachment, upload, download, file.",
+        "Diferenciar palabras similares como attachment y appointment.",
+        "Practicar instrucciones digitales en inglés."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding digital vocabulary",
+      "Using context clues"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0026",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Health vocabulary",
+    "subtema": "Meaning from contrast",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 77,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The medicine did not cure the infection immediately, but it reduced the symptoms, such as fever and headache.",
+    "pregunta": "In this context, 'symptoms' means",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "signs that show a health problem."
+      },
+      {
+        "letra": "B",
+        "texto": "answers in a math test."
+      },
+      {
+        "letra": "C",
+        "texto": "rules for a sport."
+      },
+      {
+        "letra": "D",
+        "texto": "names of school subjects."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El texto da ejemplos de síntomas: fiebre y dolor de cabeza. Por eso se refiere a señales de un problema de salud.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa ejemplos para inferir significado.",
+      "B": "No corresponde al contexto de salud.",
+      "C": "No hay referencia deportiva.",
+      "D": "No se relaciona con materias escolares."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Vocabulario de salud general",
+      "prioridad": "Alta",
+      "acciones": [
+        "Aprender symptoms, fever, headache, infection.",
+        "Usar ejemplos después de such as.",
+        "Practicar inferencias por enumeración."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding health terms",
+      "Inferring from examples"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0027",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Academic vocabulary",
+    "subtema": "Contextual synonym",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 80,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The students had to compare two sources and decide which one was more biased. One text included data from several studies, while the other only used emotional language.",
+    "pregunta": "The word 'biased' means",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "not neutral or unfairly one-sided."
+      },
+      {
+        "letra": "B",
+        "texto": "written in two languages."
+      },
+      {
+        "letra": "C",
+        "texto": "easy to print."
+      },
+      {
+        "letra": "D",
+        "texto": "organized by date."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Biased' describe una fuente que no es neutral y favorece una perspectiva de forma parcial.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta vocabulario de análisis crítico.",
+      "B": "Confunde biased con bilingual.",
+      "C": "No se relaciona con impresión.",
+      "D": "Organización cronológica no implica sesgo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Vocabulario para análisis de fuentes",
+      "prioridad": "Alta",
+      "acciones": [
+        "Aprender biased, neutral, source, evidence.",
+        "Relacionar lenguaje emocional con parcialidad.",
+        "Comparar textos con datos y opiniones."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding academic vocabulary",
+      "Evaluating source language"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0028",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Science vocabulary",
+    "subtema": "Meaning from context",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 64,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "During the experiment, students observed that the liquid changed from blue to green after they added the second substance.",
+    "pregunta": "The word 'observed' means",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "noticed or saw carefully."
+      },
+      {
+        "letra": "B",
+        "texto": "forgot completely."
+      },
+      {
+        "letra": "C",
+        "texto": "paid money for."
+      },
+      {
+        "letra": "D",
+        "texto": "opened the classroom door."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En un experimento, 'observed' significa notar o mirar cuidadosamente un cambio.",
+    "diagnostico_por_error": {
+      "A": "Correcta: relaciona observed con observación científica.",
+      "B": "Es lo contrario de observar.",
+      "C": "No hay contexto de compra.",
+      "D": "No tiene relación con el experimento."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Verbos científicos básicos",
+      "prioridad": "Media",
+      "acciones": [
+        "Aprender observe, measure, record, compare.",
+        "Relacionar verbos con pasos de experimentos.",
+        "Usar cambios descritos como pistas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding science verbs",
+      "Using context clues"
+    ],
+    "tiempo_estimado_segundos": 70,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0029",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "School life",
+    "subtema": "Phrasal verb in context",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 74,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The math teacher asked students to hand in their worksheets before leaving the classroom.",
+    "pregunta": "In this sentence, 'hand in' means",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "submit or give to the teacher."
+      },
+      {
+        "letra": "B",
+        "texto": "write with both hands."
+      },
+      {
+        "letra": "C",
+        "texto": "hide under the desk."
+      },
+      {
+        "letra": "D",
+        "texto": "cut into small pieces."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Hand in' es un phrasal verb que significa entregar una tarea o documento.",
+    "diagnostico_por_error": {
+      "A": "Correcta: reconoce el phrasal verb académico.",
+      "B": "Interpreta hand de forma literal.",
+      "C": "No tiene relación con entregar al profesor.",
+      "D": "No corresponde al contexto escolar."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Phrasal verbs escolares",
+      "prioridad": "Alta",
+      "acciones": [
+        "Estudiar hand in, fill out, look up, turn off.",
+        "No traducir palabra por palabra los phrasal verbs.",
+        "Practicar frases de aula con verbos compuestos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Understanding phrasal verbs",
+      "Interpreting classroom context"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0030",
+    "area": "Inglés",
+    "materia_interna": "Vocabulario en contexto",
+    "tema": "Environment",
+    "subtema": "Academic adjective",
+    "competencia": "Vocabulary in context",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 86,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "The town chose a sustainable plan: it allowed tourism in the forest, but limited the number of visitors, trained local guides, and used part of the money to protect the area.",
+    "pregunta": "In this context, 'sustainable' means",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "able to continue without seriously damaging the environment."
+      },
+      {
+        "letra": "B",
+        "texto": "focused only on making money quickly."
+      },
+      {
+        "letra": "C",
+        "texto": "completely closed to all visitors forever."
+      },
+      {
+        "letra": "D",
+        "texto": "impossible to organize with local people."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El plan permite turismo, pero con límites, capacitación y protección ambiental. Eso corresponde a sostenibilidad.",
+    "diagnostico_por_error": {
+      "A": "Correcta: interpreta el concepto por acciones concretas.",
+      "B": "Ignora la protección del área.",
+      "C": "El plan no cierra el bosque; regula visitantes.",
+      "D": "Contradice la capacitación de guías locales."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Vocabulario en contexto",
+      "subtema_a_reforzar": "Vocabulario ambiental académico",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Estudiar sustainable, protect, limit, local.",
+        "Relacionar definiciones con ejemplos de políticas ambientales.",
+        "Distinguir desarrollo sostenible de explotación ilimitada."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Inferring academic vocabulary",
+      "Understanding environmental policy language"
+    ],
+    "tiempo_estimado_segundos": 115,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0031",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Present simple",
+    "subtema": "Daily routines",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 45,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nMy sister usually ___ her homework after dinner.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "does"
+      },
+      {
+        "letra": "B",
+        "texto": "do"
+      },
+      {
+        "letra": "C",
+        "texto": "doing"
+      },
+      {
+        "letra": "D",
+        "texto": "did"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Con tercera persona singular en presente simple se usa 'does': My sister usually does her homework.",
+    "diagnostico_por_error": {
+      "A": "Correcta: aplica tercera persona singular.",
+      "B": "Usa forma base sin -es para tercera persona.",
+      "C": "Usa gerundio sin auxiliar.",
+      "D": "Cambia al pasado simple sin razón."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Present simple en tercera persona",
+      "prioridad": "Media",
+      "acciones": [
+        "Practicar he/she/it + verb-s/es.",
+        "Aprender expresiones de frecuencia como usually.",
+        "Comparar do y does en oraciones afirmativas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using present simple",
+      "Applying subject-verb agreement"
+    ],
+    "tiempo_estimado_segundos": 50,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0032",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Past simple",
+    "subtema": "Completed actions",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 58,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nYesterday, the students ___ a short experiment about water filtration.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "completed"
+      },
+      {
+        "letra": "B",
+        "texto": "complete"
+      },
+      {
+        "letra": "C",
+        "texto": "completes"
+      },
+      {
+        "letra": "D",
+        "texto": "are completing"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Yesterday' indica pasado. El verbo regular 'complete' en pasado simple es 'completed'.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa pasado simple.",
+      "B": "Usa presente/base verbal.",
+      "C": "Usa tercera persona singular de presente.",
+      "D": "Usa presente continuo, no pasado."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Past simple con marcadores temporales",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar palabras como yesterday, last week y ago.",
+        "Practicar verbos regulares con -ed.",
+        "Diferenciar pasado simple de presente continuo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using past simple",
+      "Recognizing time markers"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0033",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Comparatives",
+    "subtema": "Comparing data",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 63,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nThe biology test was ___ than the vocabulary quiz, so students needed more time.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "more difficult"
+      },
+      {
+        "letra": "B",
+        "texto": "most difficult"
+      },
+      {
+        "letra": "C",
+        "texto": "difficultest"
+      },
+      {
+        "letra": "D",
+        "texto": "as difficultest"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Con 'than' se usa comparativo. Para adjetivos largos como difficult, la forma correcta es 'more difficult than'.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa comparativo con than.",
+      "B": "Usa superlativo, no comparativo.",
+      "C": "Forma incorrecta del comparativo.",
+      "D": "Combina estructuras inexistentes."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Comparativos con adjetivos largos",
+      "prioridad": "Media",
+      "acciones": [
+        "Asociar than con comparativo.",
+        "Usar more + adjective para adjetivos largos.",
+        "Diferenciar comparative y superlative."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using comparatives",
+      "Understanding comparison structures"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0034",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Modal verbs",
+    "subtema": "Advice",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 66,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nIf you feel tired before an exam, you ___ sleep enough instead of studying all night.",
+    "pregunta": "Choose the option that gives advice.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "should"
+      },
+      {
+        "letra": "B",
+        "texto": "mustn't to"
+      },
+      {
+        "letra": "C",
+        "texto": "was"
+      },
+      {
+        "letra": "D",
+        "texto": "did"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Should' se usa para dar consejo: deberías dormir suficiente.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa modal de consejo.",
+      "B": "Estructura incorrecta; después de modal no se usa to.",
+      "C": "Verbo to be en pasado, no expresa consejo.",
+      "D": "Auxiliar de pasado que no completa la idea."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Should para consejos",
+      "prioridad": "Media",
+      "acciones": [
+        "Practicar should + base verb.",
+        "Diferenciar should, must y can.",
+        "Crear frases de consejo sobre hábitos de estudio."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using modal verbs",
+      "Giving advice"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0035",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Present continuous",
+    "subtema": "Actions happening now",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 61,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nBe quiet, please. The nurse ___ instructions to the students right now.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "is giving"
+      },
+      {
+        "letra": "B",
+        "texto": "gives"
+      },
+      {
+        "letra": "C",
+        "texto": "gave"
+      },
+      {
+        "letra": "D",
+        "texto": "give"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Right now' indica una acción en progreso. Se usa present continuous: is giving.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa presente continuo.",
+      "B": "Presente simple para hábitos, no acción actual.",
+      "C": "Pasado simple, no corresponde a right now.",
+      "D": "Falta concordancia y auxiliar."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Present continuous",
+      "prioridad": "Media",
+      "acciones": [
+        "Identificar marcadores como now y right now.",
+        "Usar am/is/are + verb-ing.",
+        "Diferenciar acciones actuales y rutinas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using present continuous",
+      "Recognizing time expressions"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0036",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Countable and uncountable nouns",
+    "subtema": "Quantifiers",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 73,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nThe doctor recommended drinking ___ water during the day, especially in hot weather.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "enough"
+      },
+      {
+        "letra": "B",
+        "texto": "many"
+      },
+      {
+        "letra": "C",
+        "texto": "a few"
+      },
+      {
+        "letra": "D",
+        "texto": "several"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Water' es incontable en este contexto. 'Enough water' significa suficiente agua. 'Many', 'a few' y 'several' se usan con sustantivos contables plurales.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa cuantificador compatible con sustantivo incontable.",
+      "B": "Many se usa con contables plurales.",
+      "C": "A few se usa con contables plurales.",
+      "D": "Several también requiere sustantivo contable plural."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Countable/uncountable nouns",
+      "prioridad": "Alta",
+      "acciones": [
+        "Clasificar sustantivos como countable o uncountable.",
+        "Practicar quantifiers: much, many, enough, a few.",
+        "Crear ejemplos con food, water, advice e information."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using quantifiers",
+      "Distinguishing countable and uncountable nouns"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0037",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Future with going to",
+    "subtema": "Plans",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 64,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nNext month, our class ___ visit the natural history museum.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "is going to"
+      },
+      {
+        "letra": "B",
+        "texto": "going"
+      },
+      {
+        "letra": "C",
+        "texto": "went to"
+      },
+      {
+        "letra": "D",
+        "texto": "goes yesterday"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'Next month' indica plan futuro. La estructura correcta es be going to + verbo base: is going to visit.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa futuro con going to.",
+      "B": "Falta el verbo to be.",
+      "C": "Went to es pasado.",
+      "D": "Combina presente con yesterday incorrectamente."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Future plans with going to",
+      "prioridad": "Media",
+      "acciones": [
+        "Practicar am/is/are going to + verb.",
+        "Identificar marcadores futuros como next month.",
+        "Evitar mezclar marcadores de pasado y futuro."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Expressing future plans",
+      "Using time markers"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0038",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Present perfect",
+    "subtema": "Experience and recent relevance",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 89,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nThe students ___ three practice tests this semester, so they can compare their progress.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "have taken"
+      },
+      {
+        "letra": "B",
+        "texto": "took yesterday"
+      },
+      {
+        "letra": "C",
+        "texto": "has took"
+      },
+      {
+        "letra": "D",
+        "texto": "are take"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "'This semester' conecta el periodo actual con resultados presentes. Con sujeto plural se usa 'have taken'.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa present perfect plural.",
+      "B": "La opción incluye yesterday y cambia a pasado puntual.",
+      "C": "Combina auxiliar singular y participio incorrecto.",
+      "D": "Estructura gramatical incorrecta."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Present perfect con periodos no terminados",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Practicar have/has + past participle.",
+        "Identificar expresiones como this semester, already, yet.",
+        "Diferenciar present perfect de past simple."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using present perfect",
+      "Recognizing unfinished time periods"
+    ],
+    "tiempo_estimado_segundos": 115,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0039",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Conditionals",
+    "subtema": "First conditional",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 79,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nIf students review their mistakes carefully, they ___ better strategies for the next test.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "will develop"
+      },
+      {
+        "letra": "B",
+        "texto": "developed"
+      },
+      {
+        "letra": "C",
+        "texto": "would developed"
+      },
+      {
+        "letra": "D",
+        "texto": "are develops"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "En primer condicional se usa If + presente simple, will + verbo base: If students review..., they will develop...",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa primer condicional.",
+      "B": "Usa pasado simple en la consecuencia.",
+      "C": "Estructura incorrecta con would + developed.",
+      "D": "Error de concordancia y forma verbal."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "First conditional",
+      "prioridad": "Alta",
+      "acciones": [
+        "Practicar If + present, will + base verb.",
+        "Crear frases sobre hábitos y resultados.",
+        "Evitar usar will dentro de la cláusula con if en este nivel."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using first conditional",
+      "Expressing probable results"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0040",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Passive voice",
+    "subtema": "Scientific procedures",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 92,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nIn the lab, the samples ___ in a cool place before the test.",
+    "pregunta": "Choose the correct passive form.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "were stored"
+      },
+      {
+        "letra": "B",
+        "texto": "stored were"
+      },
+      {
+        "letra": "C",
+        "texto": "was storing"
+      },
+      {
+        "letra": "D",
+        "texto": "store"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La oración requiere voz pasiva en pasado con sujeto plural: the samples were stored.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa be en pasado plural + participio.",
+      "B": "Orden incorrecto.",
+      "C": "Usa singular y forma continua activa.",
+      "D": "Forma activa/base que no completa la oración."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Passive voice in procedures",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Practicar be + past participle.",
+        "Identificar si el sujeto recibe la acción.",
+        "Repasar was/were según sujeto singular o plural."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using passive voice",
+      "Understanding lab procedure language"
+    ],
+    "tiempo_estimado_segundos": 120,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0041",
+    "area": "Inglés",
+    "materia_interna": "Gramática funcional",
+    "tema": "Relative clauses",
+    "subtema": "Defining information",
+    "competencia": "Functional grammar",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nA microscope is an instrument ___ helps students see very small objects.",
+    "pregunta": "Choose the correct option.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "that"
+      },
+      {
+        "letra": "B",
+        "texto": "where"
+      },
+      {
+        "letra": "C",
+        "texto": "when"
+      },
+      {
+        "letra": "D",
+        "texto": "whose"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "Para referirse a un objeto que realiza una función, se usa 'that' o 'which'. Entre las opciones, 'that' es correcta.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa pronombre relativo para objeto.",
+      "B": "Where se usa para lugares.",
+      "C": "When se usa para tiempo.",
+      "D": "Whose indica posesión."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Gramática funcional",
+      "subtema_a_reforzar": "Relative pronouns",
+      "prioridad": "Alta",
+      "acciones": [
+        "Diferenciar who, which/that, where, when y whose.",
+        "Identificar si el antecedente es persona, cosa, lugar o tiempo.",
+        "Practicar definiciones de objetos científicos."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using relative clauses",
+      "Defining objects"
+    ],
+    "tiempo_estimado_segundos": 90,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0042",
+    "area": "Inglés",
+    "materia_interna": "Diálogos y situaciones comunicativas",
+    "tema": "Classroom interaction",
+    "subtema": "Asking for clarification",
+    "competencia": "Communicative competence",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 46,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Teacher: Please submit the report by Friday.\nStudent: Sorry, I didn't understand. ___",
+    "pregunta": "Choose the best response.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Could you repeat the deadline, please?"
+      },
+      {
+        "letra": "B",
+        "texto": "I never come to school."
+      },
+      {
+        "letra": "C",
+        "texto": "The report is a sandwich."
+      },
+      {
+        "letra": "D",
+        "texto": "Friday is always blue."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La respuesta adecuada pide aclaración de forma cortés sobre la fecha límite.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa una solicitud comunicativa apropiada.",
+      "B": "No responde a la falta de comprensión.",
+      "C": "Es incoherente con la situación.",
+      "D": "No tiene sentido comunicativo en el diálogo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Diálogos y situaciones comunicativas",
+      "subtema_a_reforzar": "Pedir aclaración",
+      "prioridad": "Media",
+      "acciones": [
+        "Memorizar expresiones como Could you repeat...?",
+        "Practicar respuestas corteses en clase.",
+        "Identificar qué información necesita aclararse."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Asking for clarification",
+      "Choosing appropriate responses"
+    ],
+    "tiempo_estimado_segundos": 50,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0043",
+    "area": "Inglés",
+    "materia_interna": "Diálogos y situaciones comunicativas",
+    "tema": "Health situation",
+    "subtema": "Giving advice",
+    "competencia": "Communicative competence",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 59,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Luis: I have a headache, and I feel tired.\nNurse: ___ If it continues, call your parents.",
+    "pregunta": "Choose the best response.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "You should drink some water and rest for a few minutes."
+      },
+      {
+        "letra": "B",
+        "texto": "You should run faster in the hallway."
+      },
+      {
+        "letra": "C",
+        "texto": "You must ignore all symptoms forever."
+      },
+      {
+        "letra": "D",
+        "texto": "You are a mathematics book."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La respuesta A da un consejo básico, prudente y coherente con cansancio y dolor de cabeza.",
+    "diagnostico_por_error": {
+      "A": "Correcta: ofrece consejo adecuado.",
+      "B": "No es apropiado para alguien con dolor de cabeza.",
+      "C": "Ignorar síntomas no es una recomendación responsable.",
+      "D": "Es incoherente."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Diálogos y situaciones comunicativas",
+      "subtema_a_reforzar": "Consejos de salud general",
+      "prioridad": "Media",
+      "acciones": [
+        "Practicar should para consejos.",
+        "Aprender vocabulario básico de síntomas.",
+        "Elegir respuestas coherentes con el contexto."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Giving advice",
+      "Understanding health dialogues"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0044",
+    "area": "Inglés",
+    "materia_interna": "Diálogos y situaciones comunicativas",
+    "tema": "Library interaction",
+    "subtema": "Polite request",
+    "competencia": "Communicative competence",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 62,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Student: Excuse me, I'm looking for books about human body systems.\nLibrarian: ___",
+    "pregunta": "Choose the most appropriate response.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "They are on the second shelf, next to the biology section."
+      },
+      {
+        "letra": "B",
+        "texto": "I don't like breakfast on Mondays."
+      },
+      {
+        "letra": "C",
+        "texto": "You should never read books."
+      },
+      {
+        "letra": "D",
+        "texto": "The shelf is swimming today."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El estudiante pregunta por libros; la respuesta adecuada indica ubicación en la biblioteca.",
+    "diagnostico_por_error": {
+      "A": "Correcta: responde a la solicitud de ubicación.",
+      "B": "No tiene relación con libros.",
+      "C": "Es inapropiada para un bibliotecario.",
+      "D": "Es incoherente."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Diálogos y situaciones comunicativas",
+      "subtema_a_reforzar": "Pedir y dar información de ubicación",
+      "prioridad": "Media",
+      "acciones": [
+        "Practicar expresiones como I'm looking for...",
+        "Aprender preposiciones: on, next to, near.",
+        "Responder según el rol comunicativo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Responding to requests",
+      "Giving location information"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0045",
+    "area": "Inglés",
+    "materia_interna": "Diálogos y situaciones comunicativas",
+    "tema": "Group work",
+    "subtema": "Making suggestions",
+    "competencia": "Communicative competence",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 74,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Maya: We have too much information for one slide.\nDavid: ___",
+    "pregunta": "Choose the best suggestion.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Why don't we divide it into two slides and use shorter sentences?"
+      },
+      {
+        "letra": "B",
+        "texto": "Let's make the letters smaller until nobody can read them."
+      },
+      {
+        "letra": "C",
+        "texto": "We should delete the whole presentation."
+      },
+      {
+        "letra": "D",
+        "texto": "The slide is hungry."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La opción A propone una solución razonable al problema: dividir información y resumir.",
+    "diagnostico_por_error": {
+      "A": "Correcta: formula una sugerencia útil.",
+      "B": "Empeora la legibilidad.",
+      "C": "Es una reacción extrema no necesaria.",
+      "D": "Es incoherente."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Diálogos y situaciones comunicativas",
+      "subtema_a_reforzar": "Hacer sugerencias en trabajo grupal",
+      "prioridad": "Alta",
+      "acciones": [
+        "Practicar Why don't we...? y Let's...",
+        "Relacionar sugerencias con el problema planteado.",
+        "Evitar respuestas extremas o poco colaborativas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Making suggestions",
+      "Solving communication problems"
+    ],
+    "tiempo_estimado_segundos": 80,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0046",
+    "area": "Inglés",
+    "materia_interna": "Diálogos y situaciones comunicativas",
+    "tema": "Apology",
+    "subtema": "Responding appropriately",
+    "competencia": "Communicative competence",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 67,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Carlos: I'm sorry I couldn't send my part of the project last night. The power went out.\nJulia: ___ Please send it before noon so we can finish.",
+    "pregunta": "Choose the most appropriate response.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "I understand, but we still need it today."
+      },
+      {
+        "letra": "B",
+        "texto": "Never speak to me again."
+      },
+      {
+        "letra": "C",
+        "texto": "Electricity is a type of fruit."
+      },
+      {
+        "letra": "D",
+        "texto": "Good, then we don't need the project."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La respuesta A muestra comprensión, pero mantiene la necesidad de cumplir con el trabajo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: balancea empatía y responsabilidad.",
+      "B": "Es agresiva e inadecuada.",
+      "C": "Es incoherente.",
+      "D": "Contradice la necesidad de terminar el proyecto."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Diálogos y situaciones comunicativas",
+      "subtema_a_reforzar": "Responder a disculpas y establecer acuerdos",
+      "prioridad": "Media",
+      "acciones": [
+        "Practicar expresiones como I understand, but...",
+        "Diferenciar empatía de ausencia de límites.",
+        "Elegir respuestas coherentes con el objetivo del diálogo."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Responding to apologies",
+      "Maintaining collaborative tone"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0047",
+    "area": "Inglés",
+    "materia_interna": "Diálogos y situaciones comunicativas",
+    "tema": "Academic consultation",
+    "subtema": "Requesting feedback",
+    "competencia": "Communicative competence",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 80,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Student: I solved the problem, but I'm not sure my explanation is clear.\nTeacher: ___",
+    "pregunta": "Choose the best response from the teacher.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Show me your reasoning, and I can help you improve it."
+      },
+      {
+        "letra": "B",
+        "texto": "Clarity is never important in mathematics."
+      },
+      {
+        "letra": "C",
+        "texto": "Do not explain anything in a test."
+      },
+      {
+        "letra": "D",
+        "texto": "Your notebook is probably a vegetable."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El estudiante pide retroalimentación sobre claridad; la respuesta adecuada invita a mostrar el razonamiento y mejorarlo.",
+    "diagnostico_por_error": {
+      "A": "Correcta: responde con apoyo académico.",
+      "B": "Contradice la importancia de explicar.",
+      "C": "Es una recomendación académica incorrecta.",
+      "D": "Es incoherente."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Diálogos y situaciones comunicativas",
+      "subtema_a_reforzar": "Pedir y ofrecer retroalimentación",
+      "prioridad": "Alta",
+      "acciones": [
+        "Aprender frases como Show me..., Can you explain...?",
+        "Relacionar respuesta con la necesidad del hablante.",
+        "Evitar opciones que niegan el objetivo académico."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Requesting and giving feedback",
+      "Understanding academic interaction"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0048",
+    "area": "Inglés",
+    "materia_interna": "Diálogos y situaciones comunicativas",
+    "tema": "Planning",
+    "subtema": "Negotiating time",
+    "competencia": "Communicative competence",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 87,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Emma: We need to practice for the presentation, but I have a medical appointment at 4.\nNoah: I have basketball practice at 6. ___",
+    "pregunta": "Choose the response that best negotiates a solution.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Could we meet at 5 for thirty minutes and divide the last part online?"
+      },
+      {
+        "letra": "B",
+        "texto": "Then nobody should present tomorrow."
+      },
+      {
+        "letra": "C",
+        "texto": "Appointments and practices are the same word."
+      },
+      {
+        "letra": "D",
+        "texto": "Let's ignore the presentation completely."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La opción A reconoce las restricciones de ambos y propone una alternativa concreta y colaborativa.",
+    "diagnostico_por_error": {
+      "A": "Correcta: negocia tiempo y tareas.",
+      "B": "Es una solución extrema e injustificada.",
+      "C": "No responde al problema.",
+      "D": "Evita la responsabilidad académica."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Diálogos y situaciones comunicativas",
+      "subtema_a_reforzar": "Negociación y propuestas colaborativas",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Practicar Could we...? y Let's...",
+        "Identificar restricciones de cada persona.",
+        "Proponer soluciones específicas y realistas."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Negotiating plans",
+      "Proposing collaborative solutions"
+    ],
+    "tiempo_estimado_segundos": 100,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0049",
+    "area": "Inglés",
+    "materia_interna": "Diálogos y situaciones comunicativas",
+    "tema": "Service interaction",
+    "subtema": "Asking for information",
+    "competencia": "Communicative competence",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 76,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Receptionist: Good morning. How can I help you?\nStudent: ",
+    "pregunta": "Choose the most appropriate response.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Good morning. I would like to confirm my appointment with the school counselor."
+      },
+      {
+        "letra": "B",
+        "texto": "The weather is inside my backpack."
+      },
+      {
+        "letra": "C",
+        "texto": "No, because yesterday is green."
+      },
+      {
+        "letra": "D",
+        "texto": "I am a laboratory table."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La respuesta A es formal, coherente y corresponde a una interacción de recepción.",
+    "diagnostico_por_error": {
+      "A": "Correcta: formula una solicitud apropiada.",
+      "B": "Es incoherente.",
+      "C": "No responde a la pregunta de ayuda.",
+      "D": "Es incoherente con la situación."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Diálogos y situaciones comunicativas",
+      "subtema_a_reforzar": "Interacciones formales de servicio",
+      "prioridad": "Alta",
+      "acciones": [
+        "Practicar I would like to...",
+        "Identificar el rol del interlocutor.",
+        "Elegir respuestas completas y corteses."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Making polite requests",
+      "Understanding service contexts"
+    ],
+    "tiempo_estimado_segundos": 75,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0050",
+    "area": "Inglés",
+    "materia_interna": "Conectores, coherencia y organización textual",
+    "tema": "Connectors",
+    "subtema": "Contrast",
+    "competencia": "Text coherence",
+    "nivel_dificultad": "Básica diagnóstica",
+    "dificultad_porcentaje": 48,
+    "peso_dificultad": 1.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nThe exercise was difficult, ___ the students finished it together.",
+    "pregunta": "Choose the best connector.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "but"
+      },
+      {
+        "letra": "B",
+        "texto": "because"
+      },
+      {
+        "letra": "C",
+        "texto": "so"
+      },
+      {
+        "letra": "D",
+        "texto": "before"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La oración presenta contraste: fue difícil, pero lo terminaron. Por eso se usa 'but'.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa conector de contraste.",
+      "B": "Because introduce causa, no contraste.",
+      "C": "So introduce consecuencia, no contraste directo.",
+      "D": "Before indica tiempo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Conectores, coherencia y organización textual",
+      "subtema_a_reforzar": "Conectores de contraste",
+      "prioridad": "Media",
+      "acciones": [
+        "Practicar but, however y although.",
+        "Identificar si las ideas se oponen o se complementan.",
+        "Traducir mentalmente la relación lógica antes de elegir."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using contrast connectors",
+      "Understanding sentence coherence"
+    ],
+    "tiempo_estimado_segundos": 55,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0051",
+    "area": "Inglés",
+    "materia_interna": "Conectores, coherencia y organización textual",
+    "tema": "Connectors",
+    "subtema": "Cause",
+    "competencia": "Text coherence",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 60,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nThe team changed its plan ___ the first experiment did not work.",
+    "pregunta": "Choose the best connector.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "because"
+      },
+      {
+        "letra": "B",
+        "texto": "although"
+      },
+      {
+        "letra": "C",
+        "texto": "before"
+      },
+      {
+        "letra": "D",
+        "texto": "and"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La segunda parte explica la causa del cambio de plan: el primer experimento no funcionó.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa conector causal.",
+      "B": "Although introduce contraste.",
+      "C": "Before indica secuencia temporal.",
+      "D": "And solo añade información, no expresa causa clara."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Conectores, coherencia y organización textual",
+      "subtema_a_reforzar": "Conectores de causa",
+      "prioridad": "Media",
+      "acciones": [
+        "Relacionar because con preguntas Why?",
+        "Diferenciar causa, contraste y secuencia.",
+        "Completar oraciones explicando razones."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using cause connectors",
+      "Understanding logical relations"
+    ],
+    "tiempo_estimado_segundos": 60,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0052",
+    "area": "Inglés",
+    "materia_interna": "Conectores, coherencia y organización textual",
+    "tema": "Connectors",
+    "subtema": "Result",
+    "competencia": "Text coherence",
+    "nivel_dificultad": "Media",
+    "dificultad_porcentaje": 66,
+    "peso_dificultad": 1.25,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\nThe instructions were unclear, ___ many students asked the teacher for help.",
+    "pregunta": "Choose the best connector.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "so"
+      },
+      {
+        "letra": "B",
+        "texto": "but"
+      },
+      {
+        "letra": "C",
+        "texto": "although"
+      },
+      {
+        "letra": "D",
+        "texto": "while"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La falta de claridad produce una consecuencia: muchos estudiantes pidieron ayuda. 'So' expresa resultado.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica relación de consecuencia.",
+      "B": "But marcaría contraste, no resultado.",
+      "C": "Although introduce concesión.",
+      "D": "While puede indicar simultaneidad o contraste, no resultado directo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Conectores, coherencia y organización textual",
+      "subtema_a_reforzar": "Conectores de consecuencia",
+      "prioridad": "Media",
+      "acciones": [
+        "Asociar so con resultado.",
+        "Preguntar qué pasó como consecuencia.",
+        "Practicar pares cause-result."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using result connectors",
+      "Understanding cause-result relations"
+    ],
+    "tiempo_estimado_segundos": 65,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0053",
+    "area": "Inglés",
+    "materia_interna": "Conectores, coherencia y organización textual",
+    "tema": "Text organization",
+    "subtema": "Ordering ideas",
+    "competencia": "Text coherence",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 76,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Choose the sentence that best completes the paragraph:\nTo prepare for the speaking task, students should follow three steps. First, they choose a topic. Next, they write three key ideas. ___ Finally, they practice speaking without reading every word.",
+    "pregunta": "Which sentence fits best?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Then, they organize those ideas in a logical order."
+      },
+      {
+        "letra": "B",
+        "texto": "However, the school bus is usually yellow."
+      },
+      {
+        "letra": "C",
+        "texto": "In conclusion, they choose the topic first."
+      },
+      {
+        "letra": "D",
+        "texto": "Because they never need to speak."
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El párrafo presenta una secuencia de pasos. Después de escribir ideas, lo lógico es organizarlas antes de practicar.",
+    "diagnostico_por_error": {
+      "A": "Correcta: mantiene secuencia y coherencia.",
+      "B": "Introduce información irrelevante.",
+      "C": "Repite un paso anterior y usa cierre prematuro.",
+      "D": "No completa gramatical ni lógicamente el párrafo."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Conectores, coherencia y organización textual",
+      "subtema_a_reforzar": "Organización secuencial",
+      "prioridad": "Alta",
+      "acciones": [
+        "Identificar conectores First, Next, Then, Finally.",
+        "Verificar que la oración avance el proceso.",
+        "Descartar información irrelevante al tema."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Organizing ideas",
+      "Maintaining paragraph coherence"
+    ],
+    "tiempo_estimado_segundos": 95,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0054",
+    "area": "Inglés",
+    "materia_interna": "Conectores, coherencia y organización textual",
+    "tema": "Connectors",
+    "subtema": "Concession",
+    "competencia": "Text coherence",
+    "nivel_dificultad": "Alta",
+    "dificultad_porcentaje": 82,
+    "peso_dificultad": 1.6,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Complete the sentence:\n the article was short, it included useful information about healthy habits.",
+    "pregunta": "Choose the best connector.",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Although"
+      },
+      {
+        "letra": "B",
+        "texto": "Because"
+      },
+      {
+        "letra": "C",
+        "texto": "So"
+      },
+      {
+        "letra": "D",
+        "texto": "And"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "La oración expresa concesión: aunque el artículo era corto, tenía información útil. 'Although' introduce esa relación.",
+    "diagnostico_por_error": {
+      "A": "Correcta: usa conector concesivo.",
+      "B": "Because indicaría causa, pero ser corto no causa necesariamente utilidad.",
+      "C": "So requiere una consecuencia y no encaja al inicio.",
+      "D": "And no expresa la relación lógica necesaria."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Conectores, coherencia y organización textual",
+      "subtema_a_reforzar": "Although y concesión",
+      "prioridad": "Alta",
+      "acciones": [
+        "Practicar although + clause.",
+        "Identificar relaciones tipo 'aunque'.",
+        "Comparar although con because y so."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Using concession connectors",
+      "Understanding contrast with concession"
+    ],
+    "tiempo_estimado_segundos": 85,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  },
+  {
+    "id": "ING-0055",
+    "area": "Inglés",
+    "materia_interna": "Conectores, coherencia y organización textual",
+    "tema": "Paragraph coherence",
+    "subtema": "Irrelevant sentence",
+    "competencia": "Text coherence",
+    "nivel_dificultad": "Muy alta",
+    "dificultad_porcentaje": 90,
+    "peso_dificultad": 2.0,
+    "ponderacion_area": 0.1,
+    "tipo_pregunta": "seleccion_multiple_unica_respuesta",
+    "contexto": "Read the paragraph:\n(1) Many students use planners to organize their homework. (2) A planner can help them see deadlines and divide large tasks into smaller steps. (3) Some planners are made of paper, while others are digital. (4) The cafeteria sells soup on Fridays. (5) Choosing a planner depends on each student's habits and access to technology.",
+    "pregunta": "Which sentence does NOT belong in the paragraph?",
+    "opciones": [
+      {
+        "letra": "A",
+        "texto": "Sentence 4"
+      },
+      {
+        "letra": "B",
+        "texto": "Sentence 2"
+      },
+      {
+        "letra": "C",
+        "texto": "Sentence 3"
+      },
+      {
+        "letra": "D",
+        "texto": "Sentence 5"
+      }
+    ],
+    "respuesta_correcta": "A",
+    "explicacion": "El párrafo trata sobre planificadores para organizar tareas. La oración 4 habla de sopa en la cafetería y rompe la coherencia temática.",
+    "diagnostico_por_error": {
+      "A": "Correcta: identifica la oración irrelevante.",
+      "B": "La oración 2 explica la utilidad del planificador.",
+      "C": "La oración 3 compara tipos de planificadores.",
+      "D": "La oración 5 cierra coherentemente el tema."
+    },
+    "recomendacion_si_falla": {
+      "tema_a_estudiar": "Conectores, coherencia y organización textual",
+      "subtema_a_reforzar": "Coherencia temática en párrafos",
+      "prioridad": "Muy alta",
+      "acciones": [
+        "Identificar el tema central del párrafo.",
+        "Revisar si cada oración aporta al mismo tema.",
+        "Detectar cambios bruscos de asunto."
+      ]
+    },
+    "habilidades_evaluadas": [
+      "Identifying irrelevant information",
+      "Maintaining paragraph coherence"
+    ],
+    "tiempo_estimado_segundos": 105,
+    "fuente": {
+      "tipo": "generada_originalmente",
+      "autor": "IA",
+      "requiere_revision_humana": true
+    }
+  }
+]
